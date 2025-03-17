@@ -1,0 +1,12 @@
+
+Debug/
+Release/
+
+.vs/
+MFCApplication1.suo
+MFCApplication1.vcxproj.user
+
+MFCApplication1.aps
+MFCApplication1.ilk
+MFCApplication1.pdb
+MFCApplication1.tlog/
