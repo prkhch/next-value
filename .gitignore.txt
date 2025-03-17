@@ -1,0 +1,5 @@
+MFCApplication1/res/
+MFCApplication1/.vs/
+MFCApplication1/Debug/
+
+MFCApplication1.aps
