@@ -21,6 +21,14 @@ int main() {
 	
 
 	// 현재 : 모든 경우의수 중 특정 행 중 True False가 겹치는지
+	for(int i=0; i< (1<<N); i++) {
+ 		for(int j=0; j<N; j++) {
+   			if(row[i] & (1<<j)) {
+      				
+      			}
+   		}
+ 	}
+ 
 	
 
 }     
