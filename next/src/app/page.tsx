@@ -1,4 +1,5 @@
 import Link from "next/link";
+import TestApiButton from "@/components/TestApiButton";
 
 export default function Home() {
   return (
@@ -9,6 +10,9 @@ export default function Home() {
       </div>
       <div>
         <Link href="/datasets">Datasets</Link>
+      </div>
+      <div>
+        <TestApiButton />
       </div>
     </main>
   );
