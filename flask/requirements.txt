@@ -29,3 +29,9 @@ stanio==0.3.0
 tqdm==4.66.1
 tzdata==2023.4
 Werkzeug==3.0.1
+
+# C:\msys64\ucrt64\bin\python.exe MSYS2의 Python을 사용하여 venv/bin/activate와 같은 리눅스식 경로로 가상환경실행
+# Python 3.10 재설치
+# Msys64 python 삭제 및 Path msys64\ucrt64\bin제거
+# venv/Scripts/activate
+# export FLASK_APP=flag
