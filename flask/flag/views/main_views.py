@@ -35,6 +35,10 @@ def read_file(fileData):
     return df
 
 
+@bp.route("/api/flask/test", methods=['GET'])
+def flaskTest() :
+    return "return flaskTest"
+
 @bp.route("/api/flask/pandas", methods=['POST'])
 def toPandas():
     fileData = request.files.get('file')
