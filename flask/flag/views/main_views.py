@@ -68,6 +68,8 @@ def toPandas():
 
 @bp.route("/api/flask/prophet", methods=['POST'])
 def toProphet():
+    print("files:", request.files)
+    print("form:", request.form)
     file_data = request.files.get('file')
     string_options = request.form.get("options")
     options = json.loads(string_options)
