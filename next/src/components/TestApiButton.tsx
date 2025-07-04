@@ -1,5 +1,7 @@
 "use client";
 import { useState } from "react";
+import Carousel from "@/components/Carousel";
+import { Charts } from "@/types/Charts";
 
 async function testApi() {
   const response = await fetch("/api/test");
@@ -14,17 +16,19 @@ async function testApi2() {
   console.log(response);
 }
 
-// 파일 전송 API
-async function sendFileToProphetAPI(formData: FormData) {
-  const response = await fetch("/api/prophet", {
-    method: "POST",
-    body: formData,
-  });
-  const result = await response.json();
-  console.log(result); // Base64 이미지 리턴 확인
-}
-
 export default function TestApiButton() {
+  const [chartsObj, setChartsObj] = useState<Charts>({});
+  // 파일 전송 API
+  async function sendFileToProphetAPI(formData: FormData) {
+    const response = await fetch("/api/prophet", {
+      method: "POST",
+      body: formData,
+    });
+    const result = await response.json();
+    setChartsObj(result.res);
+    console.log(result); // Base64 이미지 리턴 확인
+  }
+
   // https://ethanmick.com/how-to-upload-a-file-in-next-js-13-app-directory/
   // 브라우저 파일 업로드
   // Upload, (csv, xls, xlsx)
@@ -85,6 +89,8 @@ export default function TestApiButton() {
         />
         <button type="submit">전송</button>
       </form>
+
+      {Object.keys(chartsObj).length > 0 && <Carousel chartsObj={chartsObj} />}
     </div>
   );
 }
