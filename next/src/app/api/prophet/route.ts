@@ -12,8 +12,12 @@ export async function POST(request: Request) {
       body: formData,
     }
   );
-
   const res = await flaskRes.json();
+
+  // if (!flaskRes.ok || res.error) {
+  //   return new Response(JSON.stringify({ res }), { status: 400 });
+  // }
+
   return Response.json({ res });
 }
 

@@ -24,9 +24,13 @@ export default function TestApiButton() {
       method: "POST",
       body: formData,
     });
+
     const result = await response.json();
-    setChartsObj(result.res);
-    console.log(result); // Base64 이미지 리턴 확인
+    if (!response.ok || result.res?.error) {
+      alert(result.res?.error || "예상치 못한 오류가 발생했습니다.");
+      return;
+    }
+    setChartsObj(result.res); // 정상적으로 들어온 이미지 정보
   }
 
   // https://ethanmick.com/how-to-upload-a-file-in-next-js-13-app-directory/
