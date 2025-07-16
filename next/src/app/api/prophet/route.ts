@@ -1,10 +1,17 @@
 // https://sangsangjin.tistory.com/29
 export async function POST(request: Request) {
   const formData = await request.formData();
-  const flaskRes = await fetch("http://127.0.0.1:5000/api/flask/prophet", {
-    method: "POST",
-    body: formData,
-  });
+  // const flaskRes = await fetch("http://127.0.0.1:5000/api/flask/prophet", {
+  //   method: "POST",
+  //   body: formData,
+  // });
+  const flaskRes = await fetch(
+    "https://fwp-te66.onrender.com/api/flask/prophet",
+    {
+      method: "POST",
+      body: formData,
+    }
+  );
 
   const res = await flaskRes.json();
   return Response.json({ res });
