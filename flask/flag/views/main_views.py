@@ -74,6 +74,10 @@ def toProphet():
     string_options = request.form.get("options")
     options = json.loads(string_options)
 
+    min_row_count = 10
+    max_row_count = 5000
+    min_days_range = 1095
+
     if file_data:
         df = read_file(file_data)
         images_dict = {}
@@ -82,6 +86,17 @@ def toProphet():
             for column in df.keys()[1:]:
                 single_df = df[['Date', column]]  # 데이터셋 분리
                 single_df = single_df.rename(columns={'Date': 'ds', column: 'y'})  # 데이터셋 열이름 변경
+
+            
+                # 날짜 간격이 3년(1825일)을 초과하면 스킵
+                if (single_df['ds'].max() - single_df['ds'].min()).days > min_days_range:
+                    print(f"[SKIP] '{column}' has date range too wide.")
+                    continue
+                # 행 수가 10개 미만이거나 5,000개 초과하면 스킵
+                if min_row_count < single_df.shape[0] < max_row_count:
+                    print(f"[SKIP] '{column}' has too many rows.")
+                    continue
+
                 m = Prophet(
                     growth=options["growth"],
                     changepoint_prior_scale=options["cpScale"],
