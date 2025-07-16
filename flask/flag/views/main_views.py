@@ -76,8 +76,8 @@ def toProphet():
 
     min_row_count = 10
     max_row_count = 5000
-    min_days_range = 1095
-
+    min_days_range = 30
+    max_days_range = 365 * 3  # 3년
     if file_data:
         df = read_file(file_data)
         images_dict = {}
@@ -87,15 +87,19 @@ def toProphet():
                 single_df = df[['Date', column]]  # 데이터셋 분리
                 single_df = single_df.rename(columns={'Date': 'ds', column: 'y'})  # 데이터셋 열이름 변경
 
-            
-                # 날짜 간격이 3년(1825일)을 초과하면 스킵
-                if (single_df['ds'].max() - single_df['ds'].min()).days > min_days_range:
-                    print(f"[SKIP] '{column}' has date range too wide.")
-                    continue
-                # 행 수가 10개 미만이거나 5,000개 초과하면 스킵
-                if min_row_count < single_df.shape[0] < max_row_count:
-                    print(f"[SKIP] '{column}' has too many rows.")
-                    continue
+                # 날짜 범위 검사
+                date_range_days = (single_df['ds'].max() - single_df['ds'].min()).days
+                if date_range_days < min_days_range:
+                    return jsonify({'error': f"'{column}'의 날짜 범위가 너무 짧습니다. 최소 {min_days_range}일 이상 필요합니다."}), 400
+                if date_range_days > max_days_range:
+                    return jsonify({'error': f"'{column}'의 날짜 범위가 너무 깁니다. 최대 {max_days_range // 365}년 이하로 줄여주세요."}), 400
+
+                # 행 수 검사
+                row_count = single_df.shape[0]
+                if row_count < min_row_count:
+                    return jsonify({'error': f"'{column}'의 행 수가 너무 적습니다. 최소 {min_row_count}개 이상 필요합니다."}), 400
+                if row_count > max_row_count:
+                    return jsonify({'error': f"'{column}'의 행 수가 너무 많습니다. 최대 {max_row_count}개 이하로 줄여주세요."}), 400
 
                 m = Prophet(
                     growth=options["growth"],
