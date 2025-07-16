@@ -86,7 +86,7 @@ def toProphet():
             for column in df.keys()[1:]:
                 single_df = df[['Date', column]]  # 데이터셋 분리
                 single_df = single_df.rename(columns={'Date': 'ds', column: 'y'})  # 데이터셋 열이름 변경
-
+                single_df['ds'] = pd.to_datetime(single_df['ds'], errors='coerce')
                 # 날짜 범위 검사
                 date_range_days = (single_df['ds'].max() - single_df['ds'].min()).days
                 if date_range_days < min_days_range:
