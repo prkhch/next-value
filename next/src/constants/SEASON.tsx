@@ -1,4 +1,4 @@
-import { Season } from "types/Season";
+import { Season } from "@/types/Season";
 
 export const SEASON: Season = {
   Auto: "auto",

@@ -1,5 +1,3 @@
-import React from "react";
-
 const handleBase64ToBlob = (base64: string, contentType: string) => {
   const binaryString = atob(base64);
   const len = binaryString.length;
