@@ -41,14 +41,15 @@ def flaskTest() :
     return "return flaskTest"
 
 @bp.route("/stock/price/daily", methods=["GET"])
-def stock_price_daily(symbol):
+def stock_price_daily(symbol, days):
     if not symbol:
         return jsonify({"error": "Missing 'symbol' parameter"}), 400
 
-    end_date = datetime.datetime.today()
-    start_date = end_date - datetime.timedelta(days=365)
+    end_date = datetime.date.today() - datetime.timedelta(days=1)
+    start_date = end_date - datetime.timedelta(days=days) - datetime.timedelta(days=1)
 
-    df = yf.download(symbol, start=start_date, end=end_date)
+    df = yf.download(symbol, start=start_date, end=end_date + datetime.timedelta(days=1))
+
     if df.empty:
         return jsonify({"error": f"No data found for symbol '{symbol}'"}), 404
     # Price            Close        High         Low        Open    Volume
@@ -74,24 +75,26 @@ def stock_price_daily(symbol):
     # 0   2024-07-22  222.917480
     # 1   2024-07-23  223.962601
 
+    df["y"] = df["y"].round(2)
+
     return df
 
+# https://facebook.github.io/prophet/docs/quick_start.html
 @bp.route("/prophet/stock/price", methods=["GET"])
 def stock_price_prophet():
     symbol = request.args.get("symbol", "AAPL")
-    df = stock_price_daily(symbol)
+    days = 2
+    df = stock_price_daily(symbol, days)
 
-    model = Prophet()  # 모델 생성
-    model.fit(df)  # 피팅
+    m = Prophet()  # 모델 생성
+    m.fit(df)  # 피팅
 
-    future = model.make_future_dataframe(periods=1)
-    print("ft@@@@", future)
-    forecast = model.predict(future)
-    print("fc@@@", forecast)
-
-    predicted = forecast.iloc[-1][["ds", "yhat"]]
-    return 1
-    return predicted
+    future = m.make_future_dataframe(periods=1)
+    forecast = m.predict(future)
+    
+    return jsonify({
+        "predict_price": round(forecast[['yhat']].tail(1).values[0][0],4)
+    })
 
 # @bp.route("/api/flask/pandas", methods=['POST'])
 # def toPandas():
