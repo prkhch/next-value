@@ -1,14 +1,8 @@
 // import handleForamatDate from "@/utils/handleForamatDate";
 
-export async function getClosingPrice({
-  symbol,
-  range,
-}: {
-  symbol: string;
-  range: string;
-}) {
+export async function getClosingPrice({ symbol }: { symbol: string }) {
   const response = await fetch(
-    `http://localhost:3000/api/stock?symbol=${symbol}&range=${range}`,
+    `http://localhost:3000/api/stock?symbol=${symbol}`,
     {
       method: "GET",
     }

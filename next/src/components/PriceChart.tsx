@@ -1,6 +1,6 @@
 "use client";
 import { Chart } from "chart.js/auto";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const PriceChart = ({
   labels,
@@ -11,16 +11,24 @@ const PriceChart = ({
 }) => {
   const canvasEl = useRef(null);
 
+  const [range, setRange] = useState(365);
+  const [newPrices, setNewPrices] = useState(prices);
+  const [newLabels, setNewLabels] = useState(labels);
+  useEffect(() => {
+    setNewLabels(labels.slice(-range));
+    setNewPrices(prices.slice(-range));
+  }, [range, prices, labels]);
+
   useEffect(() => {
     if (canvasEl.current !== null) {
       const ctx = canvasEl.current;
 
       const data = {
-        labels: labels,
+        labels: newLabels,
         datasets: [
           {
             label: "종가",
-            data: prices,
+            data: newPrices,
             fill: false,
             borderColor: "rgb(0, 0, 0)",
             pointBorderWidth: 5,
@@ -71,6 +79,13 @@ const PriceChart = ({
   return (
     <>
       <canvas ref={canvasEl} />
+      <input
+        type="number"
+        value={range}
+        min={2}
+        max={labels.length}
+        onChange={(e) => setRange(Number(e.target.value))}
+      />
     </>
   );
 };

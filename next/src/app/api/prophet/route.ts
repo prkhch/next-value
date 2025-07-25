@@ -1,41 +1,17 @@
 // https://sangsangjin.tistory.com/29
-export async function POST(request: Request) {
-  const formData = await request.formData();
-  // const flaskRes = await fetch("http://127.0.0.1:5000/api/flask/prophet", {
-  //   method: "POST",
-  //   body: formData,
-  // });
+export async function GET(request: Request) {
+  const { searchParams } = new URL(request.url); // https://developer.mozilla.org/ko/docs/Web/API/URL/searchParams
+  const symbol = searchParams.get("symbol");
+  const range = searchParams.get("range");
+
   const flaskRes = await fetch(
-    "https://fwp-te66.onrender.com/api/flask/prophet",
+    // "https://fwp-te66.onrender.com/api/flask/prophet",
+    `http://127.0.0.1:5000/api/flask/prophet?symbol=${symbol}&range=${range}`,
     {
-      method: "POST",
-      body: formData,
+      method: "GET",
     }
   );
   const res = await flaskRes.json();
 
-  // if (!flaskRes.ok || res.error) {
-  //   return new Response(JSON.stringify({ res }), { status: 400 });
-  // }
-
   return Response.json({ res });
 }
-
-// json { file : , options : }
-/*
-    growth: "linear",
-    dfCap: 6,
-    dfFloor: 1.5,
-    ftCap: 6,
-    ftFloor: 1.5,
-    cpScale: 0.05,
-    cpList: [],
-    cpThreshold: 0.01,
-    periods: 365,
-    holidays: "none",
-    holidayScale: 10,
-    yearlyScale: "auto",
-    weeklyScale: "auto",
-    seasonMode: "additive",
-    seasonScale: 10,
-*/
