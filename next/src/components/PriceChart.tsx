@@ -1,17 +1,20 @@
 "use client";
 import { Chart } from "chart.js/auto";
 import { useEffect, useRef, useState } from "react";
+import ForcastingResult from "@/components/ForcastingResult";
 
 const PriceChart = ({
   labels,
   prices,
+  symbol,
 }: {
   labels: string[];
   prices: string[];
+  symbol: string;
 }) => {
   const canvasEl = useRef(null);
 
-  const [range, setRange] = useState(365);
+  const [range, setRange] = useState("365");
   const [newPrices, setNewPrices] = useState(prices);
   const [newLabels, setNewLabels] = useState(labels);
   useEffect(() => {
@@ -58,8 +61,8 @@ const PriceChart = ({
             padding: {
               left: 100,
               right: 100,
-              top: 100,
-              bottom: 100,
+              top: 0,
+              bottom: 0,
             },
           },
           plugins: {
@@ -84,8 +87,9 @@ const PriceChart = ({
         value={range}
         min={2}
         max={labels.length}
-        onChange={(e) => setRange(Number(e.target.value))}
+        onChange={(e) => setRange(e.target.value)}
       />
+      <ForcastingResult symbol={symbol} range={range} />
     </>
   );
 };

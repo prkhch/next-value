@@ -1,6 +1,8 @@
+import { NextRequest } from "next/server";
+
 // https://sangsangjin.tistory.com/29
-export async function GET(request: Request) {
-  const { searchParams } = new URL(request.url); // https://developer.mozilla.org/ko/docs/Web/API/URL/searchParams
+export async function GET(request: NextRequest) {
+  const { searchParams } = request.nextUrl; // https://developer.mozilla.org/ko/docs/Web/API/URL/searchParams
   const symbol = searchParams.get("symbol");
   const range = searchParams.get("range");
 

@@ -13,5 +13,5 @@ export async function getForcastingResult({
   );
 
   const result = await response.json();
-  return result.predict_price;
+  return result;
 }
