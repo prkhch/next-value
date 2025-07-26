@@ -41,12 +41,12 @@ def flaskTest() :
     return "return flaskTest"
 
 @bp.route("/stock/price/daily", methods=["GET"])
-def stock_price_daily(symbol, days):
+def stock_price_daily(symbol, range):
     if not symbol:
         return jsonify({"error": "Missing 'symbol' parameter"}), 400
 
     end_date = datetime.date.today() - datetime.timedelta(days=1)
-    start_date = end_date - datetime.timedelta(days=days) - datetime.timedelta(days=1)
+    start_date = end_date - datetime.timedelta(days=int(range)) - datetime.timedelta(days=1)
 
     df = yf.download(symbol, start=start_date, end=end_date + datetime.timedelta(days=1))
 
@@ -76,21 +76,22 @@ def stock_price_daily(symbol, days):
     # 1   2024-07-23  223.962601
 
     df["y"] = df["y"].round(2)
-
+    print(df)
     return df
 
 # https://facebook.github.io/prophet/docs/quick_start.html
-@bp.route("/prophet/stock/price", methods=["GET"])
+@bp.route("/api/flask/prophet", methods=["GET"])
 def stock_price_prophet():
-    symbol = request.args.get("symbol", "AAPL")
-    days = 2
-    df = stock_price_daily(symbol, days)
-
-    m = Prophet()  # 모델 생성
+    symbol = request.args.get("symbol")
+    range = request.args.get("range")
+    df = stock_price_daily(symbol, range)
+    print("Df@@@" , df)
+    m = Prophet(weekly_seasonality=False)  # 모델 생성
     m.fit(df)  # 피팅
 
     future = m.make_future_dataframe(periods=1)
     forecast = m.predict(future)
+    print("resut", round(forecast))
     
     return jsonify({
         "predict_price": round(forecast[['yhat']].tail(1).values[0][0],4)
