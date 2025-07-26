@@ -1,3 +1,5 @@
+import { notFound } from "next/navigation";
+
 import PriceChart from "@/components/PriceChart";
 import { getClosingPrice } from "@/utils/fetchStock";
 import handleForamatDate from "@/utils/handleForamatDate";
@@ -10,6 +12,14 @@ export default async function Chart({
   const symbol = (await searchParams).symbol;
 
   const dataset = await getClosingPrice({ symbol });
+  if (
+    dataset.res.chart.result === null ||
+    dataset.res.chart.error ||
+    dataset.res.chart.result[0].timestamp == null
+  ) {
+    // 404 NotFound
+    notFound();
+  }
 
   const formattedDates = dataset.res.chart.result[0].timestamp.map(
     (i: number) => handleForamatDate(i * 1000)

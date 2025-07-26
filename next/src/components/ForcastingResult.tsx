@@ -15,7 +15,6 @@ const ForcastingResult = ({
   const handleFetch = async () => {
     setLoading(true);
     const result = await getForcastingResult({ symbol, range });
-    console.log(result);
     setForcastingResult(result.res.predict_price);
     setLoading(false);
   };
