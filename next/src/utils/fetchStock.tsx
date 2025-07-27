@@ -2,7 +2,8 @@
 
 export async function getClosingPrice({ symbol }: { symbol: string }) {
   const response = await fetch(
-    `http://localhost:3000/api/stock?symbol=${symbol}`,
+    // `http://localhost:3000/api/stock?symbol=${symbol}`,
+    `http://fwp-phi.vercel.app/api/stock?symbol=${symbol}`,
     {
       method: "GET",
     }

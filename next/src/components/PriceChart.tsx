@@ -3,20 +3,25 @@ import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import zoomPlugin from "chartjs-plugin-zoom";
 import ForcastingResult from "@/components/ForcastingResult";
+import RangeInput from "@/components/RangeInput";
 
 const PriceChart = ({
   labels,
   prices,
   symbol,
+  currency,
+  longName,
 }: {
   labels: string[];
   prices: string[];
   symbol: string;
+  currency: string;
+  longName: string;
 }) => {
   const canvasEl = useRef(null);
   Chart.register(zoomPlugin);
 
-  const [range, setRange] = useState("365");
+  const [range, setRange] = useState("");
   const [newPrices, setNewPrices] = useState(prices);
   const [newLabels, setNewLabels] = useState(labels);
   useEffect(() => {
@@ -32,12 +37,12 @@ const PriceChart = ({
         labels: newLabels,
         datasets: [
           {
-            label: "종가",
+            label: currency,
             data: newPrices,
             fill: false,
             borderColor: "rgb(0, 0, 0)",
-            pointBorderWidth: 3,
-            pointRadius: 0.5,
+            pointBorderWidth: 2,
+            pointRadius: 1,
             tension: 0.1,
           },
         ],
@@ -68,6 +73,14 @@ const PriceChart = ({
             },
           },
           plugins: {
+            title: {
+              display: true,
+              text: longName,
+              color: "rgb(0, 0, 0)",
+            },
+            tooltip: {
+              displayColors: false,
+            },
             legend: {
               display: false,
             },
@@ -79,6 +92,10 @@ const PriceChart = ({
                 pinch: {
                   enabled: true,
                 },
+                mode: "x",
+              },
+              pan: {
+                enabled: true,
                 mode: "xy",
               },
             },
@@ -95,18 +112,14 @@ const PriceChart = ({
   return (
     <>
       <canvas ref={canvasEl} className="w-full h-100" />
-      <input
-        type="number"
-        value={range}
-        min={2}
-        max={labels.length}
-        onChange={(e) => setRange(e.target.value)}
-      />
+      <RangeInput range={range} setRange={setRange} />
       <ForcastingResult symbol={symbol} range={range} />
     </>
   );
 };
+
 // https://velog.io/@yewon6282/Chart.js-%ED%95%99%EC%8A%B5
 // https://yeon22.github.io/Chartjs-kr/docs/latest/charts/line.html
+// https://www.chartjs.org/chartjs-plugin-zoom/latest/guide/#installation
 
 export default PriceChart;

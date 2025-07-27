@@ -31,15 +31,12 @@ export default async function Chart({
     <main>
       <Logo />
       <SearchBar />
-      <div>
-        {dataset.res.chart.result[0].meta.longName}(
-        {dataset.res.chart.result[0].meta.symbol})
-      </div>
-      <div>{dataset.res.chart.result[0].meta.currency}</div>
       <PriceChart
         labels={formattedDates}
         prices={dataset.res.chart.result[0].indicators.quote[0].close}
         symbol={symbol}
+        currency={dataset.res.chart.result[0].meta.currency}
+        longName={dataset.res.chart.result[0].meta.longName}
       />
     </main>
   );

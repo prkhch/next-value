@@ -8,7 +8,8 @@ export async function GET(request: NextRequest) {
 
   const flaskRes = await fetch(
     // "https://fwp-te66.onrender.com/api/flask/prophet",
-    `http://127.0.0.1:5000/api/flask/prophet?symbol=${symbol}&range=${range}`,
+    // `http://127.0.0.1:5000/api/flask/prophet?symbol=${symbol}&range=${range}`,
+    `http://fwp-te66.onrender.com/api/flask/prophet?symbol=${symbol}&range=${range}`,
     {
       method: "GET",
     }
