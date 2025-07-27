@@ -1,4 +1,4 @@
-"use client"; // Link는 클라이언트 컴포넌트에서 사용해야 함
+"use client";
 import Link from "next/link";
 
 const Logo = () => {
