@@ -1,6 +1,7 @@
 "use client";
-import { Chart } from "chart.js/auto";
 import { useEffect, useRef, useState } from "react";
+import { Chart } from "chart.js/auto";
+import zoomPlugin from "chartjs-plugin-zoom";
 import ForcastingResult from "@/components/ForcastingResult";
 
 const PriceChart = ({
@@ -13,6 +14,7 @@ const PriceChart = ({
   symbol: string;
 }) => {
   const canvasEl = useRef(null);
+  Chart.register(zoomPlugin);
 
   const [range, setRange] = useState("365");
   const [newPrices, setNewPrices] = useState(prices);
@@ -35,7 +37,7 @@ const PriceChart = ({
             fill: false,
             borderColor: "rgb(0, 0, 0)",
             pointBorderWidth: 3,
-            pointRadius: 0.1,
+            pointRadius: 0.5,
             tension: 0.1,
           },
         ],
@@ -69,6 +71,17 @@ const PriceChart = ({
             legend: {
               display: false,
             },
+            zoom: {
+              zoom: {
+                wheel: {
+                  enabled: true,
+                },
+                pinch: {
+                  enabled: true,
+                },
+                mode: "xy",
+              },
+            },
           },
         },
       });
@@ -93,8 +106,7 @@ const PriceChart = ({
     </>
   );
 };
-
-export default PriceChart;
-
 // https://velog.io/@yewon6282/Chart.js-%ED%95%99%EC%8A%B5
 // https://yeon22.github.io/Chartjs-kr/docs/latest/charts/line.html
+
+export default PriceChart;
