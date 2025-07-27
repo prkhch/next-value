@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Time Series Forecasting with Prophet",
-  description:
-    "Prophet is a forecasting procedure implemented in  R and Python.  It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.",
+  title: "NextPrice",
+  description: "Prophet Based Time-Series Forecasting for Stock",
 };
 
 export default function RootLayout({
@@ -26,7 +25,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
+        <div className="min-h-screen w-full flex flex-col items-center pt-8">
+          {children}
+        </div>
       </body>
     </html>
   );

@@ -33,9 +33,9 @@ const PriceChart = ({
             label: "종가",
             data: newPrices,
             fill: false,
-            borderColor: "rgba(37, 78, 214, 0.507)",
+            borderColor: "rgb(0, 0, 0)",
             pointBorderWidth: 3,
-            pointRadius: 1,
+            pointRadius: 0.1,
             tension: 0.1,
           },
         ],
@@ -59,8 +59,8 @@ const PriceChart = ({
           },
           layout: {
             padding: {
-              left: 100,
-              right: 100,
+              left: 0,
+              right: 0,
               top: 0,
               bottom: 0,
             },
@@ -81,7 +81,7 @@ const PriceChart = ({
 
   return (
     <>
-      <canvas ref={canvasEl} />
+      <canvas ref={canvasEl} className="w-full h-100" />
       <input
         type="number"
         value={range}

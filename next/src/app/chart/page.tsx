@@ -4,6 +4,7 @@ import PriceChart from "@/components/PriceChart";
 import { getClosingPrice } from "@/utils/fetchStock";
 import handleForamatDate from "@/utils/handleForamatDate";
 import SearchBar from "@/components/SearchBar";
+import Logo from "@/components/Logo";
 
 export default async function Chart({
   searchParams,
@@ -28,6 +29,7 @@ export default async function Chart({
 
   return (
     <main>
+      <Logo />
       <SearchBar />
       <div>
         {dataset.res.chart.result[0].meta.longName}(

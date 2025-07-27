@@ -20,12 +20,12 @@ const ForcastingResult = ({
   };
 
   return (
-    <div>
+    <>
       {!loading && <button onClick={handleFetch}>예측</button>}
       {loading && <div>Loading...</div>}
 
       {forcastingResult !== null && <div>Next: {forcastingResult}</div>}
-    </div>
+    </>
   );
 };
 
