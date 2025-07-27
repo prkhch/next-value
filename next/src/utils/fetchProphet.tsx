@@ -7,7 +7,7 @@ export async function getForcastingResult({
 }) {
   const response = await fetch(
     // `http://localhost:3000/api/prophet?symbol=${symbol}&range=${range}`,
-    `http://fwp-phi.vercel.app/api/prophet?symbol=${symbol}&range=${range}`,
+    `https://fwp-phi.vercel.app/api/prophet?symbol=${symbol}&range=${range}`,
     {
       method: "GET",
     }
