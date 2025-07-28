@@ -2,7 +2,7 @@
 import { getForcastingResult } from "@/utils/fetchProphet";
 import { useState } from "react";
 
-const ForcastingResult = ({
+const ForcastingButton = ({
   symbol,
   range,
 }: {
@@ -20,12 +20,12 @@ const ForcastingResult = ({
   };
 
   return (
-    <>
+    <div className="">
       {!loading && (
         <button
           onClick={handleFetch}
           type="button"
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+          className="cursor-pointer text-gray-900 shadow-md bg-gray-50 hover:bg-black hover:text-gray-50 focus:ring-4 focus:ring-blue-300 font-medium rounded-md text-sm px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
         >
           Run
         </button>
@@ -35,12 +35,12 @@ const ForcastingResult = ({
         <button
           disabled
           type="button"
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 text-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 inline-flex items-center"
+          className=" text-gray-900 shadow-md bg-gray-50 focus:ring-4 focus:outline-none font-medium rounded-md text-sm px-5 py-2.5 text-center inline-flex items-center"
         >
           <svg
             aria-hidden="true"
             role="status"
-            className="inline w-4 h-4 me-3 text-white animate-spin"
+            className="inline w-4 h-4 me-3 text-gray-400 animate-spin"
             viewBox="0 0 100 101"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +61,7 @@ const ForcastingResult = ({
       {forcastingResult !== null && (
         <div className="flex items-center">
           <svg
-            className="w-4 h-4 me-2 text-green-500 dark:text-green-400 shrink-0"
+            className="w-4 h-4 text-green-500 dark:text-green-400 shrink-0"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             fill="currentColor"
@@ -72,8 +72,8 @@ const ForcastingResult = ({
           <div>{forcastingResult}</div>
         </div>
       )}
-    </>
+    </div>
   );
 };
 
-export default ForcastingResult;
+export default ForcastingButton;

@@ -8,8 +8,8 @@ const RangeInput = ({
   setRange: React.Dispatch<SetStateAction<string>>;
 }) => {
   return (
-    <>
-      <form className="max-w-xs mx-auto mt-5">
+    <div className="w-50">
+      <form>
         <input
           type="number"
           id="quantity-input"
@@ -28,7 +28,7 @@ const RangeInput = ({
           }}
         />
       </form>
-    </>
+    </div>
   );
 };
 

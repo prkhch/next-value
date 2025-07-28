@@ -2,8 +2,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import zoomPlugin from "chartjs-plugin-zoom";
-import ForcastingResult from "@/components/ForcastingResult";
 import RangeInput from "@/components/RangeInput";
+import ForcastingButton from "@/components/ForcastingButton";
 
 const PriceChart = ({
   labels,
@@ -113,8 +113,10 @@ const PriceChart = ({
   return (
     <div className="w-full h-[60vh]">
       <canvas ref={canvasEl} />
-      <RangeInput range={range} setRange={setRange} />
-      <ForcastingResult symbol={symbol} range={range} />
+      <div className="flex justify-center items-center gap-4 mt-4">
+        <RangeInput range={range} setRange={setRange} />
+        <ForcastingButton symbol={symbol} range={range} />
+      </div>
     </div>
   );
 };
