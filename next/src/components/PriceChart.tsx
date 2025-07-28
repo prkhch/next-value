@@ -53,6 +53,7 @@ const PriceChart = ({
         data: data,
         options: {
           responsive: true,
+          maintainAspectRatio: false,
           scales: {
             x: {
               grid: {
@@ -110,11 +111,11 @@ const PriceChart = ({
   });
 
   return (
-    <>
-      <canvas ref={canvasEl} className="w-full h-100" />
+    <div className="w-full h-[60vh]">
+      <canvas ref={canvasEl} />
       <RangeInput range={range} setRange={setRange} />
       <ForcastingResult symbol={symbol} range={range} />
-    </>
+    </div>
   );
 };
 

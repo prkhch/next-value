@@ -28,7 +28,7 @@ export default async function Chart({
   );
 
   return (
-    <main>
+    <main className="w-full">
       <Logo />
       <SearchBar />
       <PriceChart
