@@ -22,7 +22,6 @@ export default async function Chart({
     // 404 NotFound
     notFound();
   }
-  console.log(dataset);
   const formattedDates = dataset.res.chart.result[0].timestamp.map(
     (i: number) => handleForamatDate(i * 1000)
   );

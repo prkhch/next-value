@@ -1,16 +1,16 @@
 export default function Footer() {
   return (
     <div>
-      <footer className="w-full flex justify-center border-t border-gray-400 py-[5px] text-[12px] text-gray-400 font-light">
-        <span className="mx-[5px]">@prkhch</span>
-        <span className="mx-[5px]">|</span>
-        <span className="mx-[5px]">shjc4623@gmail.com</span>
-        <span className="mx-[5px]">|</span>
+      <footer className="w-full flex justify-center border-t border-gray-200 text-xs text-gray-400 font-thin">
+        <span className="mx-1">@prkhch</span>
+        <span className="mx-1">|</span>
+        <span className="mx-1">shjc4623@gmail.com</span>
+        <span className="mx-1">|</span>
         <a
           href="https://facebook.github.io/prophet/"
           target="_blank"
           rel="noopener noreferrer"
-          className="mx-[5px] hover:underline"
+          className="mx-1 hover:underline"
         >
           Prophet
         </a>

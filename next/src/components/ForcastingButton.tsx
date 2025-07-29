@@ -25,7 +25,7 @@ const ForcastingButton = ({
         <button
           onClick={handleFetch}
           type="button"
-          className="cursor-pointer text-gray-900 shadow-md bg-gray-50 hover:bg-black hover:text-gray-50 focus:ring-4 focus:ring-blue-300 font-medium rounded-md text-sm px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+          className="bg-gray-50 dark:bg-gray-700 text-gray-600 dark:text-gray-400 cursor-pointer shadow-md k hover:text-gray-50 focus:ring-4 font-medium rounded-md text-sm px-5 py-2.5  focus:outline-none "
         >
           Run
         </button>
@@ -35,7 +35,7 @@ const ForcastingButton = ({
         <button
           disabled
           type="button"
-          className=" text-gray-900 shadow-md bg-gray-50 focus:ring-4 focus:outline-none font-medium rounded-md text-sm px-5 py-2.5 text-center inline-flex items-center"
+          className=" text-gray-600 shadow-md bg-gray-50  dark:bg-gray-700 dark:text-gray-400 focus:ring-4 focus:outline-none font-medium rounded-md text-sm px-5 py-2.5 text-center inline-flex items-center"
         >
           <svg
             aria-hidden="true"
