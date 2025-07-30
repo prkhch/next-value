@@ -11,7 +11,6 @@ import yfinance as yf
 matplotlib.use('Agg')
 bp = Blueprint('main', __name__, url_prefix='/')
 
-print("main_views")
 
 # def encode_image_to_base64(fig):
 #     buf = BytesIO()
@@ -76,7 +75,6 @@ def stock_price_daily(symbol, range):
     # 1   2024-07-23  223.962601
 
     df["y"] = df["y"].round(2)
-    print(df)
     return df
 
 # https://facebook.github.io/prophet/docs/quick_start.html
@@ -85,13 +83,11 @@ def stock_price_prophet():
     symbol = request.args.get("symbol")
     range = request.args.get("range")
     df = stock_price_daily(symbol, range)
-    print("Df@@@" , df)
     m = Prophet(weekly_seasonality=False)  # 모델 생성
     m.fit(df)  # 피팅
 
     future = m.make_future_dataframe(periods=1)
     forecast = m.predict(future)
-    print("resut", round(forecast))
     
     return jsonify({
         "predict_price": round(forecast[['yhat']].tail(1).values[0][0],4)
