@@ -4,6 +4,7 @@ import { Chart } from "chart.js/auto";
 import zoomPlugin from "chartjs-plugin-zoom";
 import RangeInput from "@/components/RangeInput";
 import ForcastingButton from "@/components/ForcastingButton";
+import { useTheme } from "next-themes";
 
 const PriceChart = ({
   labels,
@@ -29,6 +30,12 @@ const PriceChart = ({
     setNewPrices(prices.slice(-range));
   }, [range, prices, labels]);
 
+  const [chartColor, setChartColor] = useState("");
+  const { theme } = useTheme();
+  useEffect(() => {
+    setChartColor(theme === "dark" ? "#ffffff" : "#000000");
+  }, [theme, chartColor]);
+
   useEffect(() => {
     if (canvasEl.current !== null) {
       const ctx = canvasEl.current;
@@ -40,7 +47,7 @@ const PriceChart = ({
             label: currency,
             data: newPrices,
             fill: false,
-            borderColor: "rgb(0, 0, 0)",
+            borderColor: chartColor,
             pointBorderWidth: 2,
             pointRadius: 1,
             tension: 0.1,
@@ -77,7 +84,7 @@ const PriceChart = ({
             title: {
               display: true,
               text: longName,
-              color: "rgb(0, 0, 0)",
+              color: chartColor,
             },
             tooltip: {
               displayColors: false,
@@ -103,7 +110,6 @@ const PriceChart = ({
           },
         },
       });
-
       return function cleanup() {
         myLineChart.destroy();
       };
