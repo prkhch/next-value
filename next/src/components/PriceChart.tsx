@@ -2,9 +2,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Chart } from "chart.js/auto";
 import zoomPlugin from "chartjs-plugin-zoom";
-import RangeInput from "@/components/RangeInput";
-import ForcastingButton from "@/components/ForcastingButton";
 import { useTheme } from "next-themes";
+import ForcastingForm from "@/components/ForcastingForm";
 
 const PriceChart = ({
   labels,
@@ -48,8 +47,9 @@ const PriceChart = ({
             data: newPrices,
             fill: false,
             borderColor: chartColor,
-            pointBorderWidth: 2,
-            pointRadius: 1,
+            borderWidth: 1,
+            pointBorderWidth: 10,
+            pointRadius: 0,
             tension: 0.1,
           },
         ],
@@ -64,7 +64,7 @@ const PriceChart = ({
           scales: {
             x: {
               grid: {
-                display: false,
+                display: true,
               },
               ticks: {
                 maxTicksLimit: 10,
@@ -108,6 +108,7 @@ const PriceChart = ({
               },
             },
           },
+          animation: false,
         },
       });
       return function cleanup() {
@@ -117,11 +118,10 @@ const PriceChart = ({
   });
 
   return (
-    <div className="w-full h-[60vh]">
+    <div className="w-full h-[50vh]">
       <canvas ref={canvasEl} />
       <div className="flex justify-center items-center gap-4 mt-4">
-        <RangeInput range={range} setRange={setRange} />
-        <ForcastingButton symbol={symbol} range={range} />
+        <ForcastingForm symbol={symbol} range={range} setRange={setRange} />
       </div>
     </div>
   );

@@ -18,7 +18,10 @@ export default function DarkMode() {
           name="light-switch"
           className="light-switch sr-only"
         />
-        <label className="relative cursor-pointer p-2" htmlFor="light-switch">
+        <label
+          className="relative cursor-pointer pt-1 pl-2"
+          htmlFor="light-switch"
+        >
           <svg
             className="dark:hidden"
             width="16"

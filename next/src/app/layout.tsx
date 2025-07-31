@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NextPrice",
+  title: "NextValue",
   description: "Prophet Based Time-Series Forecasting for Stock",
 };
 
