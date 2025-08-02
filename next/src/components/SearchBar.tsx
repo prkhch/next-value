@@ -17,6 +17,9 @@ const SearchBar = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    const activeElement = document.activeElement as HTMLElement;
+    if (activeElement.id !== "search") return;
+
     if (input.trim()) {
       //   router.push(`/chart?symbol=${input.trim()}`);
       // → 클라이언트 사이드 라우팅만 실행되므로,
@@ -32,7 +35,7 @@ const SearchBar = () => {
   return (
     <>
       {/* https://flowbite.com/docs/forms/input-field/ */}
-      <div onSubmit={handleSubmit} className="m-3 w-xs mx-auto">
+      <form onSubmit={handleSubmit} className="m-3 w-xs mx-auto">
         <label
           htmlFor="search"
           className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
@@ -67,7 +70,7 @@ const SearchBar = () => {
             onChange={(e) => setInput(e.target.value)}
           />
         </div>
-      </div>
+      </form>
     </>
   );
 };
