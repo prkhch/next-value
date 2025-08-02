@@ -26,9 +26,9 @@ const RangeInput = ({
           else if (Number(range) > 3650) setRange("3650");
         }}
         onKeyDown={(e) => {
-          console.log(e);
           if (e.key === "Enter") {
             e.preventDefault();
+            e.stopPropagation();
           }
         }}
       />
