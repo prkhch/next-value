@@ -32,7 +32,7 @@ const SearchBar = () => {
   return (
     <>
       {/* https://flowbite.com/docs/forms/input-field/ */}
-      <form onSubmit={handleSubmit} className="m-3 w-xs mx-auto">
+      <div onSubmit={handleSubmit} className="m-3 w-xs mx-auto">
         <label
           htmlFor="search"
           className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
@@ -67,7 +67,7 @@ const SearchBar = () => {
             onChange={(e) => setInput(e.target.value)}
           />
         </div>
-      </form>
+      </div>
     </>
   );
 };
