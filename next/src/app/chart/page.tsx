@@ -1,5 +1,4 @@
 import { notFound } from "next/navigation";
-
 import PriceChart from "@/components/PriceChart";
 import { getClosingPrice } from "@/utils/fetchStock";
 import handleForamatDate from "@/utils/handleForamatDate";

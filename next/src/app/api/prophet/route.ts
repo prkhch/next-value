@@ -7,13 +7,13 @@ export async function GET(request: NextRequest) {
   const range = searchParams.get("range");
 
   const flaskRes = await fetch(
-    // "https://fwp-te66.onrender.com/api/flask/prophet",
     // `http://127.0.0.1:5000/api/flask/prophet?symbol=${symbol}&range=${range}`,
     `https://fwp-te66.onrender.com/api/flask/prophet?symbol=${symbol}&range=${range}`,
     {
       method: "GET",
     }
   );
+
   const res = await flaskRes.json();
 
   return Response.json({ res });

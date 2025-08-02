@@ -15,17 +15,22 @@ const ForcastingForm = ({
 }) => {
   const handleFetch = async () => {
     setLoading(true);
+
     const result = await getForcastingResult({ symbol, range });
-    if (result.error) {
-      setErrorMessage(result.error);
+    console.log("frodnt", result);
+    if (result.res.error) {
+      setErrorMessage(result.res.error);
+      setForcastingResult("");
     } else {
       setForcastingResult(result.res.predict_price);
+      setErrorMessage("");
     }
+
     setLoading(false);
   };
 
-  const [forcastingResult, setForcastingResult] = useState(null);
-  const [errorMessage, setErrorMessage] = useState(null);
+  const [forcastingResult, setForcastingResult] = useState("");
+  const [errorMessage, setErrorMessage] = useState("");
   const [loading, setLoading] = useState(false);
 
   return (
@@ -64,7 +69,7 @@ const ForcastingForm = ({
         </button>
       )}
 
-      {forcastingResult !== null && (
+      {forcastingResult !== "" && (
         <div className="flex items-center justify-center mt-5">
           <svg
             className="w-4 h-4 text-emerald-600 dark:text-emerald-300 shrink-0 mt-0.5"
@@ -81,10 +86,10 @@ const ForcastingForm = ({
         </div>
       )}
 
-      {errorMessage !== null && (
+      {errorMessage !== "" && (
         <div className="flex items-center justify-center mt-5">
           <svg
-            className="w-4 h-4 text-rose-600 dark:text-rose-300 shrink-0 mt-1.5"
+            className="w-4 h-4 text-rose-600 dark:text-rose-300 shrink-0 mt-1"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             fill="currentColor"
@@ -92,7 +97,7 @@ const ForcastingForm = ({
           >
             <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 11.793a1 1 0 1 1-1.414 1.414L10 11.414l-2.293 2.293a1 1 0 0 1-1.414-1.414L8.586 10 6.293 7.707a1 1 0 0 1 1.414-1.414L10 8.586l2.293-2.293a1 1 0 0 1 1.414 1.414L11.414 10l2.293 2.293Z" />
           </svg>
-          <div className="ml-1 text-xl text-content shrink-0 ">
+          <div className="ml-1 text-sm text-content shrink-0 ">
             {errorMessage}
           </div>
         </div>
