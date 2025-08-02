@@ -13,6 +13,9 @@ export default async function Chart({
   const symbol = (await searchParams).symbol;
 
   const dataset = await getClosingPrice({ symbol });
+  if (symbol === "") {
+    notFound();
+  }
   if (
     dataset.res.chart.result === null ||
     dataset.res.chart.error ||
