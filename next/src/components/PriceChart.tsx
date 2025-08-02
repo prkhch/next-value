@@ -48,7 +48,7 @@ const PriceChart = ({
             fill: false,
             borderColor: chartColor,
             borderWidth: 1,
-            pointBorderWidth: 3,
+            pointBorderWidth: 1,
             pointRadius: 1,
             tension: 0.1,
           },
