@@ -80,23 +80,28 @@ def stock_price_daily(symbol, range):
 # https://facebook.github.io/prophet/docs/quick_start.html
 @bp.route("/api/flask/prophet", methods=["GET"])
 def stock_price_prophet():
-    symbol = request.args.get("symbol")
-    range = request.args.get("range")
+    try:
+        symbol = request.args.get("symbol")
+        range = request.args.get("range")
 
+        if not symbol:
+            return jsonify({"error": "Missing 'symbol' parameter"}), 400
+        if not range or not range.isdigit():
+            return jsonify({"error": "Invalid or missing 'range' parameter"}), 400
+        
 
-    
+        df = stock_price_daily(symbol, range)
+        m = Prophet(weekly_seasonality=False)  # 모델 생성
+        m.fit(df)  # 피팅
 
-    df = stock_price_daily(symbol, range)
-    m = Prophet(weekly_seasonality=False)  # 모델 생성
-    m.fit(df)  # 피팅
-
-    future = m.make_future_dataframe(periods=1)
-    forecast = m.predict(future)
-    
-    return jsonify({
-        "predict_price": round(forecast[['yhat']].tail(1).values[0][0],4)
-    })
-  
+        future = m.make_future_dataframe(periods=1)
+        forecast = m.predict(future)
+        
+        return jsonify({
+            "predict_price": round(forecast[['yhat']].tail(1).values[0][0],4)
+        })
+    except Exception as error:
+        return jsonify({"error": str(error)}), 500
 
 # @bp.route("/api/flask/pandas", methods=['POST'])
 # def toPandas():
