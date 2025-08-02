@@ -31,7 +31,7 @@ export default function HomeContent() {
           className="flex flex-col h-auto w-full max-w-xs md:max-w-full items-center justify-center md:items-start md:justify-between p-2 md:p-6 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700"
         >
           <div className="mb-3">
-            <p className="font-bold">Step {step.id}</p>
+            <p className="font-thin text-xs">Step {step.id}</p>
           </div>
           <div className="flex flex-col md:flex-row justify-center md:justify-between items-center md:items-center gap-1 md:gap-4 text-xs md:text-sm font-thin">
             {step.mock}
