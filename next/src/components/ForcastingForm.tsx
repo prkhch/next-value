@@ -17,7 +17,6 @@ const ForcastingForm = ({
     setLoading(true);
 
     const result = await getForcastingResult({ symbol, range });
-    console.log("frodnt", result);
     if (result.res.error) {
       setErrorMessage(result.res.error);
       setForcastingResult("");

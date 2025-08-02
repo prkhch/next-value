@@ -1,9 +1,18 @@
 "use client";
 // import { useRouter } from "next/navigation"; // https://velog.io/@meek/Error-NextRouter-was-not-mounted-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
 
 const SearchBar = () => {
   const [input, setInput] = useState("");
+
+  const searchParams = useSearchParams();
+  useEffect(() => {
+    const symbolParam = searchParams.get("symbol");
+    if (symbolParam) {
+      setInput(symbolParam.toUpperCase());
+    }
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
