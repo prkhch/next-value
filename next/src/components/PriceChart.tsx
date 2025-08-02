@@ -50,6 +50,7 @@ const PriceChart = ({
             borderWidth: 1,
             pointBorderWidth: 1,
             pointRadius: 1,
+            pointHitRadius: 25, // https://stackoverflow.com/questions/76408985/chartjs-how-to-improve-mobile-tap-areas
             tension: 0.1,
           },
         ],
