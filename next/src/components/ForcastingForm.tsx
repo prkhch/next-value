@@ -16,6 +16,13 @@ const ForcastingForm = ({
   const handleFetch = async () => {
     setLoading(true);
 
+    if (range === "") {
+      setErrorMessage("Enter the chart range.");
+      setForcastingResult("");
+      setLoading(false);
+      return;
+    }
+
     const result = await getForcastingResult({ symbol, range });
     if (result.res.error) {
       setErrorMessage(result.res.error);
