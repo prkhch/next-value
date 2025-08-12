@@ -9,7 +9,7 @@ export default function HomeContent() {
     {
       id: 1,
       mock: <SearchBarMock />,
-      text: "Enter the stock symbol accurately in the search bar.",
+      text: "Enter the stock symbol accurately in the search bar. (Yahoo Finance symbol)",
     },
     {
       id: 2,
