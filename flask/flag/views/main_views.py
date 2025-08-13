@@ -1,10 +1,8 @@
 import datetime
 from flask import Blueprint, request, jsonify
 from prophet import Prophet
-import matplotlib
 import yfinance as yf
 
-matplotlib.use('Agg')
 bp = Blueprint('main', __name__, url_prefix='/')
 
 
