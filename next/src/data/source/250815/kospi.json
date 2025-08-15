@@ -1,0 +1,4812 @@
+[
+  {
+    "Symbol": "244920.KS",
+    "Name": "A Plus Asset",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "140910.KS",
+    "Name": "A REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015260.KS",
+    "Name": "A&P",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "078520.KS",
+    "Name": "ABLE C&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018250.KS",
+    "Name": "AEKYUNG INDUSTRIAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "095570.KS",
+    "Name": "AJ Networks",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009320.KS",
+    "Name": "AJIN ELEC COMPONENTS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "139990.KS",
+    "Name": "AJUSTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "161000.KS",
+    "Name": "AK CHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006840.KS",
+    "Name": "AK Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001780.KS",
+    "Name": "ALUKO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090430.KS",
+    "Name": "AMOREPACIFIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002790.KS",
+    "Name": "AMOREPACIFIC Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002795.KS",
+    "Name": "AMOREPACIFIC Holdings(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00279K.KS",
+    "Name": "AMOREPACIFIC Holdings(3PC)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090435.KS",
+    "Name": "AMOREPACIFIC(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "278470.KS",
+    "Name": "APR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002030.KS",
+    "Name": "ASIA HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "183190.KS",
+    "Name": "ASIACEMENT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017900.KS",
+    "Name": "AUK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "298690.KS",
+    "Name": "AirBusan",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008700.KS",
+    "Name": "AnamElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007460.KS",
+    "Name": "Aprogen",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003060.KS",
+    "Name": "Aprogen Biologics",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012170.KS",
+    "Name": "Ascendio",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002310.KS",
+    "Name": "AsiaPaprMfg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "020560.KS",
+    "Name": "Asiana Airlines",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "267850.KS",
+    "Name": "AsianaIDT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "027410.KS",
+    "Name": "BGF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "282330.KS",
+    "Name": "BGF Retail",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090460.KS",
+    "Name": "BH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "138930.KS",
+    "Name": "BNK Financial Group",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002410.KS",
+    "Name": "BUMYANG CONST",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001460.KS",
+    "Name": "BYC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001465.KS",
+    "Name": "BYC(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035150.KS",
+    "Name": "Baiksan",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005180.KS",
+    "Name": "Binggrae",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "377740.KS",
+    "Name": "BioNote",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000890.KS",
+    "Name": "BohaeBrew",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002760.KS",
+    "Name": "Bolak",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "026940.KS",
+    "Name": "Bookook Steel",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001270.KS",
+    "Name": "BookookSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001275.KS",
+    "Name": "BookookSecu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003850.KS",
+    "Name": "Boryung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003000.KS",
+    "Name": "BukwangPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011390.KS",
+    "Name": "BusanInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007210.KS",
+    "Name": "Byuksan",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013700.KS",
+    "Name": "CAMUS E&S",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006380.KS",
+    "Name": "CAPRO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033250.KS",
+    "Name": "CHASYS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001560.KS",
+    "Name": "CHEILGRINDING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002787.KS",
+    "Name": "CHINHUNG INT (2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002785.KS",
+    "Name": "CHINHUNG INT(1PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002600.KS",
+    "Name": "CHOHEUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018470.KS",
+    "Name": "CHOILALUMINUM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "185750.KS",
+    "Name": "CHONGKUNDANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001630.KS",
+    "Name": "CHONGKUNDANG HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "120030.KS",
+    "Name": "CHOSUN WELDING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004920.KS",
+    "Name": "CITECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001040.KS",
+    "Name": "CJ",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "079160.KS",
+    "Name": "CJ CGV",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "097950.KS",
+    "Name": "CJ CheilJedang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "097955.KS",
+    "Name": "CJ CheilJedang(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000120.KS",
+    "Name": "CJ LOGISTICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001045.KS",
+    "Name": "CJ(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00104K.KS",
+    "Name": "CJ(4PC)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011150.KS",
+    "Name": "CJSEAFOOD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011155.KS",
+    "Name": "CJSEAFOOD(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "480370.KS",
+    "Name": "CK Solution",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "063160.KS",
+    "Name": "CKDBio",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "192820.KS",
+    "Name": "COSMAX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "044820.KS",
+    "Name": "COSMAX bti",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005420.KS",
+    "Name": "COSMOCHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "021240.KS",
+    "Name": "COWAY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000480.KS",
+    "Name": "CR Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "264900.KS",
+    "Name": "CROWN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "26490K.KS",
+    "Name": "CROWN(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005740.KS",
+    "Name": "CROWNHAITAI Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005745.KS",
+    "Name": "CROWNHAITAI Holdings(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000590.KS",
+    "Name": "CSHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "112610.KS",
+    "Name": "CSWIND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "308170.KS",
+    "Name": "CTR Mobility",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "192400.KS",
+    "Name": "CUCKOO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "284740.KS",
+    "Name": "CUCKOO HOMESYS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "068270.KS",
+    "Name": "Celltrion",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002420.KS",
+    "Name": "Century",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009310.KS",
+    "Name": "Charm Engineering",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030000.KS",
+    "Name": "CheilWorldwide",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051630.KS",
+    "Name": "ChinYangChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010640.KS",
+    "Name": "ChinYangPoly",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002780.KS",
+    "Name": "ChinhungInt",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "100250.KS",
+    "Name": "Chinyang Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003780.KS",
+    "Name": "Chinyang Industry",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001550.KS",
+    "Name": "Chobi",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004700.KS",
+    "Name": "ChokwangLeat",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004910.KS",
+    "Name": "ChokwangPaint",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000950.KS",
+    "Name": "Chonbang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "462520.KS",
+    "Name": "Chosun REF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000650.KS",
+    "Name": "ChunilExp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "036420.KS",
+    "Name": "ContentreeJoongAng",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005070.KS",
+    "Name": "CosmoAM&T",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "377190.KS",
+    "Name": "D&D platform REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012800.KS",
+    "Name": "DAECHANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000490.KS",
+    "Name": "DAEDONG CORP.",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008060.KS",
+    "Name": "DAEDUCK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00806K.KS",
+    "Name": "DAEDUCK(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "439260.KS",
+    "Name": "DAEHAN SHIPBUILDING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069460.KS",
+    "Name": "DAEHOAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019680.KS",
+    "Name": "DAEKYO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019685.KS",
+    "Name": "DAEKYO(1PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005750.KS",
+    "Name": "DAELIM BATH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016710.KS",
+    "Name": "DAESUNG HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "117580.KS",
+    "Name": "DAESUNGENERGY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "128820.KS",
+    "Name": "DAESUNGIND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069620.KS",
+    "Name": "DAEWOONG PHARM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008110.KS",
+    "Name": "DAIDONG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003547.KS",
+    "Name": "DAISHINSECU(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "058730.KS",
+    "Name": "DASCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002880.KS",
+    "Name": "DAYOU A-TECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012030.KS",
+    "Name": "DB",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000990.KS",
+    "Name": "DB HiTek",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005830.KS",
+    "Name": "DB INSURANCE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016610.KS",
+    "Name": "DB Sec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024090.KS",
+    "Name": "DCM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "145720.KS",
+    "Name": "DENTIUM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000300.KS",
+    "Name": "DHAUTONEX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003160.KS",
+    "Name": "DI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001530.KS",
+    "Name": "DI DONGIL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092200.KS",
+    "Name": "DIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004890.KS",
+    "Name": "DIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015590.KS",
+    "Name": "DKME",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000210.KS",
+    "Name": "DL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "375500.KS",
+    "Name": "DL E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "37550K.KS",
+    "Name": "DL E&C(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "37550L.KS",
+    "Name": "DL E&C(2PC)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000215.KS",
+    "Name": "DL(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007340.KS",
+    "Name": "DN AUTOMOTIVE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002150.KS",
+    "Name": "DOHWA ENGINEERING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002690.KS",
+    "Name": "DONG IL STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "111380.KS",
+    "Name": "DONG IN ENTECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "460850.KS",
+    "Name": "DONGKUK CM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001230.KS",
+    "Name": "DONGKUK HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "460860.KS",
+    "Name": "DONGKUK STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023450.KS",
+    "Name": "DONGNAMCHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "026960.KS",
+    "Name": "DONGSUH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "102260.KS",
+    "Name": "DONGSUNG CHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018500.KS",
+    "Name": "DONGWON METAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084670.KS",
+    "Name": "DONGYANG EXPRESS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000150.KS",
+    "Name": "DOOSAN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000155.KS",
+    "Name": "DOOSAN(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000157.KS",
+    "Name": "DOOSAN(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012510.KS",
+    "Name": "DOUZONE BIZON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004840.KS",
+    "Name": "DRB Holding",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "163560.KS",
+    "Name": "DRB Industrial",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "192650.KS",
+    "Name": "DREAMTECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017860.KS",
+    "Name": "DS Dansuk",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "155660.KS",
+    "Name": "DSR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069730.KS",
+    "Name": "DSRWIRE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016740.KS",
+    "Name": "DUAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "047040.KS",
+    "Name": "DWEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014820.KS",
+    "Name": "DWS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014825.KS",
+    "Name": "DWS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013570.KS",
+    "Name": "DY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024900.KS",
+    "Name": "DY DEOKYANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "210540.KS",
+    "Name": "DY POWER",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092780.KS",
+    "Name": "DYP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015230.KS",
+    "Name": "DaechangForging",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "35320K.KS",
+    "Name": "DaeduckElectro(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "353200.KS",
+    "Name": "DaeduckElectronics",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006370.KS",
+    "Name": "DaeguDptStr",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084010.KS",
+    "Name": "Daehan Steel",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001130.KS",
+    "Name": "DaehanFlrMill",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003830.KS",
+    "Name": "DaehanSynthFibr",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016090.KS",
+    "Name": "Daehyun",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006570.KS",
+    "Name": "DaelimTrdg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001680.KS",
+    "Name": "Daesang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084690.KS",
+    "Name": "Daesang Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084695.KS",
+    "Name": "Daesang Holdings(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001685.KS",
+    "Name": "Daesang(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006340.KS",
+    "Name": "DaewonCbl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006345.KS",
+    "Name": "DaewonCbl(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024890.KS",
+    "Name": "DaewonChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000430.KS",
+    "Name": "DaewonKangup",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003220.KS",
+    "Name": "Daewonpharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003090.KS",
+    "Name": "Daewoong",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014160.KS",
+    "Name": "DaeyoungPkg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "0030R0.KS",
+    "Name": "Daishin Value REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003540.KS",
+    "Name": "DaishinSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003545.KS",
+    "Name": "DaishinSecu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009190.KS",
+    "Name": "DaiyangMtl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030210.KS",
+    "Name": "Daol SEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023590.KS",
+    "Name": "DaouTech",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "028100.KS",
+    "Name": "Dong Ah E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "170900.KS",
+    "Name": "Donga ST",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000640.KS",
+    "Name": "Donga Socio Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007590.KS",
+    "Name": "DongbangAgro",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004140.KS",
+    "Name": "DongbangTrnspt&Log",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005960.KS",
+    "Name": "Dongbu Corporation",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005965.KS",
+    "Name": "Dongbu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002210.KS",
+    "Name": "DongsungPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000020.KS",
+    "Name": "DongwhaPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030720.KS",
+    "Name": "DongwonFish",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006040.KS",
+    "Name": "DongwonInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008970.KS",
+    "Name": "DongyangStlPipe",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "241560.KS",
+    "Name": "Doosan Bobcat",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034020.KS",
+    "Name": "Doosan Enerbility",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "454910.KS",
+    "Name": "Doosan Robotics",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "336260.KS",
+    "Name": "Doosanfc",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "33626K.KS",
+    "Name": "Doosanfc(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "33626L.KS",
+    "Name": "Doosanfc(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "192080.KS",
+    "Name": "DoubleUGames",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004830.KS",
+    "Name": "Duksung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004835.KS",
+    "Name": "Duksung(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "145210.KS",
+    "Name": "Dynamic Design",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "088260.KS",
+    "Name": "E KOCREF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084680.KS",
+    "Name": "E-WORLD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017940.KS",
+    "Name": "E1",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "450080.KS",
+    "Name": "ECOPRO MAT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "093230.KS",
+    "Name": "EID",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "074610.KS",
+    "Name": "ENPLUS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "365550.KS",
+    "Name": "ESRKSREIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001200.KS",
+    "Name": "EUGENEIS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000700.KS",
+    "Name": "EUSU HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019490.KS",
+    "Name": "EXICURE HITRON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008250.KS",
+    "Name": "EagonInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011090.KS",
+    "Name": "Enex",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "383220.KS",
+    "Name": "F&F",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007700.KS",
+    "Name": "F&F Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "036580.KS",
+    "Name": "FARMSCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "133820.KS",
+    "Name": "FINEBESTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010820.KS",
+    "Name": "FIRSTEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "093370.KS",
+    "Name": "FOOSUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016800.KS",
+    "Name": "Fursys",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011420.KS",
+    "Name": "GALAXIA SM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000500.KS",
+    "Name": "GAONCABLE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006280.KS",
+    "Name": "GC Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005250.KS",
+    "Name": "GCH Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005257.KS",
+    "Name": "GCH Corp(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011000.KS",
+    "Name": "GENEONE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "114090.KS",
+    "Name": "GKL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013870.KS",
+    "Name": "GMB Korea",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "083420.KS",
+    "Name": "GREEN CHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "078930.KS",
+    "Name": "GS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006360.KS",
+    "Name": "GS E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001250.KS",
+    "Name": "GS Global",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "499790.KS",
+    "Name": "GS P&L",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007070.KS",
+    "Name": "GS Retail",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "078935.KS",
+    "Name": "GS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "037710.KS",
+    "Name": "Gwangju Shinsegae",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003530.KS",
+    "Name": "H.I.S.C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003535.KS",
+    "Name": "H.I.S.C(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "241590.KS",
+    "Name": "H.S.ENTERPRISE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "195870.KS",
+    "Name": "HAESUNG DS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "086790.KS",
+    "Name": "HANAFINANCIALGR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009420.KS",
+    "Name": "HANALL BIOPHARMA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "039130.KS",
+    "Name": "HANATOUR SERVICE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002390.KS",
+    "Name": "HANDOK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "143210.KS",
+    "Name": "HANDS CORPORATION",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006390.KS",
+    "Name": "HANIL HYUNDAI CEMENT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "300720.KS",
+    "Name": "HANILCMT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003300.KS",
+    "Name": "HANILHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "180640.KS",
+    "Name": "HANJINKAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "18064K.KS",
+    "Name": "HANJINKAL(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000240.KS",
+    "Name": "HANKOOK & COMPANY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "161390.KS",
+    "Name": "HANKOOK TIRE & TECHNOLOGY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "123690.KS",
+    "Name": "HANKOOKCOSMETICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "042700.KS",
+    "Name": "HANMISemi",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011500.KS",
+    "Name": "HANNONG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069640.KS",
+    "Name": "HANSAEMK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004150.KS",
+    "Name": "HANSOL HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "213500.KS",
+    "Name": "HANSOLPAPER",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010420.KS",
+    "Name": "HANSOLPNS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012450.KS",
+    "Name": "HANWHA AEROSPACE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "452260.KS",
+    "Name": "HANWHA GALLERIA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "45226K.KS",
+    "Name": "HANWHA GALLERIA(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "088350.KS",
+    "Name": "HANWHA LIFE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009830.KS",
+    "Name": "HANWHA SOLUTIONS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009835.KS",
+    "Name": "HANWHA SOLUTIONS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "272210.KS",
+    "Name": "HANWHA SYSTEMS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00088K.KS",
+    "Name": "HANWHA(3PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "267250.KS",
+    "Name": "HD HYUNDAI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "267270.KS",
+    "Name": "HD HYUNDAI CE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "267260.KS",
+    "Name": "HD HYUNDAI ELECTRIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "322000.KS",
+    "Name": "HD HYUNDAI ENERGY SOLUTIONS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "329180.KS",
+    "Name": "HD HYUNDAI HEAVY INDUSTRIES",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010620.KS",
+    "Name": "HD HYUNDAI MIPO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "042670.KS",
+    "Name": "HD Hyundai Infracore",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071970.KS",
+    "Name": "HD-Hyundai Marine Engine",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012630.KS",
+    "Name": "HDC HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "294870.KS",
+    "Name": "HDC-OP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "089470.KS",
+    "Name": "HDCHEP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "039570.KS",
+    "Name": "HDCLABS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "443060.KS",
+    "Name": "HDHMS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009540.KS",
+    "Name": "HDKSOE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003480.KS",
+    "Name": "HHICHoldings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071090.KS",
+    "Name": "HISTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000080.KS",
+    "Name": "HITEJINRO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000087.KS",
+    "Name": "HITEJINRO(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000140.KS",
+    "Name": "HITEJINROHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000145.KS",
+    "Name": "HITEJINROHOLDINGS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "097230.KS",
+    "Name": "HJSC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003350.KS",
+    "Name": "HKCManufacture",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014790.KS",
+    "Name": "HL D&I",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "060980.KS",
+    "Name": "HL Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "204320.KS",
+    "Name": "HL MANDO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003580.KS",
+    "Name": "HLB GLOBAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011200.KS",
+    "Name": "HMM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001500.KS",
+    "Name": "HMSEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000850.KS",
+    "Name": "HMT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035000.KS",
+    "Name": "HS Ad",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013520.KS",
+    "Name": "HS Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002460.KS",
+    "Name": "HS HWASUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "298050.KS",
+    "Name": "HS HYOSUNG ADVANCED",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "378850.KS",
+    "Name": "HS R&A",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "487570.KS",
+    "Name": "HSHYOSUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006060.KS",
+    "Name": "HSInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005010.KS",
+    "Name": "HUSTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "079980.KS",
+    "Name": "HUVIS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010660.KS",
+    "Name": "HWACHEON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "352820.KS",
+    "Name": "HYBE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "298000.KS",
+    "Name": "HYOSUNG CHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "298040.KS",
+    "Name": "HYOSUNG HEAVY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "094280.KS",
+    "Name": "HYOSUNG ITX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "298020.KS",
+    "Name": "HYOSUNG TNC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004560.KS",
+    "Name": "HYUNDAI BNG STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011760.KS",
+    "Name": "HYUNDAI CORP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "227840.KS",
+    "Name": "HYUNDAI CORPORATION HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005440.KS",
+    "Name": "HYUNDAI G.F. HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "064350.KS",
+    "Name": "HYUNDAI ROTEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004020.KS",
+    "Name": "HYUNDAI STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011210.KS",
+    "Name": "HYUNDAI WIA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069960.KS",
+    "Name": "HYUNDAIDEPTST",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "086280.KS",
+    "Name": "HYUNDAIGLOVIS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "453340.KS",
+    "Name": "HYUNDAIGREENFOOD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "057050.KS",
+    "Name": "HYUNDAIHOMESHOP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "079430.KS",
+    "Name": "HYUNDAILIVART",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "093240.KS",
+    "Name": "HYUNGJI ELITE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003010.KS",
+    "Name": "HaeinCorp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "101530.KS",
+    "Name": "Haitai Confectionery",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014130.KS",
+    "Name": "HanExpress",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "293480.KS",
+    "Name": "Hana Pharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005110.KS",
+    "Name": "Hanchang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009460.KS",
+    "Name": "HanchangPaper",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014680.KS",
+    "Name": "Hanchem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "372910.KS",
+    "Name": "Hancom Lifecare",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "020000.KS",
+    "Name": "Handsome",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002220.KS",
+    "Name": "HanilIron&Stl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002320.KS",
+    "Name": "HanjinTrnspt",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002960.KS",
+    "Name": "HankookShellOil",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025890.KS",
+    "Name": "HankookSteel",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "027970.KS",
+    "Name": "Hankuk Paper",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017960.KS",
+    "Name": "HankukCarbon",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008930.KS",
+    "Name": "Hanmi Science",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "053690.KS",
+    "Name": "HanmiGlobal",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "128940.KS",
+    "Name": "HanmiPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018880.KS",
+    "Name": "Hanon Systems",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "105630.KS",
+    "Name": "Hansae",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016450.KS",
+    "Name": "HansaeYes24Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004960.KS",
+    "Name": "HanshinConst",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011700.KS",
+    "Name": "HanshinMach",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009180.KS",
+    "Name": "Hansol Logistics",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004710.KS",
+    "Name": "HansolTechnics",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009240.KS",
+    "Name": "Hanssem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003680.KS",
+    "Name": "HansungEnt",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000880.KS",
+    "Name": "Hanwha",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "082740.KS",
+    "Name": "Hanwha Engine",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000370.KS",
+    "Name": "Hanwha General Ins",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "042660.KS",
+    "Name": "Hanwha Ocean",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "451800.KS",
+    "Name": "Hanwha REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "489790.KS",
+    "Name": "Hanwha Vision",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001750.KS",
+    "Name": "HanyangSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001755.KS",
+    "Name": "HanyangSecu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003280.KS",
+    "Name": "HeungaShipping",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000540.KS",
+    "Name": "HeungkukF&MIns",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000545.KS",
+    "Name": "HeungkukF&MIns(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "111110.KS",
+    "Name": "Hojeon",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025750.KS",
+    "Name": "HomeDeco",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008770.KS",
+    "Name": "HtlShilla",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008775.KS",
+    "Name": "HtlShilla(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005870.KS",
+    "Name": "HuneedTechnologies",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "032560.KS",
+    "Name": "HwangKum S&T",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010690.KS",
+    "Name": "Hwashin",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004800.KS",
+    "Name": "Hyosung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017800.KS",
+    "Name": "Hyundai Elevator",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "126560.KS",
+    "Name": "Hyundai Futurenet",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001450.KS",
+    "Name": "Hyundai M&F INS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004310.KS",
+    "Name": "Hyundai pharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "307950.KS",
+    "Name": "HyundaiAutoever",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000725.KS",
+    "Name": "HyundaiEng&Con(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000720.KS",
+    "Name": "HyundaiEng&Const",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005380.KS",
+    "Name": "HyundaiMtr",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005385.KS",
+    "Name": "HyundaiMtr(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005387.KS",
+    "Name": "HyundaiMtr(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005389.KS",
+    "Name": "HyundaiMtr(3PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024110.KS",
+    "Name": "IBK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "350520.KS",
+    "Name": "IGIS RESIDENCE REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "334890.KS",
+    "Name": "IGIS Value Plus REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003560.KS",
+    "Name": "IHQ",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000230.KS",
+    "Name": "ILDONG HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "249420.KS",
+    "Name": "ILDONG PHARM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "081000.KS",
+    "Name": "ILJIN DIAMOND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "103590.KS",
+    "Name": "ILJIN ELECTRIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "271940.KS",
+    "Name": "ILJIN HYSOLUS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "020760.KS",
+    "Name": "ILJINDISPLAY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015860.KS",
+    "Name": "ILJINHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003120.KS",
+    "Name": "ILSUNG IS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "101140.KS",
+    "Name": "INBIOGEN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034590.KS",
+    "Name": "INCHEON CITY GAS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023810.KS",
+    "Name": "INFAC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "214320.KS",
+    "Name": "INNOCEAN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006490.KS",
+    "Name": "INSCOB",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "129260.KS",
+    "Name": "INTERGIS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015360.KS",
+    "Name": "INVENI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010780.KS",
+    "Name": "IS DONGSEO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007660.KS",
+    "Name": "ISUPETASYS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "457190.KS",
+    "Name": "ISUSPECIALTYCHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "031820.KS",
+    "Name": "ITCENCTS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "226320.KS",
+    "Name": "ITSHANBUL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008500.KS",
+    "Name": "IljeongInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003200.KS",
+    "Name": "IlshinSpng",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007110.KS",
+    "Name": "IlshinStone",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013360.KS",
+    "Name": "IlsungConst",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007570.KS",
+    "Name": "IlyangPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007575.KS",
+    "Name": "IlyangPharm(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014990.KS",
+    "Name": "In the F",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023800.KS",
+    "Name": "Inzi",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005950.KS",
+    "Name": "IsuChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "175330.KS",
+    "Name": "JB Financial Group",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "271980.KS",
+    "Name": "JEIL PHARM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002620.KS",
+    "Name": "JEIL PHARMA HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "089590.KS",
+    "Name": "JEJUAIR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "272450.KS",
+    "Name": "JIN AIR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "088790.KS",
+    "Name": "JINDO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "109070.KS",
+    "Name": "JOOSUNG Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "044380.KS",
+    "Name": "JOOYONTECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "348950.KS",
+    "Name": "JR GLOBAL REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "194370.KS",
+    "Name": "JS CORP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "079900.KS",
+    "Name": "JUNJIN C&R",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "096760.KS",
+    "Name": "JW HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "234080.KS",
+    "Name": "JW LIFESCIENCE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001060.KS",
+    "Name": "JWPHARMA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001065.KS",
+    "Name": "JWPHARMA(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001067.KS",
+    "Name": "JWPHARMA(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033240.KS",
+    "Name": "JahwaElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025620.KS",
+    "Name": "Jayjun Cosmetic",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006220.KS",
+    "Name": "Jeju BK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "381970.KS",
+    "Name": "K Car",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "450140.KS",
+    "Name": "K.M.G",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "45014K.KS",
+    "Name": "K.M.G(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "123890.KS",
+    "Name": "KAIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003490.KS",
+    "Name": "KAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003495.KS",
+    "Name": "KAL(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000860.KS",
+    "Name": "KANGNAM JEVISCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "415640.KS",
+    "Name": "KB Balhae Infra",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "432320.KS",
+    "Name": "KB STAR REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "105560.KS",
+    "Name": "KBFinancialGroup",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001620.KS",
+    "Name": "KBIDK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "029460.KS",
+    "Name": "KC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "119650.KS",
+    "Name": "KC COTTRELL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009440.KS",
+    "Name": "KC Green Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002380.KS",
+    "Name": "KCC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "344820.KS",
+    "Name": "KCC GLASS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009070.KS",
+    "Name": "KCTC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "281820.KS",
+    "Name": "KCTECH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071320.KS",
+    "Name": "KDHC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092220.KS",
+    "Name": "KEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023350.KS",
+    "Name": "KECC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006200.KS",
+    "Name": "KECHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015760.KS",
+    "Name": "KEPCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "052690.KS",
+    "Name": "KEPCO E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051600.KS",
+    "Name": "KEPCO KPS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "130660.KS",
+    "Name": "KEPID",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016380.KS",
+    "Name": "KG DONGBU STL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003620.KS",
+    "Name": "KG Mobility",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001390.KS",
+    "Name": "KGC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033180.KS",
+    "Name": "KH FEELUX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000270.KS",
+    "Name": "KIA CORP.",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071050.KS",
+    "Name": "KIH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071055.KS",
+    "Name": "KIH(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "152550.KS",
+    "Name": "KIM ANKOR OIL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "104700.KS",
+    "Name": "KISCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001940.KS",
+    "Name": "KISCO Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092440.KS",
+    "Name": "KISHIN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002240.KS",
+    "Name": "KISWire",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "039490.KS",
+    "Name": "KIWOOM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "357120.KS",
+    "Name": "KLI REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071950.KS",
+    "Name": "KOAS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024720.KS",
+    "Name": "KOLMAR HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "161890.KS",
+    "Name": "KOLMAR KOREA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002020.KS",
+    "Name": "KOLON CORP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002025.KS",
+    "Name": "KOLON CORP(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "138490.KS",
+    "Name": "KOLON ENP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "120110.KS",
+    "Name": "KOLON IND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "120115.KS",
+    "Name": "KOLON IND(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00781K.KS",
+    "Name": "KOR CIRC(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "417310.KS",
+    "Name": "KORAMCO THE ONE REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "047810.KS",
+    "Name": "KOREA AEROSPACE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010100.KS",
+    "Name": "KOREA MOVENEX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007280.KS",
+    "Name": "KOREA STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010130.KS",
+    "Name": "KOREA ZINC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034830.KS",
+    "Name": "KOREIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006650.KS",
+    "Name": "KPIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025000.KS",
+    "Name": "KPXCHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092230.KS",
+    "Name": "KPXHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000040.KS",
+    "Name": "KR MOTORS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "259960.KS",
+    "Name": "KRAFTON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "044450.KS",
+    "Name": "KSS LINE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030200.KS",
+    "Name": "KT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "053210.KS",
+    "Name": "KT Skylife",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033780.KS",
+    "Name": "KT&G",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "145270.KS",
+    "Name": "KTOPREITs",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "058850.KS",
+    "Name": "KTcs",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "058860.KS",
+    "Name": "KTis",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001140.KS",
+    "Name": "KUKBO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "214330.KS",
+    "Name": "KUMHO HT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002990.KS",
+    "Name": "KUMHOE&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002995.KS",
+    "Name": "KUMHOE&C(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "073240.KS",
+    "Name": "KUMHOTIRE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014280.KS",
+    "Name": "KUMKANG KIND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014285.KS",
+    "Name": "KUMKANG KIND(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033270.KS",
+    "Name": "KUP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017040.KS",
+    "Name": "KWANG MYUNG ELEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030610.KS",
+    "Name": "KYOBOSECURITIES",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "339770.KS",
+    "Name": "KYOCHON F&B",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "214390.KS",
+    "Name": "KYONGBO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "267290.KS",
+    "Name": "KYUNGDONG CITY GAS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012320.KS",
+    "Name": "KYUNGDONG INVEST",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009450.KS",
+    "Name": "KYUNGDONGNAVIEN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035720.KS",
+    "Name": "Kakao",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "323410.KS",
+    "Name": "KakaoBank",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035250.KS",
+    "Name": "Kangwonland",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012200.KS",
+    "Name": "KeyangElecMach",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012205.KS",
+    "Name": "KeyangElecMach(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "020120.KS",
+    "Name": "KidariStudio",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004540.KS",
+    "Name": "KleanNara",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004545.KS",
+    "Name": "KleanNara(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "036460.KS",
+    "Name": "Kogas",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003070.KS",
+    "Name": "KolonGlobal",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003075.KS",
+    "Name": "KolonGlobal(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005430.KS",
+    "Name": "KorApoSvc",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000970.KS",
+    "Name": "KorCastIronPipe",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007810.KS",
+    "Name": "KorCirc",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007815.KS",
+    "Name": "KorCirc(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025540.KS",
+    "Name": "KorElecTerm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002200.KS",
+    "Name": "KorExptPkgInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002140.KS",
+    "Name": "KorInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005880.KS",
+    "Name": "KorLine",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004090.KS",
+    "Name": "KorPetro",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003690.KS",
+    "Name": "Korean Re",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010040.KS",
+    "Name": "Krc",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007690.KS",
+    "Name": "KukdoChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014530.KS",
+    "Name": "KukdongOil&Chem.",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002720.KS",
+    "Name": "Kukje Pharma",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008870.KS",
+    "Name": "Kumbi",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001210.KS",
+    "Name": "KumhoElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011780.KS",
+    "Name": "KumhoPetrochem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011785.KS",
+    "Name": "KumhoPetrochem(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001570.KS",
+    "Name": "Kumyang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009290.KS",
+    "Name": "KwangdongPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013580.KS",
+    "Name": "KyeryongConst",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000050.KS",
+    "Name": "Kyungbang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009140.KS",
+    "Name": "KyunginElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012610.KS",
+    "Name": "KyunginSynth",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002100.KS",
+    "Name": "Kyungnong",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "066970.KS",
+    "Name": "L&F",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "093050.KS",
+    "Name": "LF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "064400.KS",
+    "Name": "LG CNS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003550.KS",
+    "Name": "LG Corp.",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003555.KS",
+    "Name": "LG Corp.(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034220.KS",
+    "Name": "LG Display",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "373220.KS",
+    "Name": "LG Energy Solution",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051900.KS",
+    "Name": "LG H&H",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051905.KS",
+    "Name": "LG H&H(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "037560.KS",
+    "Name": "LG HelloVision",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011070.KS",
+    "Name": "LG Innotek",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "032640.KS",
+    "Name": "LG Uplus",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051910.KS",
+    "Name": "LGCHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "051915.KS",
+    "Name": "LGCHEM(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "066570.KS",
+    "Name": "LGELECTRONICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "066575.KS",
+    "Name": "LGELECTRONICS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "079550.KS",
+    "Name": "LIG Nex1",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004990.KS",
+    "Name": "LOTTE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011170.KS",
+    "Name": "LOTTE CHEMICAL Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "020150.KS",
+    "Name": "LOTTE ENERGY MATERIALS Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004000.KS",
+    "Name": "LOTTE Fine Chem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "071840.KS",
+    "Name": "LOTTE Himart",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "286940.KS",
+    "Name": "LOTTE INNOVATE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "330590.KS",
+    "Name": "LOTTE REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023530.KS",
+    "Name": "LOTTE SHOPPING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "032350.KS",
+    "Name": "LOTTE TOUR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "280360.KS",
+    "Name": "LOTTE WELLFOOD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "089860.KS",
+    "Name": "LOTTE rental",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00499K.KS",
+    "Name": "LOTTE(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006260.KS",
+    "Name": "LS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010120.KS",
+    "Name": "LS ELECTRIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "229640.KS",
+    "Name": "LS Eco Energy",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000680.KS",
+    "Name": "LSNetworks",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "900140.KS",
+    "Name": "LVMC Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "108670.KS",
+    "Name": "LX HAUSYS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "108675.KS",
+    "Name": "LX HAUSYS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "383800.KS",
+    "Name": "LX HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "38380K.KS",
+    "Name": "LX HOLDINGS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001120.KS",
+    "Name": "LX INT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "108320.KS",
+    "Name": "LX Semicon",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025820.KS",
+    "Name": "LeekuInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005300.KS",
+    "Name": "LotteChilsung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005305.KS",
+    "Name": "LotteChilsung(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000400.KS",
+    "Name": "LotteInsurance",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "027740.KS",
+    "Name": "MANIKER",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "357250.KS",
+    "Name": "MAPS REIT 1",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "094800.KS",
+    "Name": "MAPSREALTY1",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "357430.KS",
+    "Name": "MASTERN PREMIER REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "134380.KS",
+    "Name": "MCC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "097520.KS",
+    "Name": "MCNEX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "118000.KS",
+    "Name": "METACARE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090370.KS",
+    "Name": "METALABS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023150.KS",
+    "Name": "MHETHANOL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "085620.KS",
+    "Name": "MIRAE ASSET LIFE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006800.KS",
+    "Name": "MIRAE ASSET SEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006805.KS",
+    "Name": "MIRAE ASSET SEC(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "00680K.KS",
+    "Name": "MIRAE ASSET SEC(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "396690.KS",
+    "Name": "MIRAEASSETGREIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "268280.KS",
+    "Name": "MIWON SC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "088980.KS",
+    "Name": "MKIF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "484870.KS",
+    "Name": "MNC Solution",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009200.KS",
+    "Name": "MOORIM PAPER",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009900.KS",
+    "Name": "MS IND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009680.KS",
+    "Name": "MT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "107590.KS",
+    "Name": "MWH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "070960.KS",
+    "Name": "MYP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001080.KS",
+    "Name": "ManhoRope&Wire",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "138040.KS",
+    "Name": "Meritz Financial",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003650.KS",
+    "Name": "MichangOil",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025560.KS",
+    "Name": "Mirae",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007120.KS",
+    "Name": "MiraeING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "081660.KS",
+    "Name": "Misto Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002840.KS",
+    "Name": "MiwonComcl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012330.KS",
+    "Name": "Mobis",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012690.KS",
+    "Name": "Monalisa",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005360.KS",
+    "Name": "Monami",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008420.KS",
+    "Name": "MoonbaeStl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009580.KS",
+    "Name": "Moorim P&P",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033920.KS",
+    "Name": "Muhak",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017180.KS",
+    "Name": "Myungmoon Pharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035420.KS",
+    "Name": "NAVER",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "036570.KS",
+    "Name": "NCsoft",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005720.KS",
+    "Name": "NEXEN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005725.KS",
+    "Name": "NEXEN(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002350.KS",
+    "Name": "NEXENTIRE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002355.KS",
+    "Name": "NEXENTIRE(1PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "092790.KS",
+    "Name": "NEXTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "338100.KS",
+    "Name": "NH Prime REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "400760.KS",
+    "Name": "NHALLONEREIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005940.KS",
+    "Name": "NHIS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005945.KS",
+    "Name": "NHIS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "181710.KS",
+    "Name": "NHN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008260.KS",
+    "Name": "NI STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034310.KS",
+    "Name": "NICE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "030190.KS",
+    "Name": "NICE INFO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "085310.KS",
+    "Name": "NK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090350.KS",
+    "Name": "NOROOPAINT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090355.KS",
+    "Name": "NOROOPAINT(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004250.KS",
+    "Name": "NPC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004255.KS",
+    "Name": "NPC(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025860.KS",
+    "Name": "NamhaeChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001260.KS",
+    "Name": "NamkwangEng&Const",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008350.KS",
+    "Name": "NamsunAlum",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008355.KS",
+    "Name": "NamsunAlum(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004270.KS",
+    "Name": "Namsung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003920.KS",
+    "Name": "NamyangDairy",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003925.KS",
+    "Name": "NamyangDairy(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "251270.KS",
+    "Name": "Netmarble",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004370.KS",
+    "Name": "Nongshim",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "072710.KS",
+    "Name": "NongshimHoldings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000320.KS",
+    "Name": "NorooHoldings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000325.KS",
+    "Name": "NorooHoldings(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002630.KS",
+    "Name": "OBI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "456040.KS",
+    "Name": "OCI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010060.KS",
+    "Name": "OCI Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005320.KS",
+    "Name": "ONTIDE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "271560.KS",
+    "Name": "ORION",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001800.KS",
+    "Name": "ORION Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007310.KS",
+    "Name": "OTOKI",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006090.KS",
+    "Name": "OYANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034230.KS",
+    "Name": "PARADISE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "090080.KS",
+    "Name": "PHC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010770.KS",
+    "Name": "PHHC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "178920.KS",
+    "Name": "PIAM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001340.KS",
+    "Name": "PKC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "103140.KS",
+    "Name": "POONGSAN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005810.KS",
+    "Name": "POONGSAN HOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "022100.KS",
+    "Name": "POSCO DX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003670.KS",
+    "Name": "POSCO FUTURE M",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005490.KS",
+    "Name": "POSCO Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "047050.KS",
+    "Name": "POSCO INTERNATIONAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "058430.KS",
+    "Name": "POSCO STEELEON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "950210.KS",
+    "Name": "PRESTIGE BIOPHARMA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "028670.KS",
+    "Name": "PanOcean",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003610.KS",
+    "Name": "Pangrim",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001020.KS",
+    "Name": "PaperCorea",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004720.KS",
+    "Name": "PharmGen Science",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005690.KS",
+    "Name": "Pharmicell",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009810.KS",
+    "Name": "Playgram",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017810.KS",
+    "Name": "Pulmuone Corporate",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005030.KS",
+    "Name": "PusanCstIron",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "102460.KS",
+    "Name": "REYON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000760.KS",
+    "Name": "RIFA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012750.KS",
+    "Name": "S-1",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010950.KS",
+    "Name": "S-Oil",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010955.KS",
+    "Name": "S-Oil(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "075180.KS",
+    "Name": "SAC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "058650.KS",
+    "Name": "SAH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008040.KS",
+    "Name": "SAJODONGAONE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014710.KS",
+    "Name": "SAJOSEAFOOD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004380.KS",
+    "Name": "SAMICKTHK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004440.KS",
+    "Name": "SAMIL C&S",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009770.KS",
+    "Name": "SAMJUNGPULP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "207940.KS",
+    "Name": "SAMSUNG BIOLOGICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "028260.KS",
+    "Name": "SAMSUNG C&T",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "02826K.KS",
+    "Name": "SAMSUNG C&T(1PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "029780.KS",
+    "Name": "SAMSUNG CARD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "032830.KS",
+    "Name": "SAMSUNG LIFE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001360.KS",
+    "Name": "SAMSUNG PHARM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "068290.KS",
+    "Name": "SAMSUNG PUBLISHING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006400.KS",
+    "Name": "SAMSUNG SDI CO.,LTD.",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006405.KS",
+    "Name": "SAMSUNG SDI(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018260.KS",
+    "Name": "SAMSUNG SDS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023000.KS",
+    "Name": "SAMWONSTEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "272550.KS",
+    "Name": "SAMYANG PACKAGING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000070.KS",
+    "Name": "SAMYANGHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000075.KS",
+    "Name": "SAMYANGHOLDINGS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003720.KS",
+    "Name": "SAMYOUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001290.KS",
+    "Name": "SANGSANGININV&SEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "041650.KS",
+    "Name": "SANGSIN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "062040.KS",
+    "Name": "SANIL ELECTRIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "067830.KS",
+    "Name": "SAVEZONEI&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001430.KS",
+    "Name": "SBHC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034120.KS",
+    "Name": "SBS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003080.KS",
+    "Name": "SBSUNGBO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "102280.KS",
+    "Name": "SBW",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "023960.KS",
+    "Name": "SC ENGINEERING",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000180.KS",
+    "Name": "SCEHoldings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "137310.KS",
+    "Name": "SD Biosensor",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010960.KS",
+    "Name": "SDC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004360.KS",
+    "Name": "SEBANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004365.KS",
+    "Name": "SEBANG(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "075580.KS",
+    "Name": "SEJIN HEAVY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007540.KS",
+    "Name": "SEMPIO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "248170.KS",
+    "Name": "SEMPIO FOODS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011300.KS",
+    "Name": "SEONG AN Materials",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007860.KS",
+    "Name": "SEOYON",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "200880.KS",
+    "Name": "SEOYONEHWA",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "091090.KS",
+    "Name": "SEWON E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "031440.KS",
+    "Name": "SF",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001380.KS",
+    "Name": "SG GLOBAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004490.KS",
+    "Name": "SGBC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005090.KS",
+    "Name": "SGC Energy",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004060.KS",
+    "Name": "SGCORPORATION",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "031210.KS",
+    "Name": "SGIC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002360.KS",
+    "Name": "SH ENERCHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001770.KS",
+    "Name": "SHD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "462870.KS",
+    "Name": "SHIFT UP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002700.KS",
+    "Name": "SHINIL ELECTRONICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002870.KS",
+    "Name": "SHINPOONG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "035510.KS",
+    "Name": "SHINSEGAE I&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "031430.KS",
+    "Name": "SHINSEGAE INTERNATIONAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011930.KS",
+    "Name": "SHINSUNG E&G",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "404990.KS",
+    "Name": "SHSBREIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009160.KS",
+    "Name": "SIMPAC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "029530.KS",
+    "Name": "SINDOH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006880.KS",
+    "Name": "SINGSONGHOLDINGS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003960.KS",
+    "Name": "SJDR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "033530.KS",
+    "Name": "SJG SEJONG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "123700.KS",
+    "Name": "SJM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "025530.KS",
+    "Name": "SJMH",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "034730.KS",
+    "Name": "SK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006120.KS",
+    "Name": "SK Discovery",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006125.KS",
+    "Name": "SK Discovery(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "096770.KS",
+    "Name": "SK Innovation",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "096775.KS",
+    "Name": "SK Innovation(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "395400.KS",
+    "Name": "SK REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "475150.KS",
+    "Name": "SK eternix",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000660.KS",
+    "Name": "SK hynix",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "361610.KS",
+    "Name": "SK ie technology",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "03473K.KS",
+    "Name": "SK(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "326030.KS",
+    "Name": "SKBP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "302440.KS",
+    "Name": "SKBS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011790.KS",
+    "Name": "SKC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "285130.KS",
+    "Name": "SKCHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "28513K.KS",
+    "Name": "SKCHEM(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "210980.KS",
+    "Name": "SKD&D",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "018670.KS",
+    "Name": "SKGas",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001740.KS",
+    "Name": "SKNetworks",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "402340.KS",
+    "Name": "SKSQUARE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001510.KS",
+    "Name": "SKSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001515.KS",
+    "Name": "SKSecu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017670.KS",
+    "Name": "SKTelecom",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "100090.KS",
+    "Name": "SKoceanplant",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005850.KS",
+    "Name": "SLCORP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010580.KS",
+    "Name": "SM BEXEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003570.KS",
+    "Name": "SNT DYNAMICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "036530.KS",
+    "Name": "SNT Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "064960.KS",
+    "Name": "SNT MOTIV",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "100840.KS",
+    "Name": "SNTEnergy",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "403550.KS",
+    "Name": "SOCAR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "248070.KS",
+    "Name": "SOLUM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017550.KS",
+    "Name": "SOOSAN CEBOTICS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005610.KS",
+    "Name": "SPC SAMLIP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "306200.KS",
+    "Name": "SSC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "204210.KS",
+    "Name": "STAR SM REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "026890.KS",
+    "Name": "STIC Investments",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011810.KS",
+    "Name": "STX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "465770.KS",
+    "Name": "STX Green Logis",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "077970.KS",
+    "Name": "STXEngine",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008490.KS",
+    "Name": "SUHEUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002820.KS",
+    "Name": "SUN&L",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "136490.KS",
+    "Name": "SUNJIN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "145990.KS",
+    "Name": "SYC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "145995.KS",
+    "Name": "SYC(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007160.KS",
+    "Name": "SajoInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006110.KS",
+    "Name": "SamaAlum",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001470.KS",
+    "Name": "SambuConst",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004690.KS",
+    "Name": "Samchully",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004450.KS",
+    "Name": "SamhwaCrown&Closure",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000390.KS",
+    "Name": "SamhwaPaint",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002450.KS",
+    "Name": "SamickMusInstr",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000520.KS",
+    "Name": "SamilPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005500.KS",
+    "Name": "SamjinPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006660.KS",
+    "Name": "SamsungClimateContro",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "028050.KS",
+    "Name": "SamsungE&A",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005930.KS",
+    "Name": "SamsungElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005935.KS",
+    "Name": "SamsungElec(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009150.KS",
+    "Name": "SamsungElecMech",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009155.KS",
+    "Name": "SamsungElecMech(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000810.KS",
+    "Name": "SamsungF&MIns",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000815.KS",
+    "Name": "SamsungF&MIns(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "448730.KS",
+    "Name": "SamsungFN REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010140.KS",
+    "Name": "SamsungHvyInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016360.KS",
+    "Name": "SamsungSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001820.KS",
+    "Name": "SamwhaCapacitor",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009470.KS",
+    "Name": "SamwhaElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011230.KS",
+    "Name": "SamwhaElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003230.KS",
+    "Name": "SamyangFood",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002170.KS",
+    "Name": "SamyangTongsang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005680.KS",
+    "Name": "SamyoungElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002810.KS",
+    "Name": "SamyungTrdg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019440.KS",
+    "Name": "SeAH SPECIAL STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003030.KS",
+    "Name": "SeAH Steel Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007610.KS",
+    "Name": "SeondoElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017390.KS",
+    "Name": "SeoulCtyGas",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004410.KS",
+    "Name": "SeoulFoodInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004415.KS",
+    "Name": "SeoulFoodInd(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "021050.KS",
+    "Name": "Seowon",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "021820.KS",
+    "Name": "SewonPrecsnInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013000.KS",
+    "Name": "Sewooglobal",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016590.KS",
+    "Name": "ShindaeyangPapr",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "293940.KS",
+    "Name": "Shinhan Alpha REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "481850.KS",
+    "Name": "Shinhan GA REIT",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "055550.KS",
+    "Name": "ShinhanGroup",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004080.KS",
+    "Name": "Shinhung",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019170.KS",
+    "Name": "ShinpoongPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019175.KS",
+    "Name": "ShinpoongPharm(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004170.KS",
+    "Name": "Shinsegae",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005390.KS",
+    "Name": "ShinsungTongsang",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009270.KS",
+    "Name": "Shinwon",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001720.KS",
+    "Name": "ShinyoungSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005800.KS",
+    "Name": "ShinyoungWacoal",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "134790.KS",
+    "Name": "Sidiz",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004970.KS",
+    "Name": "Silla",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "336370.KS",
+    "Name": "Solus Advanced Materials",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "33637K.KS",
+    "Name": "Solus Advanced Materials(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "33637L.KS",
+    "Name": "Solus Advanced Materials(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004430.KS",
+    "Name": "SongwonInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "126720.KS",
+    "Name": "Soosan Industries",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014910.KS",
+    "Name": "SungmoonElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014915.KS",
+    "Name": "SungmoonElec(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004980.KS",
+    "Name": "SungshinCement",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004985.KS",
+    "Name": "SungshinCement(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004770.KS",
+    "Name": "SunnyElec",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004870.KS",
+    "Name": "T'way Holdings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014580.KS",
+    "Name": "TAEKYUNG BK",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006890.KS",
+    "Name": "TAEKYUNGCHEMICAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009410.KS",
+    "Name": "TAEYOUNG E&C",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009415.KS",
+    "Name": "TAEYOUNG E&C(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "055490.KS",
+    "Name": "TAPEX",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "084870.KS",
+    "Name": "TBH GLOBAL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002710.KS",
+    "Name": "TCC STEEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "078000.KS",
+    "Name": "TELCOWARE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "019180.KS",
+    "Name": "THN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "069260.KS",
+    "Name": "TKG Huchems",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001520.KS",
+    "Name": "TONGYANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "082640.KS",
+    "Name": "TONGYANG LIFE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001525.KS",
+    "Name": "TONGYANG(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001527.KS",
+    "Name": "TONGYANG(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "214420.KS",
+    "Name": "TONYMOLY",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "007980.KS",
+    "Name": "TP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001790.KS",
+    "Name": "TS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001795.KS",
+    "Name": "TS(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "091810.KS",
+    "Name": "TWAYAIR",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "363280.KS",
+    "Name": "TYHLD",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "36328K.KS",
+    "Name": "TYHLD(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002900.KS",
+    "Name": "TYM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003240.KS",
+    "Name": "TaekwangInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015890.KS",
+    "Name": "TaekyungInd",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001420.KS",
+    "Name": "TaewonMulsan",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004100.KS",
+    "Name": "TaeyangMtl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "004105.KS",
+    "Name": "TaeyangMtl(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001440.KS",
+    "Name": "TaihanElecWire",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "001070.KS",
+    "Name": "TaihanTextl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011280.KS",
+    "Name": "Tailim Pkg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "475560.KS",
+    "Name": "The BORN Korea",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "072130.KS",
+    "Name": "UANGEL",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011330.KS",
+    "Name": "UNI CHEM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014830.KS",
+    "Name": "UNID",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "446070.KS",
+    "Name": "UNID btplus",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "047400.KS",
+    "Name": "UNIONMaterials",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000910.KS",
+    "Name": "Union",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "077500.KS",
+    "Name": "Uniquest",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "100220.KS",
+    "Name": "VISANG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002070.KS",
+    "Name": "VIVIEN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010600.KS",
+    "Name": "WELLBIOTEC",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "024070.KS",
+    "Name": "WISCOM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "105840.KS",
+    "Name": "WOOJIN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "049800.KS",
+    "Name": "WOOJIN PLAIMM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "010400.KS",
+    "Name": "WOOJINI&S",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016880.KS",
+    "Name": "WOONGJIN",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "095720.KS",
+    "Name": "WOONGJIN THINKBIG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006980.KS",
+    "Name": "WOOSUNG",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "016580.KS",
+    "Name": "WhaninPharm",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008600.KS",
+    "Name": "WillBes",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "005820.KS",
+    "Name": "Wonlim",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "316140.KS",
+    "Name": "WooriFinancialGroup",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "017370.KS",
+    "Name": "WooshinSystems",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "317400.KS",
+    "Name": "XI SND",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "011690.KS",
+    "Name": "Y2 Solution",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "037270.KS",
+    "Name": "YGP",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012160.KS",
+    "Name": "YOUNGWIRE",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003520.KS",
+    "Name": "YUNGJIN PHARM",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "012280.KS",
+    "Name": "YeonghwaMtl",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "002920.KS",
+    "Name": "YoosungEnt",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "008730.KS",
+    "Name": "YoulchonChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "014440.KS",
+    "Name": "YoungboChem",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "111770.KS",
+    "Name": "Youngone Corp",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "009970.KS",
+    "Name": "YoungoneHoldings",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000670.KS",
+    "Name": "Youngpoong",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "006740.KS",
+    "Name": "YoungpoongPaprMfg",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003470.KS",
+    "Name": "Yuanta Securities",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003475.KS",
+    "Name": "Yuanta Securities(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000100.KS",
+    "Name": "Yuhan",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000105.KS",
+    "Name": "Yuhan(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003460.KS",
+    "Name": "YuhwaSecu",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "003465.KS",
+    "Name": "YuhwaSecu(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000220.KS",
+    "Name": "YuyuPharma",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000225.KS",
+    "Name": "YuyuPharma(1P)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "000227.KS",
+    "Name": "YuyuPharma(2PB)",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "013890.KS",
+    "Name": "ZINUS",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "483650.KS",
+    "Name": "d'Alba Global",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "015020.KS",
+    "Name": "e-STARCO",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "139480.KS",
+    "Name": "emart",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "139130.KS",
+    "Name": "iM Financial Group",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "122900.KS",
+    "Name": "iMarketKorea",
+    "Exchange": "KOSPI"
+  },
+  {
+    "Symbol": "377300.KS",
+    "Name": "kakaopay",
+    "Exchange": "KOSPI"
+  }
+]

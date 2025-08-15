@@ -1,0 +1,9007 @@
+[
+  {
+    "Symbol": "366030.KQ",
+    "Name": "09WOMEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "159580.KQ",
+    "Name": "0TO7",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "177900.KQ",
+    "Name": "3ALogics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060310.KQ",
+    "Name": "3S KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "394800.KQ",
+    "Name": "3billion",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389140.KQ",
+    "Name": "4by4",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "262260.KQ",
+    "Name": "A Pro",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013310.KQ",
+    "Name": "A-JIN INDUSTRY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "071670.KQ",
+    "Name": "A-Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036010.KQ",
+    "Name": "ABEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "129890.KQ",
+    "Name": "ABKO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "298380.KQ",
+    "Name": "ABL Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "203400.KQ",
+    "Name": "ABN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "102120.KQ",
+    "Name": "ABOV",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052790.KQ",
+    "Name": "ACTOZ SOFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "179530.KQ",
+    "Name": "ADBIOTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054630.KQ",
+    "Name": "ADChips",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200710.KQ",
+    "Name": "ADTechnology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "312610.KQ",
+    "Name": "AFW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013990.KQ",
+    "Name": "AGABANG&CO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "001540.KQ",
+    "Name": "AHN-GOOK PHA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053800.KQ",
+    "Name": "AHNLAB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "364950.KQ",
+    "Name": "AIK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "163280.KQ",
+    "Name": "AIRRANE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "059120.KQ",
+    "Name": "AJINEXTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027360.KQ",
+    "Name": "AJU IB INVESTMENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "354320.KQ",
+    "Name": "ALMAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "297570.KQ",
+    "Name": "ALOYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "172670.KQ",
+    "Name": "ALT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475580.KQ",
+    "Name": "ALUX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "074430.KQ",
+    "Name": "AMINOLOGICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "125210.KQ",
+    "Name": "AMOGREENTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123860.KQ",
+    "Name": "ANAPASS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "455900.KQ",
+    "Name": "ANGEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "310200.KQ",
+    "Name": "ANIPLUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "121600.KQ",
+    "Name": "ANP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065660.KQ",
+    "Name": "ANTEROGEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109960.KQ",
+    "Name": "AP Healthcare",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "265520.KQ",
+    "Name": "AP Systems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200470.KQ",
+    "Name": "APACT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054620.KQ",
+    "Name": "APS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "211270.KQ",
+    "Name": "APSI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "270520.KQ",
+    "Name": "APTN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "159010.KQ",
+    "Name": "ASFLOW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "127710.KQ",
+    "Name": "ASIA BUSINESS DAILY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "154030.KQ",
+    "Name": "ASIA SEED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050860.KQ",
+    "Name": "ASIA TECHNOLOGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "445090.KQ",
+    "Name": "ASICLAND",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "136410.KQ",
+    "Name": "ASSEMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "246720.KQ",
+    "Name": "ASTA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "450950.KQ",
+    "Name": "ASTERASYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067390.KQ",
+    "Name": "ASTK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241840.KQ",
+    "Name": "ASTORY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "453860.KQ",
+    "Name": "ASTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045660.KQ",
+    "Name": "ATEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "224110.KQ",
+    "Name": "ATEC MOBILITY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "158430.KQ",
+    "Name": "ATON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "355690.KQ",
+    "Name": "ATUM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "481070.KQ",
+    "Name": "AU BRANDZ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039830.KQ",
+    "Name": "AURORA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "322310.KQ",
+    "Name": "AUROSTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "031510.KQ",
+    "Name": "AUSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "353590.KQ",
+    "Name": "AUTO&",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083930.KQ",
+    "Name": "AVACO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "149950.KQ",
+    "Name": "AVATEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "356680.KQ",
+    "Name": "AXGATE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032080.KQ",
+    "Name": "AZTECHWB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "174900.KQ",
+    "Name": "AbClon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "195990.KQ",
+    "Name": "Abpro Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950130.KQ",
+    "Name": "Access Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088800.KQ",
+    "Name": "Ace Technologies",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "003800.KQ",
+    "Name": "AceBed",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290740.KQ",
+    "Name": "ActRo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462980.KQ",
+    "Name": "Aiji net",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347860.KQ",
+    "Name": "Alchera",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "238120.KQ",
+    "Name": "Aligned",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "117670.KQ",
+    "Name": "Alphachips",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043100.KQ",
+    "Name": "Alphanox",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "196170.KQ",
+    "Name": "Alteogen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "085810.KQ",
+    "Name": "Alticast",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123750.KQ",
+    "Name": "Alton",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900100.KQ",
+    "Name": "Ameridge",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092040.KQ",
+    "Name": "Amicogen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "357580.KQ",
+    "Name": "Amosense",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052710.KQ",
+    "Name": "Amotech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025980.KQ",
+    "Name": "Ananti",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "397030.KQ",
+    "Name": "AprilBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "293780.KQ",
+    "Name": "Aptabio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "291650.KQ",
+    "Name": "Aptamer Sciences",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "203690.KQ",
+    "Name": "Ark Solutions",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "260660.KQ",
+    "Name": "Arlico",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096690.KQ",
+    "Name": "Aroot",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "321820.KQ",
+    "Name": "Artist Company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200350.KQ",
+    "Name": "Artist Studio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021080.KQ",
+    "Name": "Atinum Investment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067170.KQ",
+    "Name": "Autech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "331740.KQ",
+    "Name": "Autocrypt",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "230980.KQ",
+    "Name": "B.U Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "307870.KQ",
+    "Name": "B2En",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "267790.KQ",
+    "Name": "BARREL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "318410.KQ",
+    "Name": "BBC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "451250.KQ",
+    "Name": "BBIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "146320.KQ",
+    "Name": "BCNC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200780.KQ",
+    "Name": "BCWORLDPHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "406820.KQ",
+    "Name": "BEAUTYSKIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "148780.KQ",
+    "Name": "BECU AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "206400.KQ",
+    "Name": "BENO TNR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "139050.KQ",
+    "Name": "BFLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046310.KQ",
+    "Name": "BG T&A",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126600.KQ",
+    "Name": "BGF Ecomaterials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "382900.KQ",
+    "Name": "BHF",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083650.KQ",
+    "Name": "BHI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "238200.KQ",
+    "Name": "BIFIDO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "251120.KQ",
+    "Name": "BIO-FD&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "489460.KQ",
+    "Name": "BIOBIJOU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "314930.KQ",
+    "Name": "BIODYNE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064550.KQ",
+    "Name": "BIONEER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "188040.KQ",
+    "Name": "BIOPORT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "419540.KQ",
+    "Name": "BISTOS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032850.KQ",
+    "Name": "BITComputer",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377030.KQ",
+    "Name": "BITMAX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050090.KQ",
+    "Name": "BK Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "478560.KQ",
+    "Name": "BLACK YAK I&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065170.KQ",
+    "Name": "BLPT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033560.KQ",
+    "Name": "BLUECOM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "439580.KQ",
+    "Name": "BLUEMTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086670.KQ",
+    "Name": "BMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "256840.KQ",
+    "Name": "BNC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "473370.KQ",
+    "Name": "BNK SPAC 2",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "008470.KQ",
+    "Name": "BOOSTER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "250000.KQ",
+    "Name": "BORATR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006910.KQ",
+    "Name": "BOSUNG POWER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "288330.KQ",
+    "Name": "BRIDGE BIOTHERAPEUTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064480.KQ",
+    "Name": "BRIDGETEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "219750.KQ",
+    "Name": "BTB Korea",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066410.KQ",
+    "Name": "BUCKET STUDIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032980.KQ",
+    "Name": "BYON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199480.KQ",
+    "Name": "Bankware Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018700.KQ",
+    "Name": "Barunson",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035620.KQ",
+    "Name": "Barunson E&A",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "424760.KQ",
+    "Name": "Bellock",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044480.KQ",
+    "Name": "Billions",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053030.KQ",
+    "Name": "Binex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086820.KQ",
+    "Name": "Bio Solution Co.,Ltd.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199730.KQ",
+    "Name": "BioInfra",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099430.KQ",
+    "Name": "BioPlus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038460.KQ",
+    "Name": "BioSmart",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086040.KQ",
+    "Name": "Biotoxtech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093190.KQ",
+    "Name": "Bixolon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "369370.KQ",
+    "Name": "Blitzway Entertainment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "206640.KQ",
+    "Name": "Boditech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226340.KQ",
+    "Name": "Bonne",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099390.KQ",
+    "Name": "Brainzcompany",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014470.KQ",
+    "Name": "Bubang",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352480.KQ",
+    "Name": "C&C INTERNATIONAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "264660.KQ",
+    "Name": "C&G Hitech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094360.KQ",
+    "Name": "C&M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "359090.KQ",
+    "Name": "C&R Research",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109670.KQ",
+    "Name": "C-SITE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078340.KQ",
+    "Name": "C2S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "258610.KQ",
+    "Name": "CAELUM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "210120.KQ",
+    "Name": "CANVAS N",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "198080.KQ",
+    "Name": "CAP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064820.KQ",
+    "Name": "CAPEind",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317530.KQ",
+    "Name": "CARRIESOFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "313760.KQ",
+    "Name": "CARRY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140430.KQ",
+    "Name": "CATIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072020.KQ",
+    "Name": "CAVAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049960.KQ",
+    "Name": "CBT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066790.KQ",
+    "Name": "CCS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "471820.KQ",
+    "Name": "CELLROMAX SCIENCE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049180.KQ",
+    "Name": "CELLUMED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037760.KQ",
+    "Name": "CENIT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222420.KQ",
+    "Name": "CENOTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056090.KQ",
+    "Name": "CG MedTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083790.KQ",
+    "Name": "CGIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "085660.KQ",
+    "Name": "CHA Biotech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "261780.KQ",
+    "Name": "CHA Vaccine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "351870.KQ",
+    "Name": "CHAI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052670.KQ",
+    "Name": "CHEIL BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199820.KQ",
+    "Name": "CHEIL ELECTRIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089010.KQ",
+    "Name": "CHEMTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047820.KQ",
+    "Name": "CHOROKBAEM MEDIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "362320.KQ",
+    "Name": "CHUNGDAMGLOBAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222080.KQ",
+    "Name": "CIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "311690.KQ",
+    "Name": "CJ Bioscience",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035760.KQ",
+    "Name": "CJ ENM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051500.KQ",
+    "Name": "CJ FW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214150.KQ",
+    "Name": "CLASSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "237880.KQ",
+    "Name": "CLIO Cosmetics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "466100.KQ",
+    "Name": "CLOBOT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "384470.KQ",
+    "Name": "CLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263700.KQ",
+    "Name": "CLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475400.KQ",
+    "Name": "CMES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058820.KQ",
+    "Name": "CMG Pharmaceutical",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115530.KQ",
+    "Name": "CNPLUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056730.KQ",
+    "Name": "CNT85",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352700.KQ",
+    "Name": "CNTUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036690.KQ",
+    "Name": "COMMAX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "307930.KQ",
+    "Name": "COMPANY K PARTNERS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "451760.KQ",
+    "Name": "CONTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "322780.KQ",
+    "Name": "COPUS KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027050.KQ",
+    "Name": "COREANA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "166480.KQ",
+    "Name": "CORESTEMCHEMON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222040.KQ",
+    "Name": "COSMAX NBT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241710.KQ",
+    "Name": "COSMECCA KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448710.KQ",
+    "Name": "COTS Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056360.KQ",
+    "Name": "COWEAVER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033290.KQ",
+    "Name": "COWELL F/S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "282880.KQ",
+    "Name": "COWIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "360350.KQ",
+    "Name": "COXEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "413630.KQ",
+    "Name": "CP SYSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101240.KQ",
+    "Name": "CQV",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065770.KQ",
+    "Name": "CS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "297090.KQ",
+    "Name": "CS BEARING",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083660.KQ",
+    "Name": "CSA Cosmic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060590.KQ",
+    "Name": "CTC BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "260930.KQ",
+    "Name": "CTK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "071850.KQ",
+    "Name": "CTK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115480.KQ",
+    "Name": "CU MEDICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376290.KQ",
+    "Name": "CU TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "182360.KQ",
+    "Name": "CUBEENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021650.KQ",
+    "Name": "CUBIC KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060280.KQ",
+    "Name": "CUREXO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051780.KQ",
+    "Name": "CUROHOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "355390.KQ",
+    "Name": "CWORKS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900120.KQ",
+    "Name": "CXI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "160980.KQ",
+    "Name": "CYMECHS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042000.KQ",
+    "Name": "Cafe24 Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050110.KQ",
+    "Name": "CammSys",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452300.KQ",
+    "Name": "Capstone Partners",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214370.KQ",
+    "Name": "Caregen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016920.KQ",
+    "Name": "Cas",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "331920.KQ",
+    "Name": "Celemics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352770.KQ",
+    "Name": "Celestra",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "318160.KQ",
+    "Name": "Cell Bio Human Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "308430.KQ",
+    "Name": "Cellbion",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068940.KQ",
+    "Name": "Cellfie Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "299660.KQ",
+    "Name": "Cellid",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068760.KQ",
+    "Name": "Celltrionph",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "004650.KQ",
+    "Name": "Changhae Ethanol",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "220260.KQ",
+    "Name": "Chemtros",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066360.KQ",
+    "Name": "Cherrybro",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033100.KQ",
+    "Name": "CheryongElec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "147830.KQ",
+    "Name": "CheryongInd",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "034940.KQ",
+    "Name": "ChoA Pharm.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "278280.KQ",
+    "Name": "Chunbo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045520.KQ",
+    "Name": "Clean & Science",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045970.KQ",
+    "Name": "CoAsia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "196450.KQ",
+    "Name": "CoAsia CM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047770.KQ",
+    "Name": "Codes Combine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900310.KQ",
+    "Name": "Coloray",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "063080.KQ",
+    "Name": "Com2uS Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104540.KQ",
+    "Name": "Corentec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082660.KQ",
+    "Name": "Cosnine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "110790.KQ",
+    "Name": "CreaS F&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040350.KQ",
+    "Name": "CreoSG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096240.KQ",
+    "Name": "Creverse",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041460.KQ",
+    "Name": "Crosscert",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900250.KQ",
+    "Name": "Crystal New Material",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "445680.KQ",
+    "Name": "Curiox Biosystems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "372320.KQ",
+    "Name": "Curocell",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "356890.KQ",
+    "Name": "CyberOne",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217330.KQ",
+    "Name": "Cytogen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263720.KQ",
+    "Name": "D&C MEDIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347850.KQ",
+    "Name": "D&D Pharmatech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290670.KQ",
+    "Name": "DAE BO MAGNETIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045390.KQ",
+    "Name": "DAEATI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "393970.KQ",
+    "Name": "DAEJIN ADVANCED MATERIALS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078600.KQ",
+    "Name": "DAEJOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "120240.KQ",
+    "Name": "DAEJUNG C&M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317850.KQ",
+    "Name": "DAEMO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048470.KQ",
+    "Name": "DAESCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007680.KQ",
+    "Name": "DAEWON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048910.KQ",
+    "Name": "DAEWON MEDIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131220.KQ",
+    "Name": "DAIHAN Scientific",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064260.KQ",
+    "Name": "DANAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032190.KQ",
+    "Name": "DAOU DATA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066900.KQ",
+    "Name": "DAP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039560.KQ",
+    "Name": "DASANNetwork",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "196490.KQ",
+    "Name": "DAT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263800.KQ",
+    "Name": "DATASOLUTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "323350.KQ",
+    "Name": "DAWON NEXVIEW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068240.KQ",
+    "Name": "DAWONSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "108380.KQ",
+    "Name": "DAYANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "477760.KQ",
+    "Name": "DB Finance No.12 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "489730.KQ",
+    "Name": "DB Finance No.13 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "0004Y0.KQ",
+    "Name": "DB Finance No.14 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099410.KQ",
+    "Name": "DBSM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033130.KQ",
+    "Name": "DChosun",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079810.KQ",
+    "Name": "DE&T",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376300.KQ",
+    "Name": "DEARU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "315640.KQ",
+    "Name": "DEEPNOID",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "261200.KQ",
+    "Name": "DENTIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263600.KQ",
+    "Name": "DERKWOO ELECTRONICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067990.KQ",
+    "Name": "DEUTSCH MOTORS INC.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187870.KQ",
+    "Name": "DEVICE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043360.KQ",
+    "Name": "DGI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099520.KQ",
+    "Name": "DGI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060900.KQ",
+    "Name": "DGP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290120.KQ",
+    "Name": "DH AUTOLEAD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067080.KQ",
+    "Name": "DH PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025440.KQ",
+    "Name": "DHAUTOWARE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054670.KQ",
+    "Name": "DHNP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "031860.KQ",
+    "Name": "DHX Company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "020180.KQ",
+    "Name": "DIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131180.KQ",
+    "Name": "DILLI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039840.KQ",
+    "Name": "DIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "110990.KQ",
+    "Name": "DIT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263020.KQ",
+    "Name": "DK&D",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "105740.KQ",
+    "Name": "DK-Lok",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290550.KQ",
+    "Name": "DKT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389260.KQ",
+    "Name": "DMENG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016670.KQ",
+    "Name": "DMOA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068790.KQ",
+    "Name": "DMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092070.KQ",
+    "Name": "DNF",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088130.KQ",
+    "Name": "DONG A ELTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041930.KQ",
+    "Name": "DONGAHWASUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109860.KQ",
+    "Name": "DONGIL METAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005290.KQ",
+    "Name": "DONGJIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005160.KQ",
+    "Name": "DONGKUK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "075970.KQ",
+    "Name": "DONGKUK R&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033500.KQ",
+    "Name": "DONGSUNG FINETEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025900.KQ",
+    "Name": "DONGWHA ENTERPRISE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088910.KQ",
+    "Name": "DONGWOO FARM TO TABLE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094170.KQ",
+    "Name": "DONGWOON ANATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079960.KQ",
+    "Name": "DONGYANG E&P",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131970.KQ",
+    "Name": "DOOSAN TESNA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "484120.KQ",
+    "Name": "DOWOOINSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462860.KQ",
+    "Name": "DOZN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "362990.KQ",
+    "Name": "DREAMINSIGHT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263690.KQ",
+    "Name": "DRGEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214680.KQ",
+    "Name": "DRTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241520.KQ",
+    "Name": "DSC Investment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "077360.KQ",
+    "Name": "DSHM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109740.KQ",
+    "Name": "DSK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036480.KQ",
+    "Name": "DSMBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096350.KQ",
+    "Name": "DSOL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "383930.KQ",
+    "Name": "DT&CRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066670.KQ",
+    "Name": "DTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "176750.KQ",
+    "Name": "DUCHEMBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "213420.KQ",
+    "Name": "DUK SAN NEOLUX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073190.KQ",
+    "Name": "DUOBACK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "180400.KQ",
+    "Name": "DXVX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060380.KQ",
+    "Name": "DY S·TEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "310870.KQ",
+    "Name": "DYC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "219550.KQ",
+    "Name": "DYD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104460.KQ",
+    "Name": "DYPNF",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290380.KQ",
+    "Name": "Dae Yu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140520.KQ",
+    "Name": "DaeChang Steel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078140.KQ",
+    "Name": "Daebongls",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "008830.KQ",
+    "Name": "DaedongGear",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "020400.KQ",
+    "Name": "DaedongMetal",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "003310.KQ",
+    "Name": "Daejoo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017650.KQ",
+    "Name": "DaelimPaper",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "004780.KQ",
+    "Name": "Daeryuk",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065150.KQ",
+    "Name": "Daesan F&B",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104040.KQ",
+    "Name": "Daesung Fine Tec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "129920.KQ",
+    "Name": "Daesung Hi-Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027830.KQ",
+    "Name": "Daesung PE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005710.KQ",
+    "Name": "Daewonsanup",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023910.KQ",
+    "Name": "DaihanPharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "457630.KQ",
+    "Name": "DaishinBalanceNo.16 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "471050.KQ",
+    "Name": "DaishinBalanceNo.17 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "478780.KQ",
+    "Name": "DaishinBalanceNo.18 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "482690.KQ",
+    "Name": "DaishinBalanceNo.19 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "154040.KQ",
+    "Name": "Dasan Solueta",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340360.KQ",
+    "Name": "Davolink",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "373160.KQ",
+    "Name": "Day1 Company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "223310.KQ",
+    "Name": "DeepMind",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "194480.KQ",
+    "Name": "Devsisters",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "206560.KQ",
+    "Name": "Dexter studios",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "113810.KQ",
+    "Name": "Dgenx",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "197140.KQ",
+    "Name": "DigiCAP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068930.KQ",
+    "Name": "Digital DS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "240550.KQ",
+    "Name": "DongBang Medical",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006620.KQ",
+    "Name": "DongKoo Bio & Pharma",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "303810.KQ",
+    "Name": "DongKook Life Science",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086450.KQ",
+    "Name": "DongKook Pharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023790.KQ",
+    "Name": "Dongil Steelux",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032960.KQ",
+    "Name": "DongilTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100130.KQ",
+    "Name": "Dongkuk S&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025950.KQ",
+    "Name": "DongshinE&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013120.KQ",
+    "Name": "Dongwon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "030350.KQ",
+    "Name": "Dragonfly",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "203650.KQ",
+    "Name": "Dream Security",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "223250.KQ",
+    "Name": "DreamCIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060570.KQ",
+    "Name": "Dreamus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187220.KQ",
+    "Name": "Dt&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317330.KQ",
+    "Name": "Duksan Techopia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090410.KQ",
+    "Name": "Dukshinepc",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096040.KQ",
+    "Name": "E-TRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024810.KQ",
+    "Name": "E.T.I",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "418620.KQ",
+    "Name": "E8",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039020.KQ",
+    "Name": "EAGON HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "353810.KQ",
+    "Name": "EASYBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "230360.KQ",
+    "Name": "ECHO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "128540.KQ",
+    "Name": "ECOCAB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448280.KQ",
+    "Name": "ECOEYE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038110.KQ",
+    "Name": "ECOPLASTIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086520.KQ",
+    "Name": "ECOPRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "383310.KQ",
+    "Name": "ECOPRO HN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "247540.KQ",
+    "Name": "ECOPROBM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067010.KQ",
+    "Name": "ECS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "245620.KQ",
+    "Name": "EDGC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037370.KQ",
+    "Name": "EG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377330.KQ",
+    "Name": "EGT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041520.KQ",
+    "Name": "ELC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037950.KQ",
+    "Name": "ELCOMTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "063760.KQ",
+    "Name": "ELP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065440.KQ",
+    "Name": "ELUON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091120.KQ",
+    "Name": "EM-Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095190.KQ",
+    "Name": "EMKOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123570.KQ",
+    "Name": "EMNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058970.KQ",
+    "Name": "EMRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083470.KQ",
+    "Name": "EMnI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352940.KQ",
+    "Name": "ENBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "456070.KQ",
+    "Name": "ENCell",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019990.KQ",
+    "Name": "ENERTORK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "102710.KQ",
+    "Name": "ENF",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "419080.KQ",
+    "Name": "ENJET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317870.KQ",
+    "Name": "ENVIONEER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "183490.KQ",
+    "Name": "ENZYCHEM LSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039030.KQ",
+    "Name": "EO Technics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "294090.KQ",
+    "Name": "EOFlow",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "435570.KQ",
+    "Name": "ERCOHS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050120.KQ",
+    "Name": "ES CUBE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "239340.KQ",
+    "Name": "ESTaid",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069510.KQ",
+    "Name": "ESTec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047560.KQ",
+    "Name": "ESTsoft",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023410.KQ",
+    "Name": "EUGENE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131400.KQ",
+    "Name": "EV.A.M.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088290.KQ",
+    "Name": "EWON COMFORT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054940.KQ",
+    "Name": "EXA E&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092870.KQ",
+    "Name": "EXICON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "031310.KQ",
+    "Name": "EYESVISION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044960.KQ",
+    "Name": "Eagle Vet. Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900110.KQ",
+    "Name": "East Asia Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035810.KQ",
+    "Name": "EasyHoldings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "478110.KQ",
+    "Name": "Ebest No 6 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "097780.KQ",
+    "Name": "Eco Volt",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101360.KQ",
+    "Name": "Eco&Dream",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038870.KQ",
+    "Name": "EcoBio Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "159910.KQ",
+    "Name": "EcoGlow",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "105550.KQ",
+    "Name": "Edge Foundry",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "001840.KQ",
+    "Name": "Eehwa",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "264850.KQ",
+    "Name": "Elensys",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054210.KQ",
+    "Name": "Elentec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "169330.KQ",
+    "Name": "Embrain",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208860.KQ",
+    "Name": "EnGIS Technologies",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348370.KQ",
+    "Name": "Enchem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950140.KQ",
+    "Name": "Englewood Lab",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043340.KQ",
+    "Name": "Essen Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "206650.KQ",
+    "Name": "EuBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "468760.KQ",
+    "Name": "Eugene SPAC X",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "488060.KQ",
+    "Name": "Eugene SPAC XI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084370.KQ",
+    "Name": "Eugenetech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263050.KQ",
+    "Name": "Eutilex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "270660.KQ",
+    "Name": "Everybot",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069920.KQ",
+    "Name": "Exion Group",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "185490.KQ",
+    "Name": "Eyegene",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "440110.KQ",
+    "Name": "FADU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "150900.KQ",
+    "Name": "FASOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "368770.KQ",
+    "Name": "FIBERPRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049120.KQ",
+    "Name": "FINE DNC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036810.KQ",
+    "Name": "FINE SEMITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038950.KQ",
+    "Name": "FINEDIGITAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "106240.KQ",
+    "Name": "FINETECHNIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131760.KQ",
+    "Name": "FINETEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "163730.KQ",
+    "Name": "FINGER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033790.KQ",
+    "Name": "FINO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "300080.KQ",
+    "Name": "FLITTO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "173940.KQ",
+    "Name": "FNC Ent.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083500.KQ",
+    "Name": "FNS TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "331380.KQ",
+    "Name": "FOCUS AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290720.KQ",
+    "Name": "FOODNAMOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005670.KQ",
+    "Name": "FOODWELL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "189690.KQ",
+    "Name": "FORCS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "119500.KQ",
+    "Name": "FORMETAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073540.KQ",
+    "Name": "FRTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214270.KQ",
+    "Name": "FSN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032800.KQ",
+    "Name": "Fantagio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027710.KQ",
+    "Name": "FarmStory",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225590.KQ",
+    "Name": "Fashion Platform",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032580.KQ",
+    "Name": "Fidelix",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "387570.KQ",
+    "Name": "Fine Co., Ltd.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "441270.KQ",
+    "Name": "Fine M-Tec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "127980.KQ",
+    "Name": "Finecircuit",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417180.KQ",
+    "Name": "Finger Story",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041590.KQ",
+    "Name": "Flask",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064850.KQ",
+    "Name": "FnGuide",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053160.KQ",
+    "Name": "Freems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377220.KQ",
+    "Name": "From Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "370090.KQ",
+    "Name": "Furonteer",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "151910.KQ",
+    "Name": "FutureCore",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "220100.KQ",
+    "Name": "Futurechem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "382480.KQ",
+    "Name": "G.I.Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053270.KQ",
+    "Name": "G.Y.TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "456160.KQ",
+    "Name": "G2GBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "388050.KQ",
+    "Name": "G2Power",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079940.KQ",
+    "Name": "GABIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051160.KQ",
+    "Name": "GAEASOFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036620.KQ",
+    "Name": "GAMSUNG Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "399720.KQ",
+    "Name": "GAONCHIPS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "144510.KQ",
+    "Name": "GC CELL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340450.KQ",
+    "Name": "GCG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "142280.KQ",
+    "Name": "GCMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234690.KQ",
+    "Name": "GCWB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109820.KQ",
+    "Name": "GENEMATRIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263860.KQ",
+    "Name": "GENIANS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389030.KQ",
+    "Name": "GENINUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225220.KQ",
+    "Name": "GENOLUTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122310.KQ",
+    "Name": "GENORAY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036190.KQ",
+    "Name": "GEUMHWA PSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "388610.KQ",
+    "Name": "GFC Life Science",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "407400.KQ",
+    "Name": "GGUMBI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "130500.KQ",
+    "Name": "GH Advanced Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950190.KQ",
+    "Name": "GHOSTS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "358570.KQ",
+    "Name": "GI Innovation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "289220.KQ",
+    "Name": "GIANTSTEP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049080.KQ",
+    "Name": "GIGALANE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "446840.KQ",
+    "Name": "GITSN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019660.KQ",
+    "Name": "GLOBON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204840.KQ",
+    "Name": "GLPT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "119850.KQ",
+    "Name": "GNCENERGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065060.KQ",
+    "Name": "GNCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "311320.KQ",
+    "Name": "GO Element",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215000.KQ",
+    "Name": "GOLFZON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "121440.KQ",
+    "Name": "GOLFZON HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033340.KQ",
+    "Name": "GOODPEOPLE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "114450.KQ",
+    "Name": "GREEN LIFESCIENCE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204020.KQ",
+    "Name": "GRITEE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900290.KQ",
+    "Name": "GRT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053050.KQ",
+    "Name": "GSE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900070.KQ",
+    "Name": "GSMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083450.KQ",
+    "Name": "GST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036180.KQ",
+    "Name": "GWV",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094480.KQ",
+    "Name": "GalaxiaMoneytree",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082270.KQ",
+    "Name": "GemVax",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "229000.KQ",
+    "Name": "Gencurix",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086060.KQ",
+    "Name": "GeneBioTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217190.KQ",
+    "Name": "Genesem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "363250.KQ",
+    "Name": "Genesystem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095700.KQ",
+    "Name": "Genexine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123330.KQ",
+    "Name": "Genic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "361390.KQ",
+    "Name": "Genohco",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "314130.KQ",
+    "Name": "Genome&Company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "228760.KQ",
+    "Name": "Genomictree",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "420770.KQ",
+    "Name": "GigaVis",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204620.KQ",
+    "Name": "Global Tax Free",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "382800.KQ",
+    "Name": "GnBS eco",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035290.KQ",
+    "Name": "Gold&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035080.KQ",
+    "Name": "Gradiant",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "402490.KQ",
+    "Name": "Green Resource",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "057880.KQ",
+    "Name": "Green pine tree",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "453450.KQ",
+    "Name": "Gridwiz",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044990.KQ",
+    "Name": "H&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "357230.KQ",
+    "Name": "H.PIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066130.KQ",
+    "Name": "HAATZ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "299030.KQ",
+    "Name": "HANA TECHNOLOGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "457370.KQ",
+    "Name": "HANCHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "030520.KQ",
+    "Name": "HANCOM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "220180.KQ",
+    "Name": "HANDYSOFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007770.KQ",
+    "Name": "HANILCHEMIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058450.KQ",
+    "Name": "HANJOO ART",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "198940.KQ",
+    "Name": "HANJOO LIGHT METAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092460.KQ",
+    "Name": "HANLA IMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052600.KQ",
+    "Name": "HANNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042520.KQ",
+    "Name": "HANS BIOMED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452280.KQ",
+    "Name": "HANSUN ENGINEERING",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066980.KQ",
+    "Name": "HANSUNG CLEANTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "098070.KQ",
+    "Name": "HANTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "455310.KQ",
+    "Name": "HANWHA PLUS NO 4 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "498390.KQ",
+    "Name": "HANWHA PLUS NO 5 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078350.KQ",
+    "Name": "HANYANG DIGI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045100.KQ",
+    "Name": "HANYANG ENG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "136480.KQ",
+    "Name": "HARIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "450330.KQ",
+    "Name": "HASS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "440290.KQ",
+    "Name": "HB Investment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "297890.KQ",
+    "Name": "HB SOLUTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078150.KQ",
+    "Name": "HB Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452190.KQ",
+    "Name": "HBL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047080.KQ",
+    "Name": "HBS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225530.KQ",
+    "Name": "HC BoKwang Industry",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060560.KQ",
+    "Name": "HC HomeCenter",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072990.KQ",
+    "Name": "HCT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048410.KQ",
+    "Name": "HDBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "256150.KQ",
+    "Name": "HDCTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "170030.KQ",
+    "Name": "HDI21",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037440.KQ",
+    "Name": "HEERIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376270.KQ",
+    "Name": "HEM Pharma",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900270.KQ",
+    "Name": "HENG SHENG GROUP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "010240.KQ",
+    "Name": "HEUNGKUK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "230240.KQ",
+    "Name": "HFR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "450050.KQ",
+    "Name": "HI-8 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "160190.KQ",
+    "Name": "HIGEN RNM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "238490.KQ",
+    "Name": "HIMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "221840.KQ",
+    "Name": "HIZEAERO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044780.KQ",
+    "Name": "HK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "195940.KQ",
+    "Name": "HK inno.N",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023760.KQ",
+    "Name": "HKCapital",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037230.KQ",
+    "Name": "HKPAK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "028300.KQ",
+    "Name": "HLB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187420.KQ",
+    "Name": "HLB Genex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046210.KQ",
+    "Name": "HLB PANAGENE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "196300.KQ",
+    "Name": "HLB PEP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115450.KQ",
+    "Name": "HLB Therapeutics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024850.KQ",
+    "Name": "HLB innoVation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067630.KQ",
+    "Name": "HLBLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047920.KQ",
+    "Name": "HLBPHARMA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "278650.KQ",
+    "Name": "HLBbioStep",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "239610.KQ",
+    "Name": "HLSCIENCE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462020.KQ",
+    "Name": "HMCIB No.6SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "477340.KQ",
+    "Name": "HMCIB No.7SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036170.KQ",
+    "Name": "HMNEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101680.KQ",
+    "Name": "HNK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "403870.KQ",
+    "Name": "HPSP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036640.KQ",
+    "Name": "HRS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039610.KQ",
+    "Name": "HS VALVE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "106190.KQ",
+    "Name": "HTP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "175140.KQ",
+    "Name": "HUMAN TECHNOLOGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "205470.KQ",
+    "Name": "HUMASIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115160.KQ",
+    "Name": "HUMAX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "028080.KQ",
+    "Name": "HUMAX Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290270.KQ",
+    "Name": "HUNESION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "295310.KQ",
+    "Name": "HVM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "276730.KQ",
+    "Name": "HW & Jeju",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "061250.KQ",
+    "Name": "HWAIL PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126640.KQ",
+    "Name": "HWASHIN PRECISION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013030.KQ",
+    "Name": "HY-LOKCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "097870.KQ",
+    "Name": "HYOSUNG ONB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "148930.KQ",
+    "Name": "HYTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078590.KQ",
+    "Name": "HYULIM A-TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052260.KQ",
+    "Name": "HYUNDAI BIOLAND",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041440.KQ",
+    "Name": "HYUNDAI EVERDIGM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090850.KQ",
+    "Name": "HYUNDAI EZWEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016790.KQ",
+    "Name": "HYUNDAI FEED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039010.KQ",
+    "Name": "HYUNDAI HT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "460930.KQ",
+    "Name": "HYUNDAI HYMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "319400.KQ",
+    "Name": "HYUNDAI MOVEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "011080.KQ",
+    "Name": "HYUNGJI I&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092300.KQ",
+    "Name": "HYUNWOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "034810.KQ",
+    "Name": "HaeSung",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "03481K.KQ",
+    "Name": "HaeSung(1P)",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "076610.KQ",
+    "Name": "Haesung Optics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "059270.KQ",
+    "Name": "Haisung Aero-Robotics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "107640.KQ",
+    "Name": "HanJungNCS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025550.KQ",
+    "Name": "HanSun",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "320000.KQ",
+    "Name": "HanWool Semi",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "446750.KQ",
+    "Name": "Hana 26 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448370.KQ",
+    "Name": "Hana 27 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "454750.KQ",
+    "Name": "Hana 28 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "454640.KQ",
+    "Name": "Hana 29 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "469880.KQ",
+    "Name": "Hana 30 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "469900.KQ",
+    "Name": "Hana 31 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475240.KQ",
+    "Name": "Hana 32 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475250.KQ",
+    "Name": "Hana 33 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "0041L0.KQ",
+    "Name": "Hana 35 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "166090.KQ",
+    "Name": "Hana Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067310.KQ",
+    "Name": "Hana Micron",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "484130.KQ",
+    "Name": "Hana Thirty-four SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079170.KQ",
+    "Name": "Hanchang",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054920.KQ",
+    "Name": "Hancom WITH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005860.KQ",
+    "Name": "HanilFeed",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024740.KQ",
+    "Name": "HanilForging",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "114810.KQ",
+    "Name": "Hansol IONES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "070590.KQ",
+    "Name": "Hansol Intic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "430690.KQ",
+    "Name": "Hanssak",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "002680.KQ",
+    "Name": "Hantop",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091440.KQ",
+    "Name": "Hanwool MS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "003380.KQ",
+    "Name": "Harim Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234340.KQ",
+    "Name": "Hecto Financial",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214180.KQ",
+    "Name": "Hecto Innovation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084990.KQ",
+    "Name": "Helixmith",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024060.KQ",
+    "Name": "Heungu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "365590.KQ",
+    "Name": "HiDeep",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "149980.KQ",
+    "Name": "Hironic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263920.KQ",
+    "Name": "HuM&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "145020.KQ",
+    "Name": "Hugel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200670.KQ",
+    "Name": "Humedix",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "243070.KQ",
+    "Name": "Huons",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084110.KQ",
+    "Name": "Huons Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "353190.KQ",
+    "Name": "Hurum",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065510.KQ",
+    "Name": "Huvitz",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126700.KQ",
+    "Name": "HyVISION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101670.KQ",
+    "Name": "Hydro Lithium",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065650.KQ",
+    "Name": "Hyper Corporation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090710.KQ",
+    "Name": "Hyulim ROBOT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "308100.KQ",
+    "Name": "Hyungji Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "189980.KQ",
+    "Name": "Hyungkuk F&B",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "138360.KQ",
+    "Name": "Hyupjin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052860.KQ",
+    "Name": "I&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066430.KQ",
+    "Name": "I-ROBOTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "339950.KQ",
+    "Name": "IBKIMYOUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "442770.KQ",
+    "Name": "IBKS No.21 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448760.KQ",
+    "Name": "IBKS No.22 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "467930.KQ",
+    "Name": "IBKS No.23 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "469480.KQ",
+    "Name": "IBKS No.24 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "059100.KQ",
+    "Name": "IC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040910.KQ",
+    "Name": "ICD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "368600.KQ",
+    "Name": "ICH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "456010.KQ",
+    "Name": "ICTK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "143160.KQ",
+    "Name": "IDIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054800.KQ",
+    "Name": "IDIS Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "332370.KQ",
+    "Name": "IDP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "114840.KQ",
+    "Name": "IFAMILYSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067920.KQ",
+    "Name": "IGLOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "307180.KQ",
+    "Name": "IL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "333430.KQ",
+    "Name": "IL SEUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094820.KQ",
+    "Name": "ILJIN POWER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "178780.KQ",
+    "Name": "ILWOUL GML",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101390.KQ",
+    "Name": "IM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115610.KQ",
+    "Name": "IMAGIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "461030.KQ",
+    "Name": "IMBdx",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "451220.KQ",
+    "Name": "IMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083640.KQ",
+    "Name": "INCON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "071200.KQ",
+    "Name": "INFINITT Healthcare",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115310.KQ",
+    "Name": "INFOvine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452400.KQ",
+    "Name": "INICS Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053350.KQ",
+    "Name": "INITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215790.KQ",
+    "Name": "INNO INSTRUMENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "303530.KQ",
+    "Name": "INNODEP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "344860.KQ",
+    "Name": "INNOGENE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "302430.KQ",
+    "Name": "INNOMETRY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "296640.KQ",
+    "Name": "INNORULES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "274400.KQ",
+    "Name": "INNOSIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462350.KQ",
+    "Name": "INNOSPACE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088390.KQ",
+    "Name": "INNOX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "272290.KQ",
+    "Name": "INNOX Advanced Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "277410.KQ",
+    "Name": "INSAN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060150.KQ",
+    "Name": "INSUN ENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033230.KQ",
+    "Name": "INSUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064290.KQ",
+    "Name": "INTEKPLUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051370.KQ",
+    "Name": "INTERFLEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "119610.KQ",
+    "Name": "INTEROJO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049070.KQ",
+    "Name": "INTOPS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079950.KQ",
+    "Name": "INVENIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037330.KQ",
+    "Name": "INZI DISPLAY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "262840.KQ",
+    "Name": "IQUEST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "009730.KQ",
+    "Name": "IREM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "351330.KQ",
+    "Name": "ISAAC Engineering",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095340.KQ",
+    "Name": "ISC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "212710.KQ",
+    "Name": "ISTE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086890.KQ",
+    "Name": "ISU ABXIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "309710.KQ",
+    "Name": "IT-CHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "287840.KQ",
+    "Name": "ITC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "010280.KQ",
+    "Name": "ITCENENTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "124500.KQ",
+    "Name": "ITCENGLOBAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "232830.KQ",
+    "Name": "ITCENPNS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "119830.KQ",
+    "Name": "ITEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "372800.KQ",
+    "Name": "ITEYES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084850.KQ",
+    "Name": "ITM Semiconductor",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052770.KQ",
+    "Name": "ITOXI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "460470.KQ",
+    "Name": "IVIM Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "469750.KQ",
+    "Name": "IVISIONWORKS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389470.KQ",
+    "Name": "IVTG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "175250.KQ",
+    "Name": "Icure Pharm. Inc.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019540.KQ",
+    "Name": "IljiTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "424870.KQ",
+    "Name": "ImmuneOncia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041830.KQ",
+    "Name": "InBody",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "211050.KQ",
+    "Name": "Incar Financial Service",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "216050.KQ",
+    "Name": "Incross",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039290.KQ",
+    "Name": "InfoBank",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101930.KQ",
+    "Name": "Inhwa Precision",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049550.KQ",
+    "Name": "InkTec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064090.KQ",
+    "Name": "InkredibleBuzz",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073490.KQ",
+    "Name": "Innowireless",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "465480.KQ",
+    "Name": "Inspien",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "450520.KQ",
+    "Name": "Inswave",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "189300.KQ",
+    "Name": "Intellian Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017250.KQ",
+    "Name": "Interm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "150840.KQ",
+    "Name": "IntroMedic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100030.KQ",
+    "Name": "Inzisoft",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464500.KQ",
+    "Name": "Iron Device",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "026040.KQ",
+    "Name": "J.ESTINA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "420570.KQ",
+    "Name": "J2KBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "000440.KQ",
+    "Name": "JA Enervis",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049630.KQ",
+    "Name": "JAEYOUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090470.KQ",
+    "Name": "JASTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "137950.KQ",
+    "Name": "JC Chemical",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033320.KQ",
+    "Name": "JCH Systems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "412540.KQ",
+    "Name": "JEIL M&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038010.KQ",
+    "Name": "JEIL TECHNOS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "418550.KQ",
+    "Name": "JEIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036930.KQ",
+    "Name": "JEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "216080.KQ",
+    "Name": "JETEMA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417500.KQ",
+    "Name": "JI-Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036890.KQ",
+    "Name": "JINSUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007370.KQ",
+    "Name": "JINYANGPHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "285800.KQ",
+    "Name": "JINYOUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "110020.KQ",
+    "Name": "JJBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "322510.KQ",
+    "Name": "JLK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033050.KQ",
+    "Name": "JMI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094970.KQ",
+    "Name": "JMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452160.KQ",
+    "Name": "JNB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126880.KQ",
+    "Name": "JNK Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204270.KQ",
+    "Name": "JNTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044060.KQ",
+    "Name": "JOKWANG ILI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051980.KQ",
+    "Name": "JOONGANG AM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "127120.KQ",
+    "Name": "JS Link",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208350.KQ",
+    "Name": "JS.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080220.KQ",
+    "Name": "JSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023440.KQ",
+    "Name": "JSCO Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089790.KQ",
+    "Name": "JT Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950170.KQ",
+    "Name": "JTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208140.KQ",
+    "Name": "JUNGDAWN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054950.KQ",
+    "Name": "JVM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067290.KQ",
+    "Name": "JW SHINYAK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035900.KQ",
+    "Name": "JYP Ent.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "174880.KQ",
+    "Name": "JangWon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067000.KQ",
+    "Name": "JoyCity",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018120.KQ",
+    "Name": "JrDistiller",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417840.KQ",
+    "Name": "Justem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "102370.KQ",
+    "Name": "K Auction",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053080.KQ",
+    "Name": "K-ENSOL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039240.KQ",
+    "Name": "K-Steel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "431190.KQ",
+    "Name": "K3I",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017890.KQ",
+    "Name": "KAI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "284620.KQ",
+    "Name": "KAINOSMED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "062970.KQ",
+    "Name": "KAM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "198440.KQ",
+    "Name": "KANGDONG C&L",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014200.KQ",
+    "Name": "KANGLIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217730.KQ",
+    "Name": "KANGSTEM BIOTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "114190.KQ",
+    "Name": "KANGWON ENERGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078890.KQ",
+    "Name": "KAON Group",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "455250.KQ",
+    "Name": "KB No.25 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464680.KQ",
+    "Name": "KB No.27 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "478390.KQ",
+    "Name": "KB No.29 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "486630.KQ",
+    "Name": "KB No.30 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "492220.KQ",
+    "Name": "KB No.31 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "0037T0.KQ",
+    "Name": "KB No.32 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024120.KQ",
+    "Name": "KBA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "318000.KQ",
+    "Name": "KBG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200130.KQ",
+    "Name": "KBH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024840.KQ",
+    "Name": "KBI METAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038530.KQ",
+    "Name": "KBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025880.KQ",
+    "Name": "KC FEED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021320.KQ",
+    "Name": "KCC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054040.KQ",
+    "Name": "KCI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115500.KQ",
+    "Name": "KCS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089150.KQ",
+    "Name": "KCT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044180.KQ",
+    "Name": "KD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "221980.KQ",
+    "Name": "KDCHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "011040.KQ",
+    "Name": "KDPharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "106080.KQ",
+    "Name": "KEM Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079190.KQ",
+    "Name": "KESPION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053260.KQ",
+    "Name": "KEUM KANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054780.KQ",
+    "Name": "KEYEAST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123410.KQ",
+    "Name": "KFTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "151860.KQ",
+    "Name": "KG Eco Solution",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "455180.KQ",
+    "Name": "KGA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035600.KQ",
+    "Name": "KGINICIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046440.KQ",
+    "Name": "KGMBLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226360.KQ",
+    "Name": "KH Construction",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "111870.KQ",
+    "Name": "KH Mirae Corporation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060720.KQ",
+    "Name": "KH VATEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053300.KQ",
+    "Name": "KICA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025770.KQ",
+    "Name": "KICC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039740.KQ",
+    "Name": "KIES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093320.KQ",
+    "Name": "KINX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475430.KQ",
+    "Name": "KISTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039420.KQ",
+    "Name": "KL-Net",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "102940.KQ",
+    "Name": "KLS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083550.KQ",
+    "Name": "KM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225430.KQ",
+    "Name": "KMP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032500.KQ",
+    "Name": "KMW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058400.KQ",
+    "Name": "KNN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199430.KQ",
+    "Name": "KNR SYSTEMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "432470.KQ",
+    "Name": "KNS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "105330.KQ",
+    "Name": "KNW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "015710.KQ",
+    "Name": "KOCOM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046070.KQ",
+    "Name": "KODACO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080530.KQ",
+    "Name": "KODI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049430.KQ",
+    "Name": "KOMELON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041960.KQ",
+    "Name": "KOMIPHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052400.KQ",
+    "Name": "KONA I",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126730.KQ",
+    "Name": "KORCHIP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "190650.KQ",
+    "Name": "KOREA ASSET SEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032300.KQ",
+    "Name": "KOREA PHARMA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014570.KQ",
+    "Name": "KOREAN DRUG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052330.KQ",
+    "Name": "KORTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049720.KQ",
+    "Name": "KORYOINFO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089890.KQ",
+    "Name": "KOSES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "355150.KQ",
+    "Name": "KOSTECSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "121850.KQ",
+    "Name": "KOYJ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024880.KQ",
+    "Name": "KPF",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042040.KQ",
+    "Name": "KPM TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054410.KQ",
+    "Name": "KPTU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "034950.KQ",
+    "Name": "KR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093640.KQ",
+    "Name": "KRM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043650.KQ",
+    "Name": "KSDB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101000.KQ",
+    "Name": "KSI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073010.KQ",
+    "Name": "KSP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078130.KQ",
+    "Name": "KUK-IL PAPER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066620.KQ",
+    "Name": "KUKBO DESIGN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060480.KQ",
+    "Name": "KUKIL METAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "307750.KQ",
+    "Name": "KUKJEON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006050.KQ",
+    "Name": "KUKYOUNGG&M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068100.KQ",
+    "Name": "KWR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122450.KQ",
+    "Name": "KX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052900.KQ",
+    "Name": "KX HITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "282720.KQ",
+    "Name": "KYGP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053950.KQ",
+    "Name": "KYUNG NAM PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036560.KQ",
+    "Name": "KZPC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "293490.KQ",
+    "Name": "Kakao Games",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "256940.KQ",
+    "Name": "Keepspharma",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "274090.KQ",
+    "Name": "Kencoa Aerospace",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "139670.KQ",
+    "Name": "KineMaster",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035460.KQ",
+    "Name": "KisanTelecom",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "487720.KQ",
+    "Name": "Kiwoom No.10 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "489480.KQ",
+    "Name": "Kiwoom No.11 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "272110.KQ",
+    "Name": "KnJ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "473980.KQ",
+    "Name": "Knowmerce",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348150.KQ",
+    "Name": "KoBioLabs",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "183300.KQ",
+    "Name": "KoMiCo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "098460.KQ",
+    "Name": "Koh Young",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950160.KQ",
+    "Name": "Kolon TissueGene",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "402030.KQ",
+    "Name": "Konan Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039340.KQ",
+    "Name": "Korea Economic Broadcasting",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "458610.KQ",
+    "Name": "Korea No.12 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464440.KQ",
+    "Name": "Korea No.13 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "479880.KQ",
+    "Name": "Korea No.15 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "004590.KQ",
+    "Name": "KoreaFurni",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "391710.KQ",
+    "Name": "Kornic Automation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "192250.KQ",
+    "Name": "Ksign",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "026910.KQ",
+    "Name": "KwangjinInd",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "029480.KQ",
+    "Name": "Kwangmu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "456490.KQ",
+    "Name": "Kyobo 14 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "465320.KQ",
+    "Name": "Kyobo 15 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "482520.KQ",
+    "Name": "Kyobo 16 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "489210.KQ",
+    "Name": "Kyobo 17 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "0041B0.KQ",
+    "Name": "Kyobo 18 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024910.KQ",
+    "Name": "Kyungchang",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290650.KQ",
+    "Name": "L&C BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "156100.KQ",
+    "Name": "L&K BIOMED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "281740.KQ",
+    "Name": "LAKE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462510.KQ",
+    "Name": "LAMEDITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "309960.KQ",
+    "Name": "LB Investment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "061970.KQ",
+    "Name": "LB SEMICON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "141080.KQ",
+    "Name": "LCB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096870.KQ",
+    "Name": "LDT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "012700.KQ",
+    "Name": "LEADCORP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016100.KQ",
+    "Name": "LEADERS COSMETICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058470.KQ",
+    "Name": "LEENO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "294140.KQ",
+    "Name": "LEMON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069540.KQ",
+    "Name": "LIGHTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474650.KQ",
+    "Name": "LINCSOLUTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "171120.KQ",
+    "Name": "LION CHEMTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "489500.KQ",
+    "Name": "LK CHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225190.KQ",
+    "Name": "LK SAMYANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073110.KQ",
+    "Name": "LMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067730.KQ",
+    "Name": "LOGISYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "083310.KQ",
+    "Name": "LOT Vacuum",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060370.KQ",
+    "Name": "LS Marine Solution",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417200.KQ",
+    "Name": "LS Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078020.KQ",
+    "Name": "LS SECURITIES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "0041J0.KQ",
+    "Name": "LS SPAC No. 1",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "322180.KQ",
+    "Name": "LS THiRA-UTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "170920.KQ",
+    "Name": "LTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038060.KQ",
+    "Name": "LUMENS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084650.KQ",
+    "Name": "LabGen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "300120.KQ",
+    "Name": "LaonPeople",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199550.KQ",
+    "Name": "Laseroptek",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "412350.KQ",
+    "Name": "Laserssel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "388790.KQ",
+    "Name": "LiComm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "277070.KQ",
+    "Name": "Lindeman Asia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "193250.KQ",
+    "Name": "Linked",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "219420.KQ",
+    "Name": "Linkgenesis",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073570.KQ",
+    "Name": "Lithium-for-earth",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474170.KQ",
+    "Name": "Lumir",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "328130.KQ",
+    "Name": "Lunit",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "001810.KQ",
+    "Name": "M.S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347890.KQ",
+    "Name": "M2I",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033310.KQ",
+    "Name": "M2N",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "476080.KQ",
+    "Name": "M83",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "087260.KQ",
+    "Name": "MA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "005990.KQ",
+    "Name": "MAEIL HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093520.KQ",
+    "Name": "MAKUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021880.KQ",
+    "Name": "MASON CAPITAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377480.KQ",
+    "Name": "MAUM.AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "477380.KQ",
+    "Name": "MAV SPAC4",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "098120.KQ",
+    "Name": "MCS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086960.KQ",
+    "Name": "MDS Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241770.KQ",
+    "Name": "MECARO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014100.KQ",
+    "Name": "MED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041920.KQ",
+    "Name": "MEDIANA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054180.KQ",
+    "Name": "MEDICOX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078160.KQ",
+    "Name": "MEDIPOST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058110.KQ",
+    "Name": "MEKICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "059210.KQ",
+    "Name": "META",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "432980.KQ",
+    "Name": "MFC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032790.KQ",
+    "Name": "MGEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "424980.KQ",
+    "Name": "MICRO2NANO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "373170.KQ",
+    "Name": "MICUBE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "218150.KQ",
+    "Name": "MILAE BIORESOURCES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "408900.KQ",
+    "Name": "MIR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "254490.KQ",
+    "Name": "MIRAI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "179290.KQ",
+    "Name": "MITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033160.KQ",
+    "Name": "MKElectron",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095500.KQ",
+    "Name": "MNtech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "288980.KQ",
+    "Name": "MOADATA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "142760.KQ",
+    "Name": "MOALife",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033200.KQ",
+    "Name": "MOATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101330.KQ",
+    "Name": "MOBASE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "012860.KQ",
+    "Name": "MOBASE ELECTRONICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348030.KQ",
+    "Name": "MOBIRIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "333050.KQ",
+    "Name": "MOCOMSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080160.KQ",
+    "Name": "MODETOUR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "434480.KQ",
+    "Name": "MONITORAPP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "413390.KQ",
+    "Name": "MOT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "463480.KQ",
+    "Name": "MOTIVELINK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "118990.KQ",
+    "Name": "MOTREX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123040.KQ",
+    "Name": "MS AUTOTECH CO., LTD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "009780.KQ",
+    "Name": "MSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "413640.KQ",
+    "Name": "MTX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038290.KQ",
+    "Name": "Macrogen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "267980.KQ",
+    "Name": "Maeil Dairies",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "195500.KQ",
+    "Name": "Maniker F&G",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "439090.KQ",
+    "Name": "Manyo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222980.KQ",
+    "Name": "Mcnulty",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226590.KQ",
+    "Name": "Mdevice",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "201490.KQ",
+    "Name": "Me2on",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475460.KQ",
+    "Name": "MeatBox",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "235980.KQ",
+    "Name": "MedPacto",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "279600.KQ",
+    "Name": "MediaZen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086900.KQ",
+    "Name": "MedyTox",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "133750.KQ",
+    "Name": "MegaMD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "446540.KQ",
+    "Name": "Megatouch",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100590.KQ",
+    "Name": "Mercury",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "408920.KQ",
+    "Name": "Messe eSang",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140410.KQ",
+    "Name": "Mezzion Pharma",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058630.KQ",
+    "Name": "Mgame",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "059090.KQ",
+    "Name": "MiCo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "305090.KQ",
+    "Name": "Micro Digital",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452200.KQ",
+    "Name": "Mintech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "442900.KQ",
+    "Name": "Mirae Asset Dream SPAC 1",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100790.KQ",
+    "Name": "Mirae Asset Venture",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "446190.KQ",
+    "Name": "Mirae Asset Vision SPAC 2",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "477470.KQ",
+    "Name": "Mirae Asset Vision SPAC 5",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "478440.KQ",
+    "Name": "Mirae Asset Vision SPAC 6",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "482680.KQ",
+    "Name": "Mirae Asset Vision SPAC 7",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448830.KQ",
+    "Name": "Mirae Asset Vision SPAC3",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "363260.KQ",
+    "Name": "Mobidays",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "250060.KQ",
+    "Name": "Mobiis",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080420.KQ",
+    "Name": "Moda-InnoChips",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417970.KQ",
+    "Name": "Model Solution",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006920.KQ",
+    "Name": "Mohenz",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "207760.KQ",
+    "Name": "Mr. Blue",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067280.KQ",
+    "Name": "Multicampus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101400.KQ",
+    "Name": "N CITRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "286750.KQ",
+    "Name": "N.S.A.M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "227950.KQ",
+    "Name": "N2TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "153460.KQ",
+    "Name": "NABLE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "242040.KQ",
+    "Name": "NAMU TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "190510.KQ",
+    "Name": "NAMUGA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187790.KQ",
+    "Name": "NANO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "247660.KQ",
+    "Name": "NANOCMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "405920.KQ",
+    "Name": "NARA CELLAR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051490.KQ",
+    "Name": "NARA M&D",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "137080.KQ",
+    "Name": "NARAE NANOTECH CORP.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007390.KQ",
+    "Name": "NATURECELL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "293580.KQ",
+    "Name": "NAU IB Capital",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "459510.KQ",
+    "Name": "NAUROBOTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "236810.KQ",
+    "Name": "NBT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092600.KQ",
+    "Name": "NC&",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "238090.KQ",
+    "Name": "NDFOS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053290.KQ",
+    "Name": "NE Neungyule",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290660.KQ",
+    "Name": "NEOFECT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "212560.KQ",
+    "Name": "NEOOTO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094860.KQ",
+    "Name": "NEORIGIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "085910.KQ",
+    "Name": "NEOTIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095660.KQ",
+    "Name": "NEOWIZ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042420.KQ",
+    "Name": "NEOWIZ HOLDINDS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033640.KQ",
+    "Name": "NEPES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348340.KQ",
+    "Name": "NEUROMEKA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "160550.KQ",
+    "Name": "NEW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "463020.KQ",
+    "Name": "NEWEN AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "085670.KQ",
+    "Name": "NEWFLEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "225570.KQ",
+    "Name": "NEXON Games",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389650.KQ",
+    "Name": "NEXTBIOMEDICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "396270.KQ",
+    "Name": "NEXTCHIP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348210.KQ",
+    "Name": "NEXTIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089140.KQ",
+    "Name": "NEXTURNBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "205500.KQ",
+    "Name": "NEXUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "265740.KQ",
+    "Name": "NFC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "354200.KQ",
+    "Name": "NGeneBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "451700.KQ",
+    "Name": "NH SPAC 29",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "466910.KQ",
+    "Name": "NH SPAC 30",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "481890.KQ",
+    "Name": "NH SPAC 31",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104200.KQ",
+    "Name": "NHN BUGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060250.KQ",
+    "Name": "NHN KCP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "138610.KQ",
+    "Name": "NIBEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "130580.KQ",
+    "Name": "NICE D&B",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "063570.KQ",
+    "Name": "NICE Infra",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036800.KQ",
+    "Name": "NICEI&T",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "182400.KQ",
+    "Name": "NKMAX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043910.KQ",
+    "Name": "NNE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054050.KQ",
+    "Name": "NONGWOOBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "332290.KQ",
+    "Name": "NOUSBO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "194700.KQ",
+    "Name": "NOVAREX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "285490.KQ",
+    "Name": "NOVATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "291230.KQ",
+    "Name": "NP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048830.KQ",
+    "Name": "NPK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "144960.KQ",
+    "Name": "NPP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222160.KQ",
+    "Name": "NPX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475230.KQ",
+    "Name": "NRB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078860.KQ",
+    "Name": "NS ENM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "012340.KQ",
+    "Name": "NUINTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123840.KQ",
+    "Name": "NUON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060260.KQ",
+    "Name": "NUVOTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067570.KQ",
+    "Name": "NVH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "267320.KQ",
+    "Name": "Naintech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091590.KQ",
+    "Name": "Nam Hwa Const Co., Ltd.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "111710.KQ",
+    "Name": "Namhwa Industrial",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091970.KQ",
+    "Name": "Nano Chem Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417010.KQ",
+    "Name": "NanoTIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039860.KQ",
+    "Name": "NanoenTek",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "168330.KQ",
+    "Name": "NaturalendoTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "311390.KQ",
+    "Name": "Neo Cremar",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950220.KQ",
+    "Name": "NeoImmuneTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "306620.KQ",
+    "Name": "Neontech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092730.KQ",
+    "Name": "Neopharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "253590.KQ",
+    "Name": "Neosem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "330860.KQ",
+    "Name": "Nepes Ark",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217270.KQ",
+    "Name": "Neptune",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "380550.KQ",
+    "Name": "Neurophet",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "462310.KQ",
+    "Name": "New Kids On",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "270870.KQ",
+    "Name": "Newtree",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "351320.KQ",
+    "Name": "Nexa Dynamics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "137940.KQ",
+    "Name": "NextEye",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "145170.KQ",
+    "Name": "Nobland",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "106520.KQ",
+    "Name": "Noble M&B",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376930.KQ",
+    "Name": "Noul",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "333620.KQ",
+    "Name": "Nsys",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040160.KQ",
+    "Name": "NuriFlex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069140.KQ",
+    "Name": "Nuriplan",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417860.KQ",
+    "Name": "OBZEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039200.KQ",
+    "Name": "OCT Inc.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080520.KQ",
+    "Name": "ODTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "138080.KQ",
+    "Name": "OE Solutions",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "309930.KQ",
+    "Name": "OHEIM & Company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045060.KQ",
+    "Name": "OKONG Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080580.KQ",
+    "Name": "OKins",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "192410.KQ",
+    "Name": "ONEUL E&M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "173130.KQ",
+    "Name": "OPASNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014940.KQ",
+    "Name": "OPCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109080.KQ",
+    "Name": "OPTICIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082210.KQ",
+    "Name": "OPTRONTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131030.KQ",
+    "Name": "OPTUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900300.KQ",
+    "Name": "ORGANIC TEA COSMETICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "476040.KQ",
+    "Name": "ORGANOIDSCIENCES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "010470.KQ",
+    "Name": "ORICOM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475830.KQ",
+    "Name": "ORUM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036220.KQ",
+    "Name": "OSANG HEALTHCARE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053980.KQ",
+    "Name": "OSANGJAIEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "368970.KQ",
+    "Name": "OSP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226400.KQ",
+    "Name": "OSTEONIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052420.KQ",
+    "Name": "OSUNG ADVANCED MATERIALS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "227610.KQ",
+    "Name": "OUTIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352910.KQ",
+    "Name": "Obigo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052300.KQ",
+    "Name": "Ocean In W",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226950.KQ",
+    "Name": "OliX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "244460.KQ",
+    "Name": "Olipass",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "057540.KQ",
+    "Name": "Omnisystem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "382150.KQ",
+    "Name": "Oncocross",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "476060.KQ",
+    "Name": "Onconic Therapeutics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "382840.KQ",
+    "Name": "Onejoon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049480.KQ",
+    "Name": "Openbase",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "394280.KQ",
+    "Name": "Openedges Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "440320.KQ",
+    "Name": "Openknowl",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "380540.KQ",
+    "Name": "Opticore",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "153710.KQ",
+    "Name": "Optipharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046120.KQ",
+    "Name": "Orbitech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065500.KQ",
+    "Name": "Orient Precision Industries",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "239890.KQ",
+    "Name": "P&H TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347740.KQ",
+    "Name": "P&K Skin Research Center",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "460940.KQ",
+    "Name": "P&S Robotics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "137400.KQ",
+    "Name": "P&T",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065690.KQ",
+    "Name": "PAKERS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "271830.KQ",
+    "Name": "PAMTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068050.KQ",
+    "Name": "PAN ENTERTAINMENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091700.KQ",
+    "Name": "PARTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043200.KQ",
+    "Name": "PARU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037070.KQ",
+    "Name": "PASECO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "177830.KQ",
+    "Name": "PAVONINE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051380.KQ",
+    "Name": "PCD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241820.KQ",
+    "Name": "PCL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "168360.KQ",
+    "Name": "PEMTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "087010.KQ",
+    "Name": "PEPTRON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043370.KQ",
+    "Name": "PHA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "161580.KQ",
+    "Name": "PHILOPTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208710.KQ",
+    "Name": "PHOTON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452450.KQ",
+    "Name": "PIE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448900.KQ",
+    "Name": "PIM KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347770.KQ",
+    "Name": "PIMS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006140.KQ",
+    "Name": "PJ Electro",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "128660.KQ",
+    "Name": "PJ METAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "075130.KQ",
+    "Name": "PLANTYNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023770.KQ",
+    "Name": "PLAYWITH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035200.KQ",
+    "Name": "PLUMB FAST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "237750.KQ",
+    "Name": "PNC Technologies",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024940.KQ",
+    "Name": "PNPOONGNYUN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "257370.KQ",
+    "Name": "PNT Ms",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "318020.KQ",
+    "Name": "POINT MOBILE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "256630.KQ",
+    "Name": "POINTENG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "114630.KQ",
+    "Name": "POLARIS UNO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "472850.KQ",
+    "Name": "POND GROUP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "371950.KQ",
+    "Name": "POONGWON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "105760.KQ",
+    "Name": "POSBANK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "009520.KQ",
+    "Name": "POSCO M-TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "047310.KQ",
+    "Name": "POWER LOGICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037030.KQ",
+    "Name": "POWERNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "321260.KQ",
+    "Name": "PRO2000",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053610.KQ",
+    "Name": "PROTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "468530.KQ",
+    "Name": "PROTEINA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "303360.KQ",
+    "Name": "PROTIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "332570.KQ",
+    "Name": "PS Electronics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "319660.KQ",
+    "Name": "PSK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "031980.KQ",
+    "Name": "PSK HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "002230.KQ",
+    "Name": "PSTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094940.KQ",
+    "Name": "PULOON TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "251970.KQ",
+    "Name": "PUM-TECH KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093380.KQ",
+    "Name": "PUNGKANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007330.KQ",
+    "Name": "PUREUN S.BK.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222110.KQ",
+    "Name": "PanGen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054300.KQ",
+    "Name": "Panstar Enterprise",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033540.KQ",
+    "Name": "Paratech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140860.KQ",
+    "Name": "Park Systems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263750.KQ",
+    "Name": "PearlAbyss",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "304840.KQ",
+    "Name": "PeopleBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208340.KQ",
+    "Name": "PharmAbcine",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214450.KQ",
+    "Name": "PharmaResearch",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "318010.KQ",
+    "Name": "Pharmsville",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "388870.KQ",
+    "Name": "Pharos",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "378340.KQ",
+    "Name": "Philenergy",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376180.KQ",
+    "Name": "Picogram",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "291810.KQ",
+    "Name": "Pintel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "170790.KQ",
+    "Name": "Piolink",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "087600.KQ",
+    "Name": "Pixelplus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "405000.KQ",
+    "Name": "Plasmapp",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "367000.KQ",
+    "Name": "Plateer",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "237820.KQ",
+    "Name": "PlayD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019570.KQ",
+    "Name": "Plutus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039980.KQ",
+    "Name": "Polaris AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041910.KQ",
+    "Name": "Polaris AI Pharma",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041020.KQ",
+    "Name": "Polaris Office",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064800.KQ",
+    "Name": "PonyLink",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "335810.KQ",
+    "Name": "Precision Biosensor",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "334970.KQ",
+    "Name": "Prestige Biologics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "147760.KQ",
+    "Name": "Protec Mems Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "950200.KQ",
+    "Name": "Psomagen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023900.KQ",
+    "Name": "Pungguk Ethanol",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "445180.KQ",
+    "Name": "Purit",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016600.KQ",
+    "Name": "QCP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "405100.KQ",
+    "Name": "QRT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066310.KQ",
+    "Name": "QSI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "227100.KQ",
+    "Name": "QTON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "432720.KQ",
+    "Name": "QUALITAS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317690.KQ",
+    "Name": "QuantaMatrix",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348080.KQ",
+    "Name": "Quratis",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115180.KQ",
+    "Name": "Qurient",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "171010.KQ",
+    "Name": "RAM TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317120.KQ",
+    "Name": "RANIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "232680.KQ",
+    "Name": "RAONTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "418420.KQ",
+    "Name": "RAONTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214260.KQ",
+    "Name": "RAPHAS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "228850.KQ",
+    "Name": "RAYENCE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "361570.KQ",
+    "Name": "RBW",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377450.KQ",
+    "Name": "REFINE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "302550.KQ",
+    "Name": "REMED",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "327260.KQ",
+    "Name": "RF Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474610.KQ",
+    "Name": "RF Systems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "218410.KQ",
+    "Name": "RFHIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "061040.KQ",
+    "Name": "RFTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096610.KQ",
+    "Name": "RFsemi",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "148250.KQ",
+    "Name": "RN2 Technologies",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "108490.KQ",
+    "Name": "ROBOTIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376900.KQ",
+    "Name": "ROKIT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "071280.KQ",
+    "Name": "RORZE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "314140.KQ",
+    "Name": "RPBO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140670.KQ",
+    "Name": "RS Automation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131370.KQ",
+    "Name": "RSUPPORT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217500.KQ",
+    "Name": "RUSSELL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "191410.KQ",
+    "Name": "RYUK-IL C&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "277810.KQ",
+    "Name": "Rainbow Robotics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042510.KQ",
+    "Name": "RaonSecure",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "228670.KQ",
+    "Name": "Ray",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038390.KQ",
+    "Name": "RedcapTour",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "443250.KQ",
+    "Name": "Revu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042500.KQ",
+    "Name": "RingNet",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215100.KQ",
+    "Name": "RoboRobo",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090360.KQ",
+    "Name": "Robostar",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900260.KQ",
+    "Name": "Rothwell",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096630.KQ",
+    "Name": "S Connect",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050760.KQ",
+    "Name": "S polytech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "260970.KQ",
+    "Name": "S&D",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091340.KQ",
+    "Name": "S&K",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101490.KQ",
+    "Name": "S&S TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "103230.KQ",
+    "Name": "S&W Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475660.KQ",
+    "Name": "S-CHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095910.KQ",
+    "Name": "S-ENERGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "304360.KQ",
+    "Name": "S.Biomedics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122690.KQ",
+    "Name": "SAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053060.KQ",
+    "Name": "SAE DONG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "304100.KQ",
+    "Name": "SALTLUX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023600.KQ",
+    "Name": "SAMBO CORR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "009620.KQ",
+    "Name": "SAMBO IND",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053700.KQ",
+    "Name": "SAMBO MOTORS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024950.KQ",
+    "Name": "SAMCHULY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "419530.KQ",
+    "Name": "SAMG ENTERTAINMENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046390.KQ",
+    "Name": "SAMHWA NWS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "437730.KQ",
+    "Name": "SAMHYUN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "002290.KQ",
+    "Name": "SAMIL ENTERPRISE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037460.KQ",
+    "Name": "SAMJI ELECT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054090.KQ",
+    "Name": "SAMJIN LND",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122350.KQ",
+    "Name": "SAMKEE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "419050.KQ",
+    "Name": "SAMKEE ENERGY SOLUTIONS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018310.KQ",
+    "Name": "SAMMOK S-FORM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038500.KQ",
+    "Name": "SAMPYO Cement",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017480.KQ",
+    "Name": "SAMSCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "448740.KQ",
+    "Name": "SAMSUNG SPAC VIII",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "031330.KQ",
+    "Name": "SAMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "482630.KQ",
+    "Name": "SAMYANG NC Chem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "361670.KQ",
+    "Name": "SAMYOUNG S&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "411080.KQ",
+    "Name": "SANDS LAB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "091580.KQ",
+    "Name": "SANGSIN EDP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "188260.KQ",
+    "Name": "SANIGEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452430.KQ",
+    "Name": "SAPIEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060540.KQ",
+    "Name": "SAT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088280.KQ",
+    "Name": "SAWNICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389500.KQ",
+    "Name": "SBB TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019550.KQ",
+    "Name": "SBI Investment KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027580.KQ",
+    "Name": "SBK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086710.KQ",
+    "Name": "SBS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080470.KQ",
+    "Name": "SCAutotech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "000250.KQ",
+    "Name": "SCD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042110.KQ",
+    "Name": "SCD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "246960.KQ",
+    "Name": "SCL Science",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "298060.KQ",
+    "Name": "SCM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217480.KQ",
+    "Name": "SDBIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099220.KQ",
+    "Name": "SDN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "121890.KQ",
+    "Name": "SDSYSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "011560.KQ",
+    "Name": "SEBO MEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "081180.KQ",
+    "Name": "SEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340810.KQ",
+    "Name": "SECERN AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131090.KQ",
+    "Name": "SECUVE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096530.KQ",
+    "Name": "SEEGENE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "458870.KQ",
+    "Name": "SEERS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067770.KQ",
+    "Name": "SEJINTS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "258830.KQ",
+    "Name": "SEJONG MEDICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036630.KQ",
+    "Name": "SEJONG TELECOM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039310.KQ",
+    "Name": "SEJOONG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053450.KQ",
+    "Name": "SEKONIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "108860.KQ",
+    "Name": "SELVAS AI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208370.KQ",
+    "Name": "SELVAS Healthcare",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "252990.KQ",
+    "Name": "SEMCNS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347000.KQ",
+    "Name": "SENKO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035890.KQ",
+    "Name": "SEOHEE CONSTRUCTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "178320.KQ",
+    "Name": "SEOJIN SYSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018680.KQ",
+    "Name": "SEOUL PHARMA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092190.KQ",
+    "Name": "SEOUL VIOSYS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043710.KQ",
+    "Name": "SEOULEAGUER",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019770.KQ",
+    "Name": "SEOYON TOPMETAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340440.KQ",
+    "Name": "SERIM B&G",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042600.KQ",
+    "Name": "SERONICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "027040.KQ",
+    "Name": "SET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049830.KQ",
+    "Name": "SEUNG IL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "252500.KQ",
+    "Name": "SEWHA P&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100700.KQ",
+    "Name": "SEWOONMEDICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056190.KQ",
+    "Name": "SFA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036540.KQ",
+    "Name": "SFASemicon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "288620.KQ",
+    "Name": "SFC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089980.KQ",
+    "Name": "SFTC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "255220.KQ",
+    "Name": "SG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040610.KQ",
+    "Name": "SG&G",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049470.KQ",
+    "Name": "SGA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "184230.KQ",
+    "Name": "SGA Solutions",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "016250.KQ",
+    "Name": "SGC E&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "398120.KQ",
+    "Name": "SGHC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "162300.KQ",
+    "Name": "SHIN STEEL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290520.KQ",
+    "Name": "SHINDO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "243840.KQ",
+    "Name": "SHINHEUNG SEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056700.KQ",
+    "Name": "SHINWHA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086980.KQ",
+    "Name": "SHOWBOX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "472220.KQ",
+    "Name": "SHT-10 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "430220.KQ",
+    "Name": "SHT-8 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065420.KQ",
+    "Name": "SI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099320.KQ",
+    "Name": "SI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "020710.KQ",
+    "Name": "SIGONG TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025870.KQ",
+    "Name": "SILLA SG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222800.KQ",
+    "Name": "SIMMTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036710.KQ",
+    "Name": "SIMMTECH HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "138070.KQ",
+    "Name": "SINJIN SM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "002800.KQ",
+    "Name": "SINSIN PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290560.KQ",
+    "Name": "SINSIWAY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036120.KQ",
+    "Name": "SIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "189860.KQ",
+    "Name": "SJEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "306040.KQ",
+    "Name": "SJG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "457940.KQ",
+    "Name": "SK Securities No.10 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "472230.KQ",
+    "Name": "SK Securities No.11 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "473000.KQ",
+    "Name": "SK Securities No.12 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "473950.KQ",
+    "Name": "SK Securities No.13 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "455910.KQ",
+    "Name": "SK Securities No.9 SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "357880.KQ",
+    "Name": "SKAI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014620.KQ",
+    "Name": "SKB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "276040.KQ",
+    "Name": "SKONEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "246250.KQ",
+    "Name": "SLSBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048550.KQ",
+    "Name": "SM C&C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "063440.KQ",
+    "Name": "SM Life Design",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007820.KQ",
+    "Name": "SMC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "460870.KQ",
+    "Name": "SMCG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041510.KQ",
+    "Name": "SME",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099440.KQ",
+    "Name": "SMEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100660.KQ",
+    "Name": "SMI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038680.KQ",
+    "Name": "SNET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "258790.KQ",
+    "Name": "SOFTCAMP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032680.KQ",
+    "Name": "SOFTCEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032685.KQ",
+    "Name": "SOFTCEN(1P)",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "035610.KQ",
+    "Name": "SOLBORN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290690.KQ",
+    "Name": "SOLUX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007720.KQ",
+    "Name": "SONO SQUARE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066910.KQ",
+    "Name": "SONOKONG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067160.KQ",
+    "Name": "SOOP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050960.KQ",
+    "Name": "SOOSAN INT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464080.KQ",
+    "Name": "SOSLAB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "058610.KQ",
+    "Name": "SPG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317830.KQ",
+    "Name": "SPSystems",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "443670.KQ",
+    "Name": "SPsoft",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046890.KQ",
+    "Name": "SSC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065350.KQ",
+    "Name": "SSDELTATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "275630.KQ",
+    "Name": "SSR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "237690.KQ",
+    "Name": "ST Pharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060240.KQ",
+    "Name": "STACO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115570.KQ",
+    "Name": "STARFLEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052020.KQ",
+    "Name": "STCUBE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "039440.KQ",
+    "Name": "STI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "098660.KQ",
+    "Name": "STO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204630.KQ",
+    "Name": "STUDIO SANTA CLAUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234300.KQ",
+    "Name": "STraffic",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "003100.KQ",
+    "Name": "SUN KWANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037350.KQ",
+    "Name": "SUNGDO ENG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043260.KQ",
+    "Name": "SUNGHO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "458650.KQ",
+    "Name": "SUNGWOO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "081580.KQ",
+    "Name": "SUNGWOO ELEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045300.KQ",
+    "Name": "SUNGWOOTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "171090.KQ",
+    "Name": "SUNIC SYSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019590.KQ",
+    "Name": "SUNP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "321370.KQ",
+    "Name": "SV",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "289080.KQ",
+    "Name": "SV INVESTMENT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "015750.KQ",
+    "Name": "SW HITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "093920.KQ",
+    "Name": "SWIT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "109610.KQ",
+    "Name": "SY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "365330.KQ",
+    "Name": "SY STEEL TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054540.KQ",
+    "Name": "SYMTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234030.KQ",
+    "Name": "SYNIC SOLUTION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "269620.KQ",
+    "Name": "SYSWORK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "328380.KQ",
+    "Name": "Saltware",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "009300.KQ",
+    "Name": "Sam-A Pharm.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032280.KQ",
+    "Name": "SamIl",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032750.KQ",
+    "Name": "Samjin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014970.KQ",
+    "Name": "Samryoong",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036670.KQ",
+    "Name": "Samyang KCI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065570.KQ",
+    "Name": "Samyung ENC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "419120.KQ",
+    "Name": "Sandoll",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042940.KQ",
+    "Name": "Sangji Construction",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038540.KQ",
+    "Name": "Sangsangin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452670.KQ",
+    "Name": "Sangsangin SPAC IV",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263810.KQ",
+    "Name": "Sangshin Electronics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "143240.KQ",
+    "Name": "Saramin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "148150.KQ",
+    "Name": "Se Gyung Hi Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "396300.KQ",
+    "Name": "SeA Mechanics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "107600.KQ",
+    "Name": "Sebitchem",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "418250.KQ",
+    "Name": "SecuLetter",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017510.KQ",
+    "Name": "SemyungElec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "006730.KQ",
+    "Name": "Seobu T&D",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "011370.KQ",
+    "Name": "Seohan",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065710.KQ",
+    "Name": "Seoho",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079650.KQ",
+    "Name": "Seosan",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038070.KQ",
+    "Name": "SeouLin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "063170.KQ",
+    "Name": "Seoul Auction",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "222810.KQ",
+    "Name": "Setopia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234100.KQ",
+    "Name": "Sewon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024830.KQ",
+    "Name": "SewonCorp",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "378800.KQ",
+    "Name": "Shaperon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187270.KQ",
+    "Name": "Shin Hwa Contech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "452980.KQ",
+    "Name": "Shinhan 11th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474660.KQ",
+    "Name": "Shinhan 12th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474930.KQ",
+    "Name": "Shinhan 13th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "487360.KQ",
+    "Name": "Shinhan 14th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "487830.KQ",
+    "Name": "Shinhan 15th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "496070.KQ",
+    "Name": "Shinhan 16th SPAC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "012790.KQ",
+    "Name": "Shinil Pharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "416180.KQ",
+    "Name": "Shinsung ST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "017000.KQ",
+    "Name": "ShinwonConst",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "429270.KQ",
+    "Name": "Sigetronics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033170.KQ",
+    "Name": "Signetics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "257720.KQ",
+    "Name": "Silicon2",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215600.KQ",
+    "Name": "SillaJen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "001000.KQ",
+    "Name": "SillaTextile",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "444530.KQ",
+    "Name": "Simplatform",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "424960.KQ",
+    "Name": "Smart Radar System",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215090.KQ",
+    "Name": "SolDefense",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "050890.KQ",
+    "Name": "Solid",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060230.KQ",
+    "Name": "Sonid",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084180.KQ",
+    "Name": "Soosung Webtoon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "357780.KQ",
+    "Name": "Soulbrain",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036830.KQ",
+    "Name": "Soulbrain Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013810.KQ",
+    "Name": "Speco",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "347700.KQ",
+    "Name": "Sphere",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "192440.KQ",
+    "Name": "Spigen Korea",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "330730.KQ",
+    "Name": "Stonebridge Ventures",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "352090.KQ",
+    "Name": "Stormtec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "253450.KQ",
+    "Name": "Studio Dragon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "415380.KQ",
+    "Name": "Studio Samick",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "294630.KQ",
+    "Name": "SuNAM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "253840.KQ",
+    "Name": "Sugentech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "357550.KQ",
+    "Name": "Sukgyung",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067370.KQ",
+    "Name": "SunBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "365340.KQ",
+    "Name": "SungEel HiTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217620.KQ",
+    "Name": "Sunshine Food",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "236200.KQ",
+    "Name": "Suprema",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094840.KQ",
+    "Name": "Suprema HQ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "298830.KQ",
+    "Name": "Suresoft",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "140070.KQ",
+    "Name": "SurplusGLOBAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "466410.KQ",
+    "Name": "Synapsoft",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048870.KQ",
+    "Name": "Synergy Innovation",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "025320.KQ",
+    "Name": "Synopex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "226330.KQ",
+    "Name": "SyntekaBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "057680.KQ",
+    "Name": "T Scientific",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340570.KQ",
+    "Name": "T&L",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "246710.KQ",
+    "Name": "T&R Biofab",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "117730.KQ",
+    "Name": "T-ROBOTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "204610.KQ",
+    "Name": "T3",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "323280.KQ",
+    "Name": "TAESUNG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044490.KQ",
+    "Name": "TAEWOONG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053620.KQ",
+    "Name": "TAEYANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "033830.KQ",
+    "Name": "TBC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "125020.KQ",
+    "Name": "TC Materials",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064760.KQ",
+    "Name": "TCK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464280.KQ",
+    "Name": "TDSPHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "200230.KQ",
+    "Name": "TELCON RF PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "425040.KQ",
+    "Name": "TEMC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241790.KQ",
+    "Name": "TEMC CNS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073640.KQ",
+    "Name": "TERA SCIENCE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095610.KQ",
+    "Name": "TES",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "425420.KQ",
+    "Name": "TFE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214610.KQ",
+    "Name": "THE BioMed",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "224060.KQ",
+    "Name": "THE CODI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "013720.KQ",
+    "Name": "THE CUBE&",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089230.KQ",
+    "Name": "THE E&M",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066700.KQ",
+    "Name": "THERAGEN ETEX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032540.KQ",
+    "Name": "TJ MEDIA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104480.KQ",
+    "Name": "TK CHEMICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "023160.KQ",
+    "Name": "TKCORP.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "022220.KQ",
+    "Name": "TKG AIKANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "356860.KQ",
+    "Name": "TLB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131100.KQ",
+    "Name": "TN entertainment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "298540.KQ",
+    "Name": "TNH CO., LTD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079970.KQ",
+    "Name": "TOBESOFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215480.KQ",
+    "Name": "TOEBOX KOREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "393210.KQ",
+    "Name": "TOMATOSYSTEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "475960.KQ",
+    "Name": "TOMOCUBE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "228340.KQ",
+    "Name": "TONGYANG PILE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065130.KQ",
+    "Name": "TOP ENG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "360070.KQ",
+    "Name": "TOP MATERIAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "108230.KQ",
+    "Name": "TOPTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051360.KQ",
+    "Name": "TOVIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048770.KQ",
+    "Name": "TPC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "130740.KQ",
+    "Name": "TPC Global",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "417790.KQ",
+    "Name": "TRUEN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043220.KQ",
+    "Name": "TS Nexgen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317240.KQ",
+    "Name": "TS Trillion",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045340.KQ",
+    "Name": "TSB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "026150.KQ",
+    "Name": "TSConstruct",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "131290.KQ",
+    "Name": "TSE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "277880.KQ",
+    "Name": "TSI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "246690.KQ",
+    "Name": "TSInvestment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "290090.KQ",
+    "Name": "TWIM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "484810.KQ",
+    "Name": "TXR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "124560.KQ",
+    "Name": "Taewoong Logistics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "010170.KQ",
+    "Name": "TaihanFiberoptics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064520.KQ",
+    "Name": "TechL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089030.KQ",
+    "Name": "Techwing",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "191420.KQ",
+    "Name": "Tego",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054450.KQ",
+    "Name": "Telechips",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032860.KQ",
+    "Name": "The Lamy",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043090.KQ",
+    "Name": "The Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084730.KQ",
+    "Name": "Thinkware",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "208640.KQ",
+    "Name": "Thumbage",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "219130.KQ",
+    "Name": "TigerElec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "321550.KQ",
+    "Name": "TiumBio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "199800.KQ",
+    "Name": "ToolGen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "336680.KQ",
+    "Name": "Top Run Total Solution",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "134580.KQ",
+    "Name": "Topco Media",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "081150.KQ",
+    "Name": "Tplex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069330.KQ",
+    "Name": "U.I.DISPLAY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "221800.KQ",
+    "Name": "U2BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032620.KQ",
+    "Name": "UBCARE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "084440.KQ",
+    "Name": "UBION",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089850.KQ",
+    "Name": "UBIVELOX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389680.KQ",
+    "Name": "UDMTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049520.KQ",
+    "Name": "UIL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065680.KQ",
+    "Name": "UJU",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "011320.KQ",
+    "Name": "UNICK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080720.KQ",
+    "Name": "UNION KOREA PHARM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "203450.KQ",
+    "Name": "UNION biometrics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036200.KQ",
+    "Name": "UNISEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018000.KQ",
+    "Name": "UNISON",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "241690.KQ",
+    "Name": "UNITEKNO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "088340.KQ",
+    "Name": "URACLE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "263770.KQ",
+    "Name": "UST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "179900.KQ",
+    "Name": "UTI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "264450.KQ",
+    "Name": "Ubiquoss",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "078070.KQ",
+    "Name": "Ubiquoss Holdings",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "086390.KQ",
+    "Name": "UniTest",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "142210.KQ",
+    "Name": "Unitrontech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "251630.KQ",
+    "Name": "V-ONE TECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "301300.KQ",
+    "Name": "VAIV company",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "331520.KQ",
+    "Name": "VALOFE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043150.KQ",
+    "Name": "VATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "365900.KQ",
+    "Name": "VC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "457600.KQ",
+    "Name": "VECT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065450.KQ",
+    "Name": "VICTEK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "126340.KQ",
+    "Name": "VINATECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "335890.KQ",
+    "Name": "VIOL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "438700.KQ",
+    "Name": "VIRNECT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072950.KQ",
+    "Name": "VISSEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082920.KQ",
+    "Name": "VITCELL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082800.KQ",
+    "Name": "VIVOZON PHARMACEUTICAL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089970.KQ",
+    "Name": "VM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "310210.KQ",
+    "Name": "VRNI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018290.KQ",
+    "Name": "VT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "338220.KQ",
+    "Name": "VUNO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "323990.KQ",
+    "Name": "Vaxcell-Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019010.KQ",
+    "Name": "VenueG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "094850.KQ",
+    "Name": "Very Good Tour",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "177350.KQ",
+    "Name": "Vessel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "308080.KQ",
+    "Name": "ViGenCell",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "141000.KQ",
+    "Name": "Viatron",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "121800.KQ",
+    "Name": "Vidente",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "100120.KQ",
+    "Name": "Vieworks",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "042370.KQ",
+    "Name": "Vitzro Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054220.KQ",
+    "Name": "VitzroSys",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215360.KQ",
+    "Name": "W.I.C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072470.KQ",
+    "Name": "W.I.H.C",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "196700.KQ",
+    "Name": "WAPS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079000.KQ",
+    "Name": "WATOS COREA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "095270.KQ",
+    "Name": "WAVE ELECTRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "393890.KQ",
+    "Name": "WCP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "403490.KQ",
+    "Name": "WDG Farm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "076080.KQ",
+    "Name": "WELCRON HANTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043590.KQ",
+    "Name": "WELKEEPS HITECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101970.KQ",
+    "Name": "WHC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104830.KQ",
+    "Name": "WIMCO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "900340.KQ",
+    "Name": "WING YIP FOOD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "335870.KQ",
+    "Name": "WINGS FOOT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "377460.KQ",
+    "Name": "WINIA AID",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "044340.KQ",
+    "Name": "WINIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "136540.KQ",
+    "Name": "WINS Technet",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065370.KQ",
+    "Name": "WISE iTech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "096250.KQ",
+    "Name": "WISEnut",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "348350.KQ",
+    "Name": "WITHTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "459100.KQ",
+    "Name": "WITS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038620.KQ",
+    "Name": "WIZ",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036090.KQ",
+    "Name": "WIZIT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "014190.KQ",
+    "Name": "WONIK CUBE Corp.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "030530.KQ",
+    "Name": "WONIK HOLDINGS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "240810.KQ",
+    "Name": "WONIK IPS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "217820.KQ",
+    "Name": "WONIK PNE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "074600.KQ",
+    "Name": "WONIK QnC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "136150.KQ",
+    "Name": "WONILTNI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "336570.KQ",
+    "Name": "WONTECH",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "018620.KQ",
+    "Name": "WOOGENE B&G",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "457550.KQ",
+    "Name": "WOOJIN Ntec",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215380.KQ",
+    "Name": "WOOJUNG BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "082850.KQ",
+    "Name": "WOOREE BIO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "153490.KQ",
+    "Name": "WOOREE E&L",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "037400.KQ",
+    "Name": "WOOREE ENTERPRISE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101170.KQ",
+    "Name": "WOORIM PTS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046970.KQ",
+    "Name": "WOORIRO",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "073560.KQ",
+    "Name": "WOORISON F&G",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "103840.KQ",
+    "Name": "WOOYANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "396470.KQ",
+    "Name": "WOT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "008290.KQ",
+    "Name": "WPMulsan",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "066590.KQ",
+    "Name": "WSA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "299170.KQ",
+    "Name": "WSI",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "041190.KQ",
+    "Name": "WTIC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "299900.KQ",
+    "Name": "WYSIWYG STUDIOS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "376980.KQ",
+    "Name": "Wanted Lab",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "289930.KQ",
+    "Name": "Wavice",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "336060.KQ",
+    "Name": "Wavus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053580.KQ",
+    "Name": "WebCash",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069080.KQ",
+    "Name": "Webzen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065950.KQ",
+    "Name": "Welcron",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "112040.KQ",
+    "Name": "Wemade",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101730.KQ",
+    "Name": "Wemade Max",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123420.KQ",
+    "Name": "Wemade Play",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122990.KQ",
+    "Name": "WiSoL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "065530.KQ",
+    "Name": "Wiable",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "192390.KQ",
+    "Name": "Winhitech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "479960.KQ",
+    "Name": "Winners",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "097800.KQ",
+    "Name": "Winpac",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "273060.KQ",
+    "Name": "Wise birds",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "330350.KQ",
+    "Name": "Withus Pharm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032940.KQ",
+    "Name": "WonIk",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "307280.KQ",
+    "Name": "Wonbiogen",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "012620.KQ",
+    "Name": "Wonil",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "008370.KQ",
+    "Name": "Wonpoong",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "115440.KQ",
+    "Name": "WooriNet",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "032820.KQ",
+    "Name": "WooriTG, Inc.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "046940.KQ",
+    "Name": "Woowon Development",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "101160.KQ",
+    "Name": "Worldex",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "254120.KQ",
+    "Name": "XAVIS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "337930.KQ",
+    "Name": "XEXYMIX",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "189330.KQ",
+    "Name": "XIIlab",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "205100.KQ",
+    "Name": "XM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "373110.KQ",
+    "Name": "Xcell Therapeutics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "070300.KQ",
+    "Name": "Xcure",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "317770.KQ",
+    "Name": "Xperix",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "373200.KQ",
+    "Name": "Xplus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "338840.KQ",
+    "Name": "Y-Biologics",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "067900.KQ",
+    "Name": "Y-ENTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "255440.KQ",
+    "Name": "YAS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "057030.KQ",
+    "Name": "YBM NET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "104620.KQ",
+    "Name": "YBTOUR",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "232140.KQ",
+    "Name": "YCC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "112290.KQ",
+    "Name": "YCCHEM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "146060.KQ",
+    "Name": "YCPIPE",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "053280.KQ",
+    "Name": "YES24",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122640.KQ",
+    "Name": "YEST",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "340930.KQ",
+    "Name": "YET",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "122870.KQ",
+    "Name": "YG Entertainment",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "019210.KQ",
+    "Name": "YG-1",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "265560.KQ",
+    "Name": "YHTEC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "209640.KQ",
+    "Name": "YJ LINK",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "432430.KQ",
+    "Name": "YLAB",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "007530.KQ",
+    "Name": "YM",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "273640.KQ",
+    "Name": "YM Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "155650.KQ",
+    "Name": "YMC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "251370.KQ",
+    "Name": "YMT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "024800.KQ",
+    "Name": "YOOSUNG T&S",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "372170.KQ",
+    "Name": "YSFC Co.,Ltd",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040300.KQ",
+    "Name": "YTN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "388720.KQ",
+    "Name": "YUIL",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "240600.KQ",
+    "Name": "YUJIN TECHNOLOGY",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048430.KQ",
+    "Name": "YURA TECH.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "051390.KQ",
+    "Name": "YW CO.,LTD",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "143540.KQ",
+    "Name": "YWDSP",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "030960.KQ",
+    "Name": "Yangjisa",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "250930.KQ",
+    "Name": "YeSUN Tech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036000.KQ",
+    "Name": "YeaRimDang",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "054930.KQ",
+    "Name": "Yooshin",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "060850.KQ",
+    "Name": "YoungLimWon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "444920.KQ",
+    "Name": "Yuanta SPAC 11",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "446150.KQ",
+    "Name": "Yuanta SPAC 12",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "449020.KQ",
+    "Name": "Yuanta SPAC 13",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "450940.KQ",
+    "Name": "Yuanta SPAC 14",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "473050.KQ",
+    "Name": "Yuanta SPAC 15",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "474490.KQ",
+    "Name": "Yuanta SPAC 16",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "493790.KQ",
+    "Name": "Yuanta SPAC 17",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "056080.KQ",
+    "Name": "Yujin Robot",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072770.KQ",
+    "Name": "Yulho",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "381620.KQ",
+    "Name": "ZENIX ROBOTICS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "079370.KQ",
+    "Name": "ZEUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "045510.KQ",
+    "Name": "ZWNS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "234920.KQ",
+    "Name": "Zaigle",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "389020.KQ",
+    "Name": "Zaram Technology",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "303030.KQ",
+    "Name": "Zinitix Co.,Ltd.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "294570.KQ",
+    "Name": "coocon",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021040.KQ",
+    "Name": "dhSteel",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "021045.KQ",
+    "Name": "dhSteel(1P)",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "464580.KQ",
+    "Name": "dotmill",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "092130.KQ",
+    "Name": "e-Credible",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "134060.KQ",
+    "Name": "e-future",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "080010.KQ",
+    "Name": "eSANG",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099750.KQ",
+    "Name": "ezCaretech",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "186230.KQ",
+    "Name": "greenplus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "064240.KQ",
+    "Name": "homecast",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "187660.KQ",
+    "Name": "hyundaiadm",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "099190.KQ",
+    "Name": "i-SENS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "289010.KQ",
+    "Name": "i-Scream Edu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "461300.KQ",
+    "Name": "i-Scream Media",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "214430.KQ",
+    "Name": "i3system",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "038880.KQ",
+    "Name": "iA",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052460.KQ",
+    "Name": "iCRAFT",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "052220.KQ",
+    "Name": "iMBC",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "048530.KQ",
+    "Name": "iNtRON Bio",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "090150.KQ",
+    "Name": "iWIN",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "123010.KQ",
+    "Name": "iWIN PLUS",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "068330.KQ",
+    "Name": "ilShinbiobase Co., Ltd.",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "040420.KQ",
+    "Name": "jls",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "036030.KQ",
+    "Name": "kt alpha",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "043610.KQ",
+    "Name": "kt genie music",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "418470.KQ",
+    "Name": "kt millie seojae",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "089600.KQ",
+    "Name": "kt nasmedia",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "049950.KQ",
+    "Name": "meerecompany",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "072870.KQ",
+    "Name": "megastudy",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "215200.KQ",
+    "Name": "megastudyEdu",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "259630.KQ",
+    "Name": "mplus",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "069410.KQ",
+    "Name": "nTels",
+    "Exchange": "KOSDAQ"
+  },
+  {
+    "Symbol": "365270.KQ",
+    "Name": "the curacle",
+    "Exchange": "KOSDAQ"
+  }
+]
