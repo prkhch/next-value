@@ -1,10 +1,12 @@
 "use client";
 // import { useRouter } from "next/navigation"; // https://velog.io/@meek/Error-NextRouter-was-not-mounted-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
 import { useEffect, useState } from "react";
+import { getSearchResult } from "@/utils/fetchSearch";
 
 const SearchBar = () => {
   const [input, setInput] = useState("");
 
+  // 검색한 종목 검색창에 자동 입력
   useEffect(() => {
     if (typeof window !== "undefined") {
       const params = new URLSearchParams(window.location.search);
@@ -14,6 +16,16 @@ const SearchBar = () => {
       }
     }
   }, []);
+
+  // https://1two13.tistory.com/entry/JS-Promise%EC%97%90%EC%84%9C-PromiseResult-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%BA%BC%EB%82%B4%EB%8A%94-%EB%B2%95
+  useEffect(() => {
+    async function getPromise(input: string) {
+      const res = await getSearchResult({ query: input });
+      console.log(res.searchRes);
+    }
+
+    getPromise(input);
+  }, [input]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
