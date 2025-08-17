@@ -1,7 +1,7 @@
 export async function getSearchResult({ query }: { query: string }) {
   const response = await fetch(
-    `http://localhost:3000/api/search?query=${query}`,
-    // `https://nextvalue.vercel.app/api/search?query=${query}`,
+    // `http://localhost:3000/api/search?query=${query}`,
+    `https://nextvalue.vercel.app/api/search?query=${query}`,
     {
       method: "GET",
     }
