@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import PriceChart from "@/components/PriceChart";
-import { getClosingPrice } from "@/utils/fetchStock";
+import { getClosingPrice } from "@/utils/fetchChart";
 import handleForamatDate from "@/utils/handleForamatDate";
 import SearchBar from "@/components/SearchBar";
 import Logo from "@/components/Logo";

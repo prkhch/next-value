@@ -5,12 +5,12 @@ export async function GET(request: NextRequest) {
   const symbol = searchParams.get("symbol");
   // const range = searchParams.get("range");
   const interval = "1d"; // 일일 주가
-  const stockRes = await fetch(
+  const chartRes = await fetch(
     `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=${interval}&range=10y`,
     {
       method: "GET",
     }
   );
-  const res = await stockRes.json();
+  const res = await chartRes.json();
   return Response.json({ res });
 }
