@@ -122,7 +122,12 @@ const PriceChart = ({
     <div className="w-full h-[50vh]">
       <canvas ref={canvasEl} />
       <div className="flex justify-center items-center gap-4 mt-4">
-        <ForcastingForm symbol={symbol} range={range} setRange={setRange} />
+        <ForcastingForm
+          symbol={symbol}
+          range={range}
+          setRange={setRange}
+          currency={currency}
+        />
       </div>
     </div>
   );
