@@ -1,10 +1,11 @@
 "use client";
 // import { useRouter } from "next/navigation"; // https://velog.io/@meek/Error-NextRouter-was-not-mounted-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
 import { useEffect, useState } from "react";
-import { getSearchResult } from "@/utils/fetchSearch";
+import SearchDropdown from "@/components/SearchDropdown";
 
 const SearchBar = () => {
   const [input, setInput] = useState("");
+  const [focused, setFocused] = useState(false);
 
   // 검색한 종목 검색창에 자동 입력
   useEffect(() => {
@@ -17,20 +18,8 @@ const SearchBar = () => {
     }
   }, []);
 
-  // https://1two13.tistory.com/entry/JS-Promise%EC%97%90%EC%84%9C-PromiseResult-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%BA%BC%EB%82%B4%EB%8A%94-%EB%B2%95
-  useEffect(() => {
-    async function getPromise(input: string) {
-      const res = await getSearchResult({ query: input });
-      console.log(res.searchRes);
-    }
-
-    getPromise(input);
-  }, [input]);
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const activeElement = document.activeElement as HTMLElement;
-    if (activeElement.id !== "search") return;
 
     if (input.trim()) {
       //   router.push(`/chart?symbol=${input.trim()}`);
@@ -38,16 +27,16 @@ const SearchBar = () => {
       // 서버 컴포넌트인 /chart 페이지의 데이터 로딩이 재실행되지 않음.
       // 이로 인해 /chart 페이지가 이미 렌더된 상태에서 NotFound 컴포넌트가 계속 보이게 됨.`
 
+      window.location.href = `/chart?symbol=${input.trim()}`;
       // window.location.href를 사용하면 전체 새로고침이 발생하여,
       // /chart 페이지의 서버 컴포넌트가 새롭게 SSR 렌더링되며 올바른 데이터 fetch 및 notFound 판단이 가능해짐.
-      window.location.href = `/chart?symbol=${input.trim()}`;
     }
   };
 
   return (
     <>
       {/* https://flowbite.com/docs/forms/input-field/ */}
-      <form onSubmit={handleSubmit} className="m-3 w-xs mx-auto">
+      <form onSubmit={handleSubmit} className="mt-3 w-xs mx-auto">
         <label
           htmlFor="search"
           className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
@@ -78,11 +67,14 @@ const SearchBar = () => {
             className="block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
             placeholder="Symbol"
             required
+            autoComplete="off"
             value={input}
             onChange={(e) => setInput(e.target.value)}
+            onFocus={() => setFocused(true)}
           />
         </div>
       </form>
+      <SearchDropdown input={input} focused={focused} />
     </>
   );
 };

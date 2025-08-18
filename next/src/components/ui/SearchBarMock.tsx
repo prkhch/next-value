@@ -8,7 +8,7 @@ const SearchBarMock = () => {
         Search
       </label>
       <div className="relative w-48 md:w-full">
-        <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
+        <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none z-0">
           <svg
             className="w-4 h-4 text-gray-500 dark:text-gray-400"
             aria-hidden="true"

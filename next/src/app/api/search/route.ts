@@ -13,11 +13,12 @@ export async function GET(request: NextRequest) {
     .filter((data) => {
       const symbol = data.Symbol.toLowerCase();
       const name = data.Name.toLowerCase();
-      return symbol.startsWith(query) || name.includes(query);
+
+      return symbol.startsWith(query) || name.startsWith(query);
     })
-    // 데이터셋 이미 정렬됌. slice 0~5
-    .slice(0, 5)
-    // 키값 Symbol -> symbol
+    // 정렬 필요
+    .slice(0, 10)
+    // 키값 Pascal -> lowercase
     .map((data) => ({
       symbol: data.Symbol,
       name: data.Name,
