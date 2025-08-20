@@ -13,7 +13,7 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   // https://eslint.org/docs/latest/use/configure/ignore
-  defineConfig([globalIgnores(["**/lib/generated/"])]),
+  defineConfig([globalIgnores(["**/lib/prisma.ts"])]),
 ];
 
 export default eslintConfig;
