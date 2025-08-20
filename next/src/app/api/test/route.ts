@@ -12,16 +12,16 @@
 //   });
 // }
 
-// Quickstart 4.Query database
-import prisma from "@/lib/prisma";
+// ######## Quickstart 4.Query database ###############
+// import prisma from "@/lib/prisma";
 import { NextResponse } from "next/server";
 
-export async function GET() {
-  console.log("@@@@GET");
-  // Fetch paginated posts
-  const users = await prisma.user.findMany({
-    where: {},
-  });
+// export async function GET() {
+//   console.log("@@@@GET");
+//   // Fetch paginated posts
+//   const users = await prisma.user.findMany({
+//     where: {},
+//   });
 
-  return NextResponse.json({ users });
-}
+//   return NextResponse.json({ users });
+// }
