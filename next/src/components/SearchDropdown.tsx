@@ -20,7 +20,7 @@ const Searchdropdown = ({
 
   // https://1two13.tistory.com/entry/JS-Promise%EC%97%90%EC%84%9C-PromiseResult-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%BA%BC%EB%82%B4%EB%8A%94-%EB%B2%95
   useEffect(() => {
-    console.log(input);
+    if (input.length < 2) return;
 
     async function getPromise(input: string) {
       const res = await getSearchResult({ query: input });
