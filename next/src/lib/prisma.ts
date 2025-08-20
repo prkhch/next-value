@@ -1,10 +1,12 @@
-import { PrismaClient } from "./generated/prisma-client";
-import { withAccelerate } from "@prisma/extension-accelerate";
+// https://github.com/vercel/next.js/blob/canary/examples/prisma-postgres/lib/prisma.ts
 
-const prisma = new PrismaClient().$extends(withAccelerate());
+// import { PrismaClient } from "./generated/prisma-client";
+// import { withAccelerate } from "@prisma/extension-accelerate";
 
-const globalForPrisma = global as unknown as { prisma: typeof prisma };
+// const prisma = new PrismaClient().$extends(withAccelerate());
 
-if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
+// const globalForPrisma = global as unknown as { prisma: typeof prisma };
 
-export default prisma;
+// if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
+
+// export default prisma;
