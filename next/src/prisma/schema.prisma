@@ -12,10 +12,35 @@ generator client {
   output   = "../lib/generated/prisma-client"
 }
 
-// Example data model
-model User {
-  id        Int      @id @default(autoincrement())
+// data model
+model Stock {
+  id Int @id @default(autoincrement())
+
+  symbol String
+  name String
+  exchange String? // 거래소
+
   createdAt DateTime @default(now())
-  email     String   @unique
-  name      String?
+  updatedAt DateTime @updatedAt
+  deletedAt DateTime?
+
+  History History[]
+}
+
+model History {
+  id Int @id @default(autoincrement())
+
+  stockId Int
+  stock Stock @relation(fields: [stockId], references: [id])
+  predictedPrice Decimal
+  model String @default("prophet@1.1.5")
+
+  // 예측 구간(영업일 기준)
+  range Int 
+  startDate DateTime?
+  endDate DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  deletedAt DateTime?
 }

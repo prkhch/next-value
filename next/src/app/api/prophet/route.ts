@@ -1,4 +1,16 @@
 import { NextRequest } from "next/server";
+import prisma from "@/lib/prisma";
+
+type FlaskResp = {
+  symbol: string; // ok
+  name?: string; // flask
+  exchange?: string; // json?!
+  predictedPrice: number; // front (chartPage fullExchangeName)
+  model: string; // default
+  range: number; // ok
+  startDate?: string; // flask
+  endDate?: string; // flask
+};
 
 // https://sangsangjin.tistory.com/29
 export async function GET(request: NextRequest) {
